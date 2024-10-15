@@ -1,0 +1,1723 @@
+,nombre_Municipio,latitud,longitud,categoria,nombre_Lugar,direccion,distancia
+0,La Acebeda,41.0869583,-3.624399,13065,La Posada de los Vientos,"Calle Encerradero, 2",36
+1,La Acebeda,41.0869583,-3.624399,13065,El Acebo,"Calle Puerto, 2",113
+2,Ajalvir,40.5342302,-3.4807818,16032,Chiquitin,Ajalvir Madrid,333
+3,Ajalvir,40.5342302,-3.4807818,16032,Diverjungla,"Calle Segovia, 20",563
+4,Ajalvir,40.5342302,-3.4807818,16032,Parque Infantil,,1724
+5,Ajalvir,40.5342302,-3.4807818,13065,Bar Manolo,"Plaza de la Villa, 5",58
+6,Ajalvir,40.5342302,-3.4807818,13065,Jurassic Pan,"Carretera de Daganzo, 17",148
+7,Ajalvir,40.5342302,-3.4807818,13065,Bar Julio's,"Calle Real, 1",257
+8,Ajalvir,40.5342302,-3.4807818,13065,Restaurante el Timon,"Soria, 1",344
+9,Ajalvir,40.5342302,-3.4807818,13065,Martinez Villa Antonio,"Calle Senderillo, 2",404
+10,Ajalvir,40.5342302,-3.4807818,13065,Be Fast Pan & Pasteles,"Calle Segovia, 6",505
+11,Ajalvir,40.5342302,-3.4807818,13065,Risi,"Calle Severo Ochoa, 2",1491
+12,Ajalvir,40.5342302,-3.4807818,13065,Telepizza,"Severo Ochoa Polígono Industrial Gitesa, 1",1491
+13,Ajalvir,40.5342302,-3.4807818,13065,El 22,"Avenida Industrias, 2",1641
+14,Ajalvir,40.5342302,-3.4807818,13065,Zaino,"Calle Franklin, 5",1658
+15,Ajalvir,40.5342302,-3.4807818,11037,Alcamar,"Carretera Ajalvir-Torrejon Ardoz, Km 1900",11
+16,Alameda del Valle,40.9177178,-3.8438216,13065,Bar Rufino,"Plaza Santa Marina, 1",11
+17,Alameda del Valle,40.9177178,-3.8438216,13065,Restaurante Taberna del Alamillo,"Calle de la Taberna, 26",157
+18,Alameda del Valle,40.9177178,-3.8438216,13065,Restaurante el Colorao,"Travesía de Grande, 8",219
+19,Alameda del Valle,40.9177178,-3.8438216,13065,El Mirador de Alameda,"Travesía de la Cochera, 10",249
+20,Alameda del Valle,40.9177178,-3.8438216,13065,Restaurante el boliche,"Calle del Rio, 13",941
+21,Alameda del Valle,40.9177178,-3.8438216,13065,Casa Ormaza,"Río, 3",949
+22,Alameda del Valle,40.9177178,-3.8438216,13065,La Junquera,"Calle Río, 3",954
+23,El Álamo,40.2307296,-3.9905893,16032,Isla Perejil,28607 El Alamo Comunidad de Madrid,118
+24,El Álamo,40.2307296,-3.9905893,16032,Parque de Madera,,582
+25,El Álamo,40.2307296,-3.9905893,13065,Mesón la Sardina,"Plaza Constitución, 11",19
+26,El Álamo,40.2307296,-3.9905893,13065,El Capricho del Alamo,"Calle de las Escuelas, 2",26
+27,El Álamo,40.2307296,-3.9905893,13065,Meson de la Villa,"Callejon Luis l Oliveros, 8",63
+28,El Álamo,40.2307296,-3.9905893,13065,Buyong Ruan,"Avenida Madrid, 8",67
+29,El Álamo,40.2307296,-3.9905893,13065,La Posada del Sol,"Calle de las Escuelas, 12",71
+30,El Álamo,40.2307296,-3.9905893,13065,4 Rosas,"Calle de las Escuelas, 36",266
+31,El Álamo,40.2307296,-3.9905893,13065,La Bellota,"Avenida Madrid, s/n",290
+32,El Álamo,40.2307296,-3.9905893,13065,El Cenador de el Álamo,"Calle Escuelas, 46",348
+33,El Álamo,40.2307296,-3.9905893,13065,El Porton del Alamo,"Carretera M-404, Navalcarnero-Chinchon, Km 6,5",803
+34,El Álamo,40.2307296,-3.9905893,13065,Restaurante Indalo,"Pº. de Aviles, 24",847
+35,Alcalá de Henares,40.4818396,-3.3644973,16032,Parque del Louisi,Alcalá de Henares Comunidad de Madrid,326
+36,Alcalá de Henares,40.4818396,-3.3644973,16032,Parque Infantil,28801 Alcalá de Henares Comunidad de Madrid,392
+37,Alcalá de Henares,40.4818396,-3.3644973,16032,Parque Salvador de Madariaga,Alcalá de Henares Comunidad de Madrid,515
+38,Alcalá de Henares,40.4818396,-3.3644973,16032,Parque de Sementales,"Ronda Fiscal, 28804 Alcalá de Henares Comunidad de Madrid",518
+39,Alcalá de Henares,40.4818396,-3.3644973,16032,Parque O'Donnell,"Calle de Luis de Astrana Marín, 8",593
+40,Alcalá de Henares,40.4818396,-3.3644973,16032,Parque Isla del Colegio,Alcalá de Henares Comunidad de Madrid,600
+41,Alcalá de Henares,40.4818396,-3.3644973,16032,Ermita de San Isidro (Alcalá de Henares),28805 Alcalá de Henares Comunidad de Madrid,711
+42,Alcalá de Henares,40.4818396,-3.3644973,16032,Parque San Isidro,28800 Alcalá de Henares Comunidad de Madrid,726
+43,Alcalá de Henares,40.4818396,-3.3644973,16032,Parque el Silo,,768
+44,Alcalá de Henares,40.4818396,-3.3644973,16032,Parque de Sementales,Madrid,792
+45,Alcalá de Henares,40.4818396,-3.3644973,17114,C.C. la Dehesa,"Plaza de Zorita, s/n",307
+46,Alcalá de Henares,40.4818396,-3.3644973,17114,Galería Santa Teresa,"Avenida de los Reyes Católicos, 38",1388
+47,Alcalá de Henares,40.4818396,-3.3644973,17114,Centro Comercial el Val,"Calle Valladolid, 2",1490
+48,Alcalá de Henares,40.4818396,-3.3644973,17114,C.C. Alcalá Magna,"Calle Cuesta de Teatinos, s/n",1496
+49,Alcalá de Henares,40.4818396,-3.3644973,17114,Sephora Alcalá Magna,"Calle Valentín Juara Bellot, 4",1535
+50,Alcalá de Henares,40.4818396,-3.3644973,13065,OH Alcala Lounge Bar,"Calle Trinidad, 8",128
+51,Alcalá de Henares,40.4818396,-3.3644973,13065,La Española,Alcalá de Henares Comunidad de Madrid,137
+52,Alcalá de Henares,40.4818396,-3.3644973,13065,Lizarran,"Calle Mayor, 12",147
+53,Alcalá de Henares,40.4818396,-3.3644973,13065,Llaollao (llaollao),"Calle Mayor, 21",155
+54,Alcalá de Henares,40.4818396,-3.3644973,13065,Heladeria Dall'agnese,"Plaza Cervantes, 30",174
+55,Alcalá de Henares,40.4818396,-3.3644973,13065,El Ambigu,"Calle Cervantes, s/n",204
+56,Alcalá de Henares,40.4818396,-3.3644973,13065,Tony Roma's,"Calle Tinte, 1",208
+57,Alcalá de Henares,40.4818396,-3.3644973,13065,Granier,"Calle Libreros, 18",234
+58,Alcalá de Henares,40.4818396,-3.3644973,13065,Plademunt. el restaurante Imaginario,"Calle Francisco Díaz, 1",236
+59,Alcalá de Henares,40.4818396,-3.3644973,13065,Lia Restaurant,"Calle Mayor, 56",241
+60,Alcalá de Henares,40.4818396,-3.3644973,11037,Innovias alquiler vestidos de novia,"Avenida Juan Carlos I, s/n",1960
+61,Alcalá de Henares,40.4818396,-3.3644973,11037,Idealquiler,"Louis Pasteur Polígono Industrial la Garena, 4",2172
+62,Alcobendas,40.5400082,-3.6358494,16032,Parque de la Artesanía,"Calle de Ramón Fernández Guisasola, 22",112
+63,Alcobendas,40.5400082,-3.6358494,16032,Parque,"Calle de Ramón Esteban, 30",379
+64,Alcobendas,40.5400082,-3.6358494,16032,Parque Victimas del Terrorismo,Comunidad de Madrid,397
+65,Alcobendas,40.5400082,-3.6358494,16032,Parque de Murcia,Alcobendas Comunidad de Madrid,454
+66,Alcobendas,40.5400082,-3.6358494,16032,Área Canina Parque Arroyo de la Vega,"Av. de la Ermita, 28100 Alcobendas Comunidad de Madrid",497
+67,Alcobendas,40.5400082,-3.6358494,16032,Parque de Félix Rodríguez de la Fuente,Alcobendas Madrid,497
+68,Alcobendas,40.5400082,-3.6358494,16032,Área Canina Parque Víctimas del Terrorismo,"c/ Pintor Velázquez, 28100 Alcobendas Comunidad de Madrid",541
+69,Alcobendas,40.5400082,-3.6358494,16032,Jardín de la Vega,Avenida Olímpica Con Una Superficie de 180.000,555
+70,Alcobendas,40.5400082,-3.6358494,16032,Parque Comunidad de Madrid,Comunidad de Madrid,591
+71,Alcobendas,40.5400082,-3.6358494,16032,Área Canina Parque Comunidad de Madrid,"c/ Jarama, 28100 Alcobendas Comunidad de Madrid",610
+72,Alcobendas,40.5400082,-3.6358494,17114,Megamall,"Olimpica, 9",558
+73,Alcobendas,40.5400082,-3.6358494,17114,Centro Comercial la Viña,San Sebastián de los Reyes Comunidad de Madrid,889
+74,Alcobendas,40.5400082,-3.6358494,17114,Dolce Vita Shopping Gran Manzana,Avenida de España Nº 17,961
+75,Alcobendas,40.5400082,-3.6358494,17114,Carrefouronline,"Carretera Autovía A-1, Km 14,5",992
+76,Alcobendas,40.5400082,-3.6358494,17114,Heron Diversia,"Avenida de Bruselas, 21",1100
+77,Alcobendas,40.5400082,-3.6358494,17114,Gorras Personalizadas Madrid,"Calle Isla de Alegranza, 4",1682
+78,Alcobendas,40.5400082,-3.6358494,17114,Sudaderas Personalizadas,"Isla de Alegranza, 4",1760
+79,Alcobendas,40.5400082,-3.6358494,17114,Carrefour San Sebastián de los Reyes,Carretera de Burgos N-1,1769
+80,Alcobendas,40.5400082,-3.6358494,17114,Centro Comercial Carrefour San Sebastian de los Reyes,Carretera de Burgos N-1,1793
+81,Alcobendas,40.5400082,-3.6358494,17114,Centro Comercial Carrefour Alcobendas,Carretera Burgos A1,1840
+82,Alcobendas,40.5400082,-3.6358494,13065,Telepizza,"Marqués de la Valdavia, 6",65
+83,Alcobendas,40.5400082,-3.6358494,13065,Café Grill la Luna,"Pablo Picasso, 13",102
+84,Alcobendas,40.5400082,-3.6358494,13065,Cafetería Alcalá,"Calle de la Libertad, 40",108
+85,Alcobendas,40.5400082,-3.6358494,13065,Estoque Vima,"Calle Real Vieja, 16",151
+86,Alcobendas,40.5400082,-3.6358494,13065,Qdeleite Parrilla Gus,"Nuestra Señora del Pilar, 3",205
+87,Alcobendas,40.5400082,-3.6358494,13065,Granier Alcobendas,"Calle Constitución, 29",237
+88,Alcobendas,40.5400082,-3.6358494,13065,Cerveceria Tiffany's,"Calle de Antonio Méndez, 2-4",280
+89,Alcobendas,40.5400082,-3.6358494,13065,Planeta BG,"Avenida de la Ermita, 2H",399
+90,Alcobendas,40.5400082,-3.6358494,13065,La Casita de Chocolate,"Calle de Miraflores, 1",406
+91,Alcobendas,40.5400082,-3.6358494,13065,El Rincón de Ortega Cano,"Santiago Apóstol, 3",493
+92,Alcorcón,40.3492998,-3.8284295,16032,Parque del Brasil,,480
+93,Alcorcón,40.3492998,-3.8284295,16032,Parque San Petas,"Calle Cisneros, 28922 Alcorcón Comunidad de Madrid",583
+94,Alcorcón,40.3492998,-3.8284295,16032,Parque las Comunidades,"CL Pablo Iglesias, 28922 Alcorcón Comunidad de Madrid",719
+95,Alcorcón,40.3492998,-3.8284295,16032,Parque Buero Vallejo,"Los Robles, 28922 Alcorcón Comunidad de Madrid",782
+96,Alcorcón,40.3492998,-3.8284295,16032,Piko Park,"Calle Valladolid, 13",848
+97,Alcorcón,40.3492998,-3.8284295,16032,Parque Infantil,"Calle Polvoranca, Alcorcón Comunidad de Madrid",852
+98,Alcorcón,40.3492998,-3.8284295,16032,Parque Ciudad de Mayarí,28922 Alcorcón Comunidad de Madrid,925
+99,Alcorcón,40.3492998,-3.8284295,16032,Zona de Ocio Infantil C. C Tres Aguas,"Avenida Américas, 7",981
+100,Alcorcón,40.3492998,-3.8284295,16032,Parque Infantil Recinto Ferial,,1047
+101,Alcorcón,40.3492998,-3.8284295,16032,La Ribota Park (Parque de La Ribota),Alcorcón Comunidad de Madrid,1100
+102,Alcorcón,40.3492998,-3.8284295,17114,Madrid - Tres Aguas,"Avenida de América, 7",1049
+103,Alcorcón,40.3492998,-3.8284295,17114,La Plataforma de la Construcción,"Avenida América, 32",1357
+104,Alcorcón,40.3492998,-3.8284295,17114,La Tagliatella - Parque Oeste,"Avenida de Europa, 2",1522
+105,Alcorcón,40.3492998,-3.8284295,17114,Madrid - X-Madrid,"Calle Copenhague, 53",1726
+106,Alcorcón,40.3492998,-3.8284295,17114,X-Madrid,"Calle Oslo, 53",1796
+107,Alcorcón,40.3492998,-3.8284295,13065,Domino's Pizza,"Plaza del Nuncio, 7",213
+108,Alcorcón,40.3492998,-3.8284295,13065,La Flor de la Jara 3,"Carretera Extremadura, Km 11",274
+109,Alcorcón,40.3492998,-3.8284295,13065,Cafeteria Alandalus,"Avenida Portugal, 24",300
+110,Alcorcón,40.3492998,-3.8284295,13065,Granier,"Calle Mayor, 50",339
+111,Alcorcón,40.3492998,-3.8284295,13065,100 Montaditos,"Calle Mayor, 65",448
+112,Alcorcón,40.3492998,-3.8284295,13065,Cafe Venela,"Calle San Luis, 42",467
+113,Alcorcón,40.3492998,-3.8284295,13065,Hospital Alcorcon Cafeteria,"Budapest, 1",502
+114,Alcorcón,40.3492998,-3.8284295,13065,El Horno Yomain,"Calle Sierra de Picos Europa, 23",550
+115,Alcorcón,40.3492998,-3.8284295,13065,Asador de Pollos Torrico's,"Fuenlabrada, 21",556
+116,Alcorcón,40.3492998,-3.8284295,13065,Pannus,"Calle Mayor, 77",570
+117,Aldea del Fresno,40.3215212,-4.19936,13065,Bar Cosmos,"Carretera Chapineria, s/n",210
+118,Aldea del Fresno,40.3215212,-4.19936,13065,El Barril,"Carretera Madrid, 14",396
+119,Aldea del Fresno,40.3215212,-4.19936,13065,Bar el Rincon del Fresno,"Calle Marquesa de Manzanedo, 20",455
+120,Aldea del Fresno,40.3215212,-4.19936,13065,Cafeteria Hermanos Noriega,"Carretera Madrid, 19",460
+121,Aldea del Fresno,40.3215212,-4.19936,13065,El Jardín,"Carretera Madrid, 12",468
+122,Aldea del Fresno,40.3215212,-4.19936,13065,La Cervecería,"Calle Perales, 2010",722
+123,Algete,40.5961652,-3.4974246,16032,África Park,Algete Comunidad de Madrid,200
+124,Algete,40.5961652,-3.4974246,16032,Parque de el Cigarral,Algete Comunidad de Madrid,265
+125,Algete,40.5961652,-3.4974246,16032,Parque de los Olivos,28110 Algete Comunidad de Madrid,462
+126,Algete,40.5961652,-3.4974246,16032,Parque de las Fuentes,28110 Algete Comunidad de Madrid,505
+127,Algete,40.5961652,-3.4974246,16032,Estanque de Patos Cobeña,Cobeña,1744
+128,Algete,40.5961652,-3.4974246,17114,Algete Centro Comercial,"Calle Magnolias, 1",321
+129,Algete,40.5961652,-3.4974246,13065,Restaurante Gafotas,"Calle San Roque, 24",59
+130,Algete,40.5961652,-3.4974246,13065,El Parador de Algete,"Calle Mayor, s/n",59
+131,Algete,40.5961652,-3.4974246,13065,El Rincón de Portugal,"Calle Fraguas, 3",70
+132,Algete,40.5961652,-3.4974246,13065,La Esquinita de Pablo,"Limón Verde, 7",92
+133,Algete,40.5961652,-3.4974246,13065,El Mexi Bar de Copas,"Calle Limon Verde, 3",146
+134,Algete,40.5961652,-3.4974246,13065,Maria Teresa Trapete de las Cuevas,"Calle de la Paloma, 13",152
+135,Algete,40.5961652,-3.4974246,13065,El Obrador,"Ofelia Nieto, 1",164
+136,Algete,40.5961652,-3.4974246,13065,Asador de Algete,"Calle San Roque, 25",208
+137,Algete,40.5961652,-3.4974246,13065,Oca del Cielo,"Calle San Roque, 34",248
+138,Algete,40.5961652,-3.4974246,13065,Restaurante Jorge Algete,"San Roque, 35",281
+139,Alpedrete,40.6599005,-4.0251223,16032,Parque de las Columnas,Comunidad de Madrid,290
+140,Alpedrete,40.6599005,-4.0251223,16032,Parque de Juegos,Carretera M-619,622
+141,Alpedrete,40.6599005,-4.0251223,16032,Parque de Juegos,Carretera M619,629
+142,Alpedrete,40.6599005,-4.0251223,17114,Centro comercial los valles,"Carretera Navacerrada, s/n",411
+143,Alpedrete,40.6599005,-4.0251223,13065,Maná,"Calle de la Constitución, 2",15
+144,Alpedrete,40.6599005,-4.0251223,13065,Restaurante Maná,"Plaza de la Constitución, 1",26
+145,Alpedrete,40.6599005,-4.0251223,13065,Cafetería Montablanc,"Calle Colmenillas, 4",36
+146,Alpedrete,40.6599005,-4.0251223,13065,La Casa de Cano,"Plaza Vicente Guillen Zamorano, 4",49
+147,Alpedrete,40.6599005,-4.0251223,13065,El Pollo Dorado II,"Plaza de la Constitución, 1",53
+148,Alpedrete,40.6599005,-4.0251223,13065,El Cabrero,"Calle de San Juan, 10",59
+149,Alpedrete,40.6599005,-4.0251223,13065,La Antigua Esquina,"Avenida de los Canteros, 2",63
+150,Alpedrete,40.6599005,-4.0251223,13065,El Chigre de Alpedrete,"Avenida Canteros, 2",75
+151,Alpedrete,40.6599005,-4.0251223,13065,La Tabernita del Mimo,"Plaza Vicente Guillen Zamorano, 2",81
+152,Alpedrete,40.6599005,-4.0251223,13065,Kekema,"Pasaje de la Pozuela, 2",82
+153,Ambite,40.3289723,-3.1812115,13065,Bar la estación,"Camino de Valdemera, 441",420
+154,Anchuelo,40.4653862,-3.2689196,13065,MesÓn Lopez,"Plaza de la Constitución, s/n",51
+155,Anchuelo,40.4653862,-3.2689196,13065,Bar cafetería NINO,"Plaza de la Constitucion, 3",71
+156,Anchuelo,40.4653862,-3.2689196,13065,Inmaculada Anchuelo Diaz,"Travesia del Olmo, s/n",90
+157,Aranjuez,40.03221,-3.6039604,16032,Parque Farnesio,Aranjuez Comunidad de Madrid,249
+158,Aranjuez,40.03221,-3.6039604,16032,Parque Infantil Isabel de Farnesio,,261
+159,Aranjuez,40.03221,-3.6039604,16032,Parque Pavia,"Antigua carretera andalucia, 28300 Aranjuez Comunidad de Madrid",393
+160,Aranjuez,40.03221,-3.6039604,16032,Fuente del Negro,Aranjuez Comunidad de Madrid,514
+161,Aranjuez,40.03221,-3.6039604,16032,Parque Infantil,28300 Aranjuez Comunidad de Madrid,701
+162,Aranjuez,40.03221,-3.6039604,16032,Pooh y Sus Amigos Aranjuez,"Calle San Fernando, 88",702
+163,Aranjuez,40.03221,-3.6039604,16032,Fuente del Reloj,Aranjuez Comunidad de Madrid,736
+164,Aranjuez,40.03221,-3.6039604,16032,Parque Pozo de las Nieves,,832
+165,Aranjuez,40.03221,-3.6039604,16032,Parque Glorieta Nuevo Aranjuez,Aranjuez,911
+166,Aranjuez,40.03221,-3.6039604,16032,Entre Duendes y Hadas,Calle Santa Inés Nº 13,1055
+167,Aranjuez,40.03221,-3.6039604,17114,Centro Comercial el Deleite,"Paseo del Deleite, s/n",1421
+168,Aranjuez,40.03221,-3.6039604,13065,La Felipa,"Calle Stuart, 93",35
+169,Aranjuez,40.03221,-3.6039604,13065,Restaurante Imperial,"Calle de Postas, 29",61
+170,Aranjuez,40.03221,-3.6039604,13065,Patio del Mercado,"Plaza Constitución, s/n",63
+171,Aranjuez,40.03221,-3.6039604,13065,"Burgos Izquierdo, M","Carretera Aranjuez-Brea de Tajo, Km 5",64
+172,Aranjuez,40.03221,-3.6039604,13065,Café de Abastos,"Calle Abastos, 56",71
+173,Aranjuez,40.03221,-3.6039604,13065,Bonavia,"Calle Postas, 20",74
+174,Aranjuez,40.03221,-3.6039604,13065,Churrerias Veloso,"Calle Abastos, 62",80
+175,Aranjuez,40.03221,-3.6039604,13065,Chumy Restaurante,"Calle de Abastos, 65",80
+176,Aranjuez,40.03221,-3.6039604,13065,Voy Volando Aranjuez,"Calle de Postas, 37",90
+177,Aranjuez,40.03221,-3.6039604,13065,Casa José,"Calle de Abastos, 32",100
+178,Aranjuez,40.03221,-3.6039604,11037,Plataformas de Madrid,"Calle Rosales, s/n",1021
+179,Arganda del Rey,40.3007708,-3.4380688,16032,Parque Natural las Lagunas,"Carretera Chinchón M-313, Km 1,8",26
+180,Arganda del Rey,40.3007708,-3.4380688,16032,Parque Mirador,28500 Arganda del Rey Comunidad de Madrid,479
+181,Arganda del Rey,40.3007708,-3.4380688,16032,Recinto Ferial Arganda,Arganda del Rey Comunidad de Madrid,576
+182,Arganda del Rey,40.3007708,-3.4380688,16032,Parque de arganda,Comunidad de Madrid,627
+183,Arganda del Rey,40.3007708,-3.4380688,16032,Parque Goleta,,757
+184,Arganda del Rey,40.3007708,-3.4380688,16032,Parque Adolfo Suárez,28500 Arganda del Rey Comunidad de Madrid,832
+185,Arganda del Rey,40.3007708,-3.4380688,16032,Parque Infantil,,1245
+186,Arganda del Rey,40.3007708,-3.4380688,16032,Parque infantil,Arganda del Rey Comunidad de Madrid,1567
+187,Arganda del Rey,40.3007708,-3.4380688,13065,Don Lito,"Pza.Constitución, 5",9
+188,Arganda del Rey,40.3007708,-3.4380688,13065,Productos Codan,"Camino de la Galeana, s/n",26
+189,Arganda del Rey,40.3007708,-3.4380688,13065,La Tertulia,"Tiendas, 6",33
+190,Arganda del Rey,40.3007708,-3.4380688,13065,Bar el Geta,"Plaza de la Solanilla, 12",60
+191,Arganda del Rey,40.3007708,-3.4380688,13065,Cisne,"Plaza Solanilla, 6",82
+192,Arganda del Rey,40.3007708,-3.4380688,13065,Burger Plaza,"Plaza Solanilla, 9",199
+193,Arganda del Rey,40.3007708,-3.4380688,13065,Cerveceria Rangel,"Calle Colonia los Almendros, s/n",264
+194,Arganda del Rey,40.3007708,-3.4380688,13065,AporpizzA,"Avenida Miguel de Cervantes, 126",307
+195,Arganda del Rey,40.3007708,-3.4380688,13065,Danebora,"Carretera de Loeches, s/n",341
+196,Arganda del Rey,40.3007708,-3.4380688,13065,Cafetería Marcos,"Calle de las Heras, 11",346
+197,Arroyomolinos,39.1855991,-6.1630632,13065,Quesos Artesanos Gutierrez Cantero,"Hernán Cortés, 45",238
+198,El Atazar,40.9343489,-3.4710919,13065,Meson Elathazar,"Avenida Presa de el Atazar, 1",34
+199,El Atazar,40.9343489,-3.4710919,13065,Los Riscos el Atazar,"Calle de la Iglesia, 3",80
+200,Batres,40.2091393,-3.9215947,16032,Plaza Arenal,Comunidad de Madrid,74
+201,Batres,40.2091393,-3.9215947,13065,Castillo de Batres,Crta. M-404,259
+202,Becerril de la Sierra,40.7163374,-3.9890681,16032,Parque,28490 Becerril de la Sierra Comunidad de Madrid,703
+203,Becerril de la Sierra,40.7163374,-3.9890681,16032,Parque de la Tejera,28490 Becerril de la Sierra Comunidad de Madrid,1950
+204,Becerril de la Sierra,40.7163374,-3.9890681,13065,Cafetería Spiegel,"Plaza de la Constitucion, 13",16
+205,Becerril de la Sierra,40.7163374,-3.9890681,13065,La Planchita de los Nachos,"Calle de Alfonso XII, 6",27
+206,Becerril de la Sierra,40.7163374,-3.9890681,13065,Dehesa del Guerrero,"Calle Cebales, 1",32
+207,Becerril de la Sierra,40.7163374,-3.9890681,13065,La Taberna de los Cerros,"Calle de Bilbao, 12",34
+208,Becerril de la Sierra,40.7163374,-3.9890681,13065,Las Cadenas,"Alfonso XII, 5",54
+209,Becerril de la Sierra,40.7163374,-3.9890681,13065,La Maliciosa,"Avenida Calvo Sotelo, 4",68
+210,Becerril de la Sierra,40.7163374,-3.9890681,13065,Las Terrazas,"San Sebastián, 3",113
+211,Becerril de la Sierra,40.7163374,-3.9890681,13065,El Albero,"Orense, 11",119
+212,Becerril de la Sierra,40.7163374,-3.9890681,13065,La GastroCerveceria,"Paseo de San Sebastián, 12",142
+213,Becerril de la Sierra,40.7163374,-3.9890681,13065,La Taberna de Becerril,"Paseo San Sebastián, 5",145
+214,Belmonte de Tajo,40.1336305,-3.3398654,13065,Pub Gernica,"Calle Encomienda, 66",278
+215,El Berrueco,40.8889705,-3.5614344,13065,Restaurante el Molino,"Calle de la Calzada, 17",85
+216,El Berrueco,40.8889705,-3.5614344,13065,Dento Do Eido,"Carretera del Berrueco-Cervera, Km 2",117
+217,El Berrueco,40.8889705,-3.5614344,13065,El Picachuelo,"Carretera el Berrueco-Cervera, Km 1",263
+218,El Berrueco,40.8889705,-3.5614344,13065,Restaurante el Picachuelo,"Carretera el Berrueco-Cervera, Km 1500",1656
+219,Berzosa del Lozoya,40.9757802,-3.5236736,13065,Bar Tere,"Calle Llano de la Huerta, 0",89
+220,Berzosa del Lozoya,40.9757802,-3.5236736,13065,Bar la Plaza,"Real, s/n",1914
+221,Berzosa del Lozoya,40.9757802,-3.5236736,13065,Posada de Serrada,"Plaza de la Constitución, 2",1941
+222,Boadilla del Monte,40.4053485,-3.8764663,16032,Diveruca,Avenida del Generalísimo Nº 25,98
+223,Boadilla del Monte,40.4053485,-3.8764663,16032,Parque Juan Pablo II,Boadilla del Monte Comunidad de Madrid,304
+224,Boadilla del Monte,40.4053485,-3.8764663,16032,Parque de el Nacedero,28660 Boadilla del Monte Comunidad de Madrid,352
+225,Boadilla del Monte,40.4053485,-3.8764663,16032,Parque Boadilla Centro,,434
+226,Boadilla del Monte,40.4053485,-3.8764663,16032,Parque Santillana del Mar,28660 Boadilla del Monte Comunidad de Madrid,524
+227,Boadilla del Monte,40.4053485,-3.8764663,16032,Parque Palacio Boadilla,,529
+228,Boadilla del Monte,40.4053485,-3.8764663,16032,Parque la Alberca,Alberca,621
+229,Boadilla del Monte,40.4053485,-3.8764663,16032,Parque Victoria Rubio,Rubio,1360
+230,Boadilla del Monte,40.4053485,-3.8764663,16032,Parque Gregorio Marañón,"Gregorio Marañon, Boadilla del Monte Comunidad de Madrid",1380
+231,Boadilla del Monte,40.4053485,-3.8764663,16032,Zona de Juegos Siglo XXI,,1478
+232,Boadilla del Monte,40.4053485,-3.8764663,17114,Zoco Boadilla,Calle Santillana del Mar,288
+233,Boadilla del Monte,40.4053485,-3.8764663,17114,El Palacio,"Carretera Boadilla-Majadahonda, 50",545
+234,Boadilla del Monte,40.4053485,-3.8764663,13065,Cafetería Boadilla,"Plaza Cruz, 5",47
+235,Boadilla del Monte,40.4053485,-3.8764663,13065,Morgano Crafted Beers,"Calle del Álamo, 2",63
+236,Boadilla del Monte,40.4053485,-3.8764663,13065,La Barbacana,"Avenida de Adolfo Suárez, 14",92
+237,Boadilla del Monte,40.4053485,-3.8764663,13065,El Palacio de Boadilla,"Avenida del Generalísimo, 14",92
+238,Boadilla del Monte,40.4053485,-3.8764663,13065,Bar de Tapas la Marina,"Calle de la Vega, 1",104
+239,Boadilla del Monte,40.4053485,-3.8764663,13065,La Lonja de Boadilla,"Calle García Noblejas, 5",132
+240,Boadilla del Monte,40.4053485,-3.8764663,13065,La Casona de Boadilla,"Calle Buenavista, 7",135
+241,Boadilla del Monte,40.4053485,-3.8764663,13065,La Lonja de Boadilla,"Avenida del Generalísimo, 31",179
+242,Boadilla del Monte,40.4053485,-3.8764663,13065,Il Forno di Boadilla,"Calle de los Mártires, 4",194
+243,Boadilla del Monte,40.4053485,-3.8764663,13065,Cafetería Restaurante Delicias,"Calle Convento, 3",209
+244,El Boalo,40.7173359,-3.9202198,16032,Parque Municipal del Boalo,Boalo,1294
+245,El Boalo,40.7173359,-3.9202198,16032,Parque la Ponderosa de la Sierra,,1946
+246,El Boalo,40.7173359,-3.9202198,13065,De los Reyes,"Plaza Constitución, s/n",19
+247,El Boalo,40.7173359,-3.9202198,13065,La Campana,"La Fuente, 4",20
+248,El Boalo,40.7173359,-3.9202198,13065,Cafeteria el Ruedo,"Plaza de la Constitución, 3D",28
+249,El Boalo,40.7173359,-3.9202198,13065,Casa Agustín,"La Audiencia, 2",34
+250,El Boalo,40.7173359,-3.9202198,13065,Y Yo Qué Sé,"Calle Peña Negra, 7",149
+251,El Boalo,40.7173359,-3.9202198,13065,El Refugio de Oria,"Calle de la Peña Hoyuela, 14",180
+252,Braojos,41.0400124,-3.6425888,13065,La Barrica de la Serna,"Calle de los Peligros, 45",1606
+253,Braojos,41.0400124,-3.6425888,13065,La Ventanilla,"Peligros, 45",1606
+254,Braojos,41.0400124,-3.6425888,13065,Casa rural la Carcava,"Calle del Arroyo, 12",1782
+255,Braojos,41.0400124,-3.6425888,13065,Bar Tasca,"Calle de los Peligros, 9",1789
+256,Brea de Tajo,40.2302134,-3.1092543,13065,Bar Plaza,"Plaza Generalísimo, 8",39
+257,Brunete,40.4050499,-3.9979912,16032,parque municipal de Brunete,,109
+258,Brunete,40.4050499,-3.9979912,16032,Castilandia,"Calle Tahona, 3",329
+259,Brunete,40.4050499,-3.9979912,13065,Taberna la Fuente,"Plaza Mayor, 7",49
+260,Brunete,40.4050499,-3.9979912,13065,Cafe del pueblo,"Plaza Mayor, 6",57
+261,Brunete,40.4050499,-3.9979912,13065,El Kiosco de el Acebo,"Calle Real de San Sebastián, 2",118
+262,Brunete,40.4050499,-3.9979912,13065,La Tahona de Brunete,"Calle de los Martires, 48",169
+263,Brunete,40.4050499,-3.9979912,13065,Cafeteria Brunete,"Calle del Parque, 5",186
+264,Brunete,40.4050499,-3.9979912,13065,Cafetería Javi,"Calle Real de San Sebastián, 14",283
+265,Brunete,40.4050499,-3.9979912,13065,El Paseo,"Calle Real de San Sebastian, 26",450
+266,Brunete,40.4050499,-3.9979912,13065,Rincon del Dragón,"Real de San Sebastian, 12",498
+267,Brunete,40.4050499,-3.9979912,13065,Pizzeria Brunete,"Calle Navacerrada, 9",538
+268,Brunete,40.4050499,-3.9979912,13065,Café de Arte,"Calle Real de San Sebastián, 66",943
+269,Buitrago del Lozoya,40.9953477,-3.6350501,16032,Parque de las Avenidas,09006 Burgos Burgos,1780
+270,Buitrago del Lozoya,40.9953477,-3.6350501,13065,Cervecería Plaza,"Plaza Constitución, 5",103
+271,Buitrago del Lozoya,40.9953477,-3.6350501,13065,Asador las Murallas,"Plaza de la Constitucion, 3",120
+272,Buitrago del Lozoya,40.9953477,-3.6350501,13065,Restaurante Café Real,"Calle Real, 1",143
+273,Buitrago del Lozoya,40.9953477,-3.6350501,13065,La Taberna de Teo,"Plaza de la Constitucion, 10",146
+274,Buitrago del Lozoya,40.9953477,-3.6350501,13065,La Recova,"Calle Real, 4",146
+275,Buitrago del Lozoya,40.9953477,-3.6350501,13065,Pizzeria la Recova,"Calle Real, 4",153
+276,Buitrago del Lozoya,40.9953477,-3.6350501,13065,Delicatessen Buitrago,"Calle Real, 10",179
+277,Buitrago del Lozoya,40.9953477,-3.6350501,13065,Ricks,"Calle de la Tahona, 14",187
+278,Buitrago del Lozoya,40.9953477,-3.6350501,13065,Pizzcolabis,"Calle del Matadero, 4C",191
+279,Buitrago del Lozoya,40.9953477,-3.6350501,13065,Pub el Rincón,"Calle de la Fuente, 10",201
+280,Bustarviejo,40.8587766,-3.7097632,16032,Parque de arriba,"Calle De La Cerca, Bustarviejo",196
+281,Bustarviejo,40.8587766,-3.7097632,17114,El Paraiso,"Calvo Sotelo, 7",207
+282,Bustarviejo,40.8587766,-3.7097632,13065,Cervecería Bailandera,"Plaza de la Constitución, 9",24
+283,Bustarviejo,40.8587766,-3.7097632,13065,El Canton,"Calle Real, 24",89
+284,Bustarviejo,40.8587766,-3.7097632,13065,Bar Restaurante de Teresa,"Calle Lechuga, 20",104
+285,Bustarviejo,40.8587766,-3.7097632,13065,La Casona,"Calle de la Lechuga, 20",116
+286,Bustarviejo,40.8587766,-3.7097632,13065,Asador de Bustarviejo,"Travesía Cerrillo, 3",131
+287,Bustarviejo,40.8587766,-3.7097632,13065,Restaurante Asador de Bustarviejo JFJJ,"Travesía del Cerrillo, 3",140
+288,Bustarviejo,40.8587766,-3.7097632,13065,La Boina y el Bombín,"Calle Real, 57",144
+289,Bustarviejo,40.8587766,-3.7097632,13065,La Taberna,"Calle Calvo Sotelo, 2",156
+290,Bustarviejo,40.8587766,-3.7097632,13065,La Braña,"Plaza Calvo Sotelo, 5",165
+291,Bustarviejo,40.8587766,-3.7097632,13065,La Resalá Restaurante,"Calle de Fuente Grande, 2",186
+292,Cabanillas de la Sierra,40.8216089,-3.6259742,16032,Paint Ball Cabanillas,Cabanillas,886
+293,Cabanillas de la Sierra,40.8216089,-3.6259742,13065,El Rincon de Cabanillas,"Calle Real, 75",48
+294,Cabanillas de la Sierra,40.8216089,-3.6259742,13065,Blanquita,"Real, 76",129
+295,Cabrera Lane,13.3472446,144.7586507,16032,Valley Of The Latte,Santa Rita Santa Rita Municipality 96915,1360
+296,Cabrera Lane,13.3472446,144.7586507,13065,The Garden,,946
+297,Cabrera Lane,13.3472446,144.7586507,13065,Von Chicken,P.o. Box 901,1258
+298,Cadalso de los Vidrios,40.3014283,-4.4408876,13065,Casa Lopez,"Plaza Corredera, 27",100
+299,Cadalso de los Vidrios,40.3014283,-4.4408876,13065,Pizzeria Zampató,"Calle Real, 35",108
+300,Cadalso de los Vidrios,40.3014283,-4.4408876,13065,Casa Moncho,"Ronda Sangre, 22",155
+301,Cadalso de los Vidrios,40.3014283,-4.4408876,13065,Bar Cafetería el Churrero,"Calle de la Iglesia, 31",158
+302,Cadalso de los Vidrios,40.3014283,-4.4408876,13065,Mesón la Ronda,Ronda de Madrid 26 N,176
+303,Cadalso de los Vidrios,40.3014283,-4.4408876,13065,Casa Carabias,"Ronda Madrid, 1",190
+304,Cadalso de los Vidrios,40.3014283,-4.4408876,13065,Huerta,"Ronda Madrid, 1",192
+305,Cadalso de los Vidrios,40.3014283,-4.4408876,13065,Burger Nete,"Calle Doctor Menéndez, 2",240
+306,Cadalso de los Vidrios,40.3014283,-4.4408876,13065,Casa Laureano,"Plaza Fuente de los Álamos, 3",268
+307,Cadalso de los Vidrios,40.3014283,-4.4408876,13065,Bar Fangio,"Carr. de Rozas de Puerto Real, 2",362
+308,Camarma de Esteruelas,40.5490368,-3.3786211,16032,Parque Arroyo Fresno,"Arroyo Fresno, 13",400
+309,Camarma de Esteruelas,40.5490368,-3.3786211,16032,Alba - Asociación Para la Liberación y el Bienestar Animal,"Camino del Carral, 32",1864
+310,Camarma de Esteruelas,40.5490368,-3.3786211,13065,Pizzeria Fratelli,"Plaza del Paseo, 9",37
+311,Camarma de Esteruelas,40.5490368,-3.3786211,13065,Bar-Restaurante-Asador Casa Felicia,"Plaza del Paseo, 9",40
+312,Camarma de Esteruelas,40.5490368,-3.3786211,13065,Cafe Central,"Calle de Daganzo, 23",40
+313,Camarma de Esteruelas,40.5490368,-3.3786211,13065,Chocolateria de Juan,"Calle de la Mancha, 4",156
+314,Camarma de Esteruelas,40.5490368,-3.3786211,13065,Cenemos Inés,"Calle de los Alfareros, 4",398
+315,Camarma de Esteruelas,40.5490368,-3.3786211,13065,Cafetería el Rincón,"Calle de Daganzo, 23",492
+316,Campo Real,40.3381881,-3.3813911,13065,Rincón de Gorri,"Plaza Mayor, 10",40
+317,Campo Real,40.3381881,-3.3813911,13065,El Pollo de la Abuela,"Carretera Villar del Olmo, 46",47
+318,Campo Real,40.3381881,-3.3813911,13065,Aninca,"Calle Morata, 24",57
+319,Campo Real,40.3381881,-3.3813911,13065,Pescados Paco,"Calle del Mercado, 1",104
+320,Campo Real,40.3381881,-3.3813911,13065,la Posada,"Carretera Villar del Olmo, 29",302
+321,Campo Real,40.3381881,-3.3813911,13065,Los Jarales,"Carretera Loeches, Km 1,2",458
+322,Campo Real,40.3381881,-3.3813911,13065,Bar el Descanso,"Carretera de Loeches, 2",459
+323,Campo Real,40.3381881,-3.3813911,13065,Restaurante Casa Jose,"Carretera Villar del Olmo, 38",513
+324,Campo Real,40.3381881,-3.3813911,13065,Campeña de Pizzeria Mayor,"Carretera Villar del Olmo, 51",579
+325,Campo Real,40.3381881,-3.3813911,13065,Asador Casa Andrés,"Carr. de Madrid, 1",624
+326,Canencia,40.9095894,-3.7375609,13065,Hostal colorines,"Calle Real, s/n",216
+327,Canencia,40.9095894,-3.7375609,13065,Colorines Restaurante,"Calle del Matadero, 14",287
+328,Carabaña,40.256626,-3.2347206,13065,Restaurante Mariblanca,"Avenida Tielmes, 6",55
+329,Carabaña,40.256626,-3.2347206,13065,Restaurante-terraza la tropicana,"Camino de los Villares, 9",237
+330,Carabaña,40.256626,-3.2347206,13065,El Asador de los Gallos,"Plaza de España, 23",312
+331,Carabaña,40.256626,-3.2347206,13065,Estela Bar Tapas y Pinchos,"Plaza de España, 27",312
+332,Carabaña,40.256626,-3.2347206,13065,Cafe Bar Plan B,Calle Sierra N15,922
+333,Casarrubuelos,40.1707803,-3.8308526,13065,Terra Gastro Taberna,"Calle Mayor, 2",155
+334,Casarrubuelos,40.1707803,-3.8308526,13065,Café Bar la Bruja Motera,"Calle Moratalaz, 16",225
+335,Casarrubuelos,40.1707803,-3.8308526,13065,Piscina Municipal de Casarrubuelos,"Calle Murcia, 1",756
+336,Casarrubuelos,40.1707803,-3.8308526,13065,La Quinta de Illescas,"Carretera de Toledo, Km 30",1481
+337,Casarrubuelos,40.1707803,-3.8308526,13065,Restaurante Vara,"Carretera Madrid-Toledo, Km 31",1578
+338,Casarrubuelos,40.1707803,-3.8308526,13065,Jimmy's Bar & Chill Out,"Avenida Intergolf, 5",1578
+339,Casarrubuelos,40.1707803,-3.8308526,13065,Disfruta Comiendo,Avenida Intergolf N5,1579
+340,Casarrubuelos,40.1707803,-3.8308526,13065,Pizzeria Santarromana,"Avenida de Europa, 1",1787
+341,Casarrubuelos,40.1707803,-3.8308526,13065,Bar el Silo,"Calle Santa Clara Local, 5",1906
+342,Casarrubuelos,40.1707803,-3.8308526,13065,La Taskita,"Calle Cubas, 8",1908
+343,Cenicientos,40.2631894,-4.4669801,13065,La Carpinteria,"Plaza del Huertecillo, 18",82
+344,Cenicientos,40.2631894,-4.4669801,13065,Bar el Guijo,"Avenida de Madrid, 10-12",226
+345,Cenicientos,40.2631894,-4.4669801,13065,Noemí Sánchez Pastor Gómez,"Calle de la de los Caños, N, 25",306
+346,Cenicientos,40.2631894,-4.4669801,13065,Restaurante la Barraca de Lorca,"Plaza de la Constitución, 3",78595
+347,Cercedilla,40.7412931,-4.0558002,16032,La Titiriteka,"Calle de los Registros, 21",94
+348,Cercedilla,40.7412931,-4.0558002,16032,Parque PradoLuengo,PradoLuengo,649
+349,Cercedilla,40.7412931,-4.0558002,13065,El Colonial,"Carrer Manel Farres, 49",19
+350,Cercedilla,40.7412931,-4.0558002,13065,Bar Muñoza,"Plaza Mayor, 8",46
+351,Cercedilla,40.7412931,-4.0558002,13065,Tres Jaras,"Calle Mayor, 5",51
+352,Cercedilla,40.7412931,-4.0558002,13065,Bar Limbocopas,"Mayor 18, 28470 Cercedilla Comunidad de Madrid",51
+353,Cercedilla,40.7412931,-4.0558002,13065,El Chivo Loco,"Calle Pontezuela, 23",62
+354,Cercedilla,40.7412931,-4.0558002,13065,La Venta Vieja,"Calle Pontezuela, 34",65
+355,Cercedilla,40.7412931,-4.0558002,13065,El Chivo,"Plaza Mayor, 13",67
+356,Cercedilla,40.7412931,-4.0558002,13065,La Fragua,"Travesía, 2",72
+357,Cercedilla,40.7412931,-4.0558002,13065,Asador de Angel,"Pontezuela, 27",74
+358,Cercedilla,40.7412931,-4.0558002,13065,A tavola di canela,"Calle Mayor, 20",76
+359,Cervera de Buitrago,40.9211319,-3.5293404,13065,Restaurante Bar el Lago,"Calle Iglesia, 10",185
+360,Chapinería,40.379164,-4.2097254,13065,Meson Plaza,"Plaza Miguel Pagan Ocaña, 1",30
+361,Chapinería,40.379164,-4.2097254,13065,El Ventorro,"Carretera Colmenar, 2",33
+362,Chapinería,40.379164,-4.2097254,13065,Mesón el Parador,"Calle Clavel, 16",47
+363,Chapinería,40.379164,-4.2097254,13065,Augusto Resto Bar,"Avenida del Polideportivo, 8",49
+364,Chapinería,40.379164,-4.2097254,13065,Ithilien TC,"Calle Colmenar, 18",137
+365,Chinchón,40.1408293,-3.4231474,16032,Parque Valquejigoso,Chinchón Comunidad de Madrid,707
+366,Chinchón,40.1408293,-3.4231474,13065,Café de la Iberia,"Plaza Mayor, 17",61
+367,Chinchón,40.1408293,-3.4231474,13065,Restamicon,"Plaza Mayor, 14 Bajo",62
+368,Chinchón,40.1408293,-3.4231474,13065,La Balconada,"Plaza Mayor, s/n",64
+369,Chinchón,40.1408293,-3.4231474,13065,Plaza Mayor,"Plaza Mayor, 10",68
+370,Chinchón,40.1408293,-3.4231474,13065,La Columna,"Calle Morata, 2",77
+371,Chinchón,40.1408293,-3.4231474,13065,El Comendador,"Plaza Mayor, 21",86
+372,Chinchón,40.1408293,-3.4231474,13065,La repesca,"Plaza Mayor, 27",88
+373,Chinchón,40.1408293,-3.4231474,13065,La Casa del Pregonero,"Plaza Mayor, 4",92
+374,Chinchón,40.1408293,-3.4231474,13065,Taberna Alacena,"Plaza Mayor, 16",93
+375,Chinchón,40.1408293,-3.4231474,13065,La Taberna del Arriero,"Plaza Mayor, 2",105
+376,Ciempozuelos,40.1580087,-3.6205514,16032,Plaza Fuerzas Armadas,,441
+377,Ciempozuelos,40.1580087,-3.6205514,16032,Recinto de perros,,714
+378,Ciempozuelos,40.1580087,-3.6205514,16032,Parque Camino de Olimpia,"Camino de Olimpia, s/n",1095
+379,Ciempozuelos,40.1580087,-3.6205514,17114,Comercial Detroit,"Calle Moreras Polígono Industrial Camporrosso, Parcela, 4",249
+380,Ciempozuelos,40.1580087,-3.6205514,13065,Macondo,"Calle de San Sebastián, s/n",28
+381,Ciempozuelos,40.1580087,-3.6205514,13065,Plaza Mayor,"Plaza Mayor, 18",70
+382,Ciempozuelos,40.1580087,-3.6205514,13065,100 Montaditos,"Plaza Mayor, 11",144
+383,Ciempozuelos,40.1580087,-3.6205514,13065,Navarrete's Bar & Grill,"Calle Malteros, 1",169
+384,Ciempozuelos,40.1580087,-3.6205514,13065,Casa Bote,"Calle España, 22",171
+385,Ciempozuelos,40.1580087,-3.6205514,13065,Serunion,"Calle de los Jardines, 1",181
+386,Ciempozuelos,40.1580087,-3.6205514,13065,La Tinaja,"Calle Dr. Rivas, 4",197
+387,Ciempozuelos,40.1580087,-3.6205514,13065,Angel Garcia de la Serna,"Calle del Doctor Rivas, 45",205
+388,Ciempozuelos,40.1580087,-3.6205514,13065,La Serradora,"Plaza de la Constitución, 2",206
+389,Ciempozuelos,40.1580087,-3.6205514,13065,Delicias de Horno,"Plaza de la Constitución, 8",215
+390,Cobeña,40.5676083,-3.5048565,16032,Parque el Matadero,Cobeña Comunidad de Madrid,170
+391,Cobeña,40.5676083,-3.5048565,16032,Parque Pijos,28863 Cobeña Comunidad de Madrid,617
+392,Cobeña,40.5676083,-3.5048565,16032,Estanque de Patos Cobeña,Cobeña,1502
+393,Cobeña,40.5676083,-3.5048565,17114,Herbolario Naturdietética,"Avenida Guadalajara, 20",202
+394,Cobeña,40.5676083,-3.5048565,13065,Jr,"Calle del Cid, 1",36
+395,Cobeña,40.5676083,-3.5048565,13065,El Refugio,"Carretera Alcalá-Torrelaguna, Km 15,5",116
+396,Cobeña,40.5676083,-3.5048565,13065,El Rey de Oros,"Carretera Alcalá-Torrelaguna, 3",163
+397,Cobeña,40.5676083,-3.5048565,13065,Asador de Cobeña,"Bodeguillas, 5",169
+398,Cobeña,40.5676083,-3.5048565,13065,El Pote,"Calle Olivar, 7",177
+399,Cobeña,40.5676083,-3.5048565,13065,Las Parrillas,"Carretera Alcalá-Torrelaguna, Km 16",185
+400,Cobeña,40.5676083,-3.5048565,13065,Herbolario Naturdietética,"Avenida Guadalajara, 20",202
+401,Cobeña,40.5676083,-3.5048565,13065,El Dos de Oros,"Carretera Alcala - Torrelaguna, 7",212
+402,Cobeña,40.5676083,-3.5048565,13065,La Cueva de los Piratas,"Bronce, 2",811
+403,Collado Mediano,40.6943707,-4.0247212,16032,Parque de Collado Mediano,Comunidad de Madrid,548
+404,Collado Mediano,40.6943707,-4.0247212,16032,Parque de la Tejera,28490 Becerril de la Sierra Comunidad de Madrid,1924
+405,Collado Mediano,40.6943707,-4.0247212,13065,A Xantar,"Calle de la Audiencia, 7",79
+406,Collado Mediano,40.6943707,-4.0247212,13065,Cafeteria Rubio,"Calle Audiencia, 3",89
+407,Collado Mediano,40.6943707,-4.0247212,13065,Las Comadres,"Plaza de la Herrería, 3",121
+408,Collado Mediano,40.6943707,-4.0247212,13065,Alanda Restauracion,"Calle Siete Picos Ub Reajo de, 96",132
+409,Collado Mediano,40.6943707,-4.0247212,13065,Restaurante el Castillo,"Calle la Solana, 16",278
+410,Collado Mediano,40.6943707,-4.0247212,13065,Restaurante Mesta,"Calle Real, 58",495
+411,Collado Mediano,40.6943707,-4.0247212,13065,Tapería Olé,"Calle Real, 84",908
+412,Collado Mediano,40.6943707,-4.0247212,13065,Restaurante Bar Olé,"Calle Real, 84",908
+413,Collado Mediano,40.6943707,-4.0247212,13065,Restaurante el Rincón de la Abuela,"Paseo Alfredo Carneros, 3",1133
+414,Collado Mediano,40.6943707,-4.0247212,13065,Restaurante Koma,"Paseo Rosales, 48",1846
+415,Collado Villalba,40.6431496,-3.9930128,16032,Parque Torre el Raso,28400 Collado Villalba Comunidad de Madrid,210
+416,Collado Villalba,40.6431496,-3.9930128,16032,Parque Peñalba,28400 Collado Villalba Comunidad de Madrid,357
+417,Collado Villalba,40.6431496,-3.9930128,16032,Parque Infantil la Dehesa I,28400 Collado Villalba Comunidad de Madrid,911
+418,Collado Villalba,40.6431496,-3.9930128,16032,Parque Infantil la Dehesa II,28400 Collado Villalba Comunidad de Madrid,1098
+419,Collado Villalba,40.6431496,-3.9930128,16032,Parque de las Heras,Madrid,1152
+420,Collado Villalba,40.6431496,-3.9930128,16032,El Parque de Lolo,,1189
+421,Collado Villalba,40.6431496,-3.9930128,16032,Parque Pinar de las Heras,,1212
+422,Collado Villalba,40.6431496,-3.9930128,16032,Parque de los Aromas,Collado Villalba Comunidad de Madrid,1635
+423,Collado Villalba,40.6431496,-3.9930128,16032,Parque Infantil los Belgas,28400 Collado Villalba Comunidad de Madrid,1828
+424,Collado Villalba,40.6431496,-3.9930128,16032,Parque de los peces,,1904
+425,Collado Villalba,40.6431496,-3.9930128,17114,Zoco Villalba,"Avenida Juan Carlos I, 20",1435
+426,Collado Villalba,40.6431496,-3.9930128,17114,Okaidi Cc los Valles,"Calle Rincón de las Eras, 1",1536
+427,Collado Villalba,40.6431496,-3.9930128,17114,Los Valles,"Camelias, 14",1629
+428,Collado Villalba,40.6431496,-3.9930128,13065,Casa Serafin,"Calle Libertad, 21",74
+429,Collado Villalba,40.6431496,-3.9930128,13065,Restaurante EntreDientes,"Calle Hermanos Martínez Morales, 1",128
+430,Collado Villalba,40.6431496,-3.9930128,13065,Cuore,"Plaza Cuatro Caños, 14A",155
+431,Collado Villalba,40.6431496,-3.9930128,13065,El Raso,"Plaza el Escorial, 3",166
+432,Collado Villalba,40.6431496,-3.9930128,13065,La Vaqueria,"Calle Fuente del Álamo, 6",175
+433,Collado Villalba,40.6431496,-3.9930128,13065,La Viña de Baco,"Plaza Cuatro Caños, s/n",210
+434,Collado Villalba,40.6431496,-3.9930128,13065,La Rosa,"Fuente del Álamo, 20",231
+435,Collado Villalba,40.6431496,-3.9930128,13065,Las Murallas Villa,"Calle Concejo, 7",336
+436,Collado Villalba,40.6431496,-3.9930128,13065,La Espiga de Oro,"Calle Lola Gaos, s/n",393
+437,Collado Villalba,40.6431496,-3.9930128,13065,Urien Gestion,"Calle Rincon de las Heras, 1",408
+438,Colmenar del Arroyo,40.4179997,-4.1972768,13065,Chicotes,"Calle General Franco, 1",55
+439,Colmenar del Arroyo,40.4179997,-4.1972768,13065,Restaurante Chicote's,"Calle General Franco, 1",55
+440,Colmenar del Arroyo,40.4179997,-4.1972768,13065,Doña Filo,"Calle San Juan, 3",74
+441,Colmenar del Arroyo,40.4179997,-4.1972768,13065,Bar Mariano,"Plaza España, 12",117
+442,Colmenar del Arroyo,40.4179997,-4.1972768,13065,Casa Mariano,Plaza España N 2-3,149
+443,Colmenar del Arroyo,40.4179997,-4.1972768,13065,El Rincón de Aroa,"Calle Real, 9",221
+444,Colmenar del Arroyo,40.4179997,-4.1972768,13065,El Bodeguín,"Calle Real, 9",221
+445,Colmenar del Arroyo,40.4179997,-4.1972768,13065,Arrendamientos y Explotaciones Hosteleras,"Avenida Valdemorillo, 2",293
+446,Colmenar de Oreja,40.1074198,-3.3871634,16032,Fuente de los Huertos,Colmenar de Oreja Comunidad de Madrid,666
+447,Colmenar de Oreja,40.1074198,-3.3871634,13065,"Carrero Algovia, M","Plaza Mayor, 20",29
+448,Colmenar de Oreja,40.1074198,-3.3871634,13065,El Palique,"Plaza Mayor, 6",35
+449,Colmenar de Oreja,40.1074198,-3.3871634,13065,Bar Toma T2,"Plaza Mayor, 22",37
+450,Colmenar de Oreja,40.1074198,-3.3871634,13065,Bar confiteria reims,"Plaza Mayor, 12",37
+451,Colmenar de Oreja,40.1074198,-3.3871634,13065,Magerit,"Calle Empedrada, 1",76
+452,Colmenar de Oreja,40.1074198,-3.3871634,13065,El fogón de la iglesia,"Plaza de la Comunidad de Vecinos, 1",76
+453,Colmenar de Oreja,40.1074198,-3.3871634,13065,Restaurante Crescencio,"Calle de Fosant, 1",113
+454,Colmenar de Oreja,40.1074198,-3.3871634,13065,Bar Bocatería Cava Nueva,"Calle Cava, 9",253
+455,Colmenar de Oreja,40.1074198,-3.3871634,13065,Asador Rte. la Paca,"Soledad, 2",276
+456,Colmenar de Oreja,40.1074198,-3.3871634,13065,Luz Nelly Cardona Aguirre,Calle Jarama Nº2,287
+457,Colmenarejo,40.5607257,-4.0165248,16032,Parque Municipal las Quirogas,,263
+458,Colmenarejo,40.5607257,-4.0165248,16032,Parque del tiro,"Calle Cañada de las Merinas, s/n",286
+459,Colmenarejo,40.5607257,-4.0165248,16032,Parque del Huevo,"C/ Cañada de las Merinas, 28270 Colmenarejo Comunidad de Madrid",286
+460,Colmenarejo,40.5607257,-4.0165248,16032,Fuente de colorines,,1373
+461,Colmenarejo,40.5607257,-4.0165248,13065,Genuino Colmenarejo,"Calle los Cruces, 17",41
+462,Colmenarejo,40.5607257,-4.0165248,13065,Cafetería las Adelinas,"Plaza de la Constitución, 2",58
+463,Colmenarejo,40.5607257,-4.0165248,13065,Taberna Azabache,"Calle Maravillas, 8",64
+464,Colmenarejo,40.5607257,-4.0165248,13065,Kebab hut,"Calle San Lorenzo, 4",108
+465,Colmenarejo,40.5607257,-4.0165248,13065,Pizzería LIDI,"Calle Vistalegre, 4",143
+466,Colmenarejo,40.5607257,-4.0165248,13065,El Rincon de Flecha,"Calle Cañada de las Merinas, 56",229
+467,Colmenarejo,40.5607257,-4.0165248,13065,Micai,"Calle del Caracol, 2",229
+468,Colmenarejo,40.5607257,-4.0165248,13065,Hostal Yusta,"Avenida Pablo Iglesias, 12",376
+469,Colmenarejo,40.5607257,-4.0165248,13065,Nativo Restaurante,"Carretera de Galapagar, 28",397
+470,Colmenarejo,40.5607257,-4.0165248,13065,Casa Triana,"Carretera de Galapagar, 34",555
+471,Colmenar Viejo,40.6587726,-3.7659722,16032,Parque Infantil Maestro Almeida,28770 Colmenar Comunidad de Madrid,294
+472,Colmenar Viejo,40.6587726,-3.7659722,16032,Parque de la Estrella,28770 Colmenar Viejo Comunidad de Madrid,323
+473,Colmenar Viejo,40.6587726,-3.7659722,16032,Parque Sebastian Esteban Junquer,Colmenar Viejo Comunidad de Madrid,331
+474,Colmenar Viejo,40.6587726,-3.7659722,16032,Parque Alcalde Cosme Jerez,Calle del Tío Sandalio,446
+475,Colmenar Viejo,40.6587726,-3.7659722,16032,Parque Hierbabuena,28770 Colmenar Viejo Comunidad de Madrid,502
+476,Colmenar Viejo,40.6587726,-3.7659722,16032,Bosque de Almendros,28770 Colmenar Viejo Comunidad de Madrid,600
+477,Colmenar Viejo,40.6587726,-3.7659722,16032,Parque del Moncayo,28770 Colmenar Viejo Comunidad de Madrid,647
+478,Colmenar Viejo,40.6587726,-3.7659722,16032,Parque Agility,28770 Colmenar Viejo Comunidad de Madrid,701
+479,Colmenar Viejo,40.6587726,-3.7659722,16032,Parque Félix Rodríguez de la Fuente,,918
+480,Colmenar Viejo,40.6587726,-3.7659722,16032,La Alameda,Alameda,974
+481,Colmenar Viejo,40.6587726,-3.7659722,17114,La Feria,"Calle del Marqués de Santillana, 6",151
+482,Colmenar Viejo,40.6587726,-3.7659722,17114,El Ventanal de la Sierra,"Avenida de la Libertad, 93",952
+483,Colmenar Viejo,40.6587726,-3.7659722,17114,CC el Ventanal de la Sierra,"Rotonda de los Canteros, s/n",953
+484,Colmenar Viejo,40.6587726,-3.7659722,13065,Finca Peñarrubia,"Carretera San Agustín de Guadalix a Colmenar, Km 3.3",28
+485,Colmenar Viejo,40.6587726,-3.7659722,13065,Pastelería Artesanal Manolo,"Feria, 7",45
+486,Colmenar Viejo,40.6587726,-3.7659722,13065,Cafetería Manhattan,"Calle Real, 9",119
+487,Colmenar Viejo,40.6587726,-3.7659722,13065,La Toscana Colmenar,"Calle Cruz del Alamillo, 1",125
+488,Colmenar Viejo,40.6587726,-3.7659722,13065,Meson Aljarafe,Calle de la Retama Nº5,205
+489,Colmenar Viejo,40.6587726,-3.7659722,13065,Rte. Cafeteria el Lagar,"Calle del Cura, 24",223
+490,Colmenar Viejo,40.6587726,-3.7659722,13065,Alhajas Gourmet,"Calle Pedro López, 2",236
+491,Colmenar Viejo,40.6587726,-3.7659722,13065,La Taberna San Lucar,"Calle Retama, 11",258
+492,Colmenar Viejo,40.6587726,-3.7659722,13065,Bar Cafetería la Roca,"Calle de Hondorrio, 13",263
+493,Colmenar Viejo,40.6587726,-3.7659722,13065,La Escalinata,"Retama, 18",294
+494,Coslada,40.423802,-3.5552882,16032,Parque de Carlos Marx,"Calle de Miguel Hernández, 28822 Coslada Comunidad de Madrid",70
+495,Coslada,40.423802,-3.5552882,16032,Parque de las Casitas,28822 Coslada Comunidad de Madrid,323
+496,Coslada,40.423802,-3.5552882,16032,Saltilandia,"Avenida España, 23",613
+497,Coslada,40.423802,-3.5552882,16032,Parque de el Cerro,28822 Coslada Comunidad de Madrid,672
+498,Coslada,40.423802,-3.5552882,16032,Parque la Rambla,La Rambla,702
+499,Coslada,40.423802,-3.5552882,16032,El Parque,"Calle  de José Martí, 28822 Coslada Comunidad de Madrid",725
+500,Coslada,40.423802,-3.5552882,16032,Parque Infantil -Recinto Ferial,28821 Coslada Comunidad de Madrid,747
+501,Coslada,40.423802,-3.5552882,16032,Recinto Ferial,Coslada Madrid,750
+502,Coslada,40.423802,-3.5552882,16032,Parque Pellas,"Calle Bucarest, 28822 Coslada Comunidad de Madrid",956
+503,Coslada,40.423802,-3.5552882,16032,Parque Salvador Allende,"C/ Colombia, 28823 Coslada Comunidad de Madrid",970
+504,Coslada,40.423802,-3.5552882,17114,Zocoslada,"Avenida de España, 23",579
+505,Coslada,40.423802,-3.5552882,17114,Centro Comercial la Rambla,Coslada Comunidad de Madrid,969
+506,Coslada,40.423802,-3.5552882,17114,Los Valles,"Avenida Principes de España de l, 45",1039
+507,Coslada,40.423802,-3.5552882,17114,La Rambla,"Calle Honduras, 25-27",1129
+508,Coslada,40.423802,-3.5552882,17114,Comercial Valencia,"Calle Córdoba, s/n",1916
+509,Coslada,40.423802,-3.5552882,13065,Taberna del Xino,"Calle Uruguay Frente al Numero, 1",219
+510,Coslada,40.423802,-3.5552882,13065,Cafeteria Alberto,"Calle de Buenos Aires, 1B",317
+511,Coslada,40.423802,-3.5552882,13065,Domino's Pizza,"Avenida de la Constitución, 85",385
+512,Coslada,40.423802,-3.5552882,13065,Pastelería Agmina,"Calle del Dr. Castroviejo, 5",542
+513,Coslada,40.423802,-3.5552882,13065,La Mancheguita Restaurante,"Calle Honduras, s/n",576
+514,Coslada,40.423802,-3.5552882,13065,El Autor,"Calle Pablo Neruda, 17-25",585
+515,Coslada,40.423802,-3.5552882,13065,Vips,"Avenida José Gárate, s/n",621
+516,Coslada,40.423802,-3.5552882,13065,VIPS Plaza Coslada,"Avenida de José Gárate, s/n",624
+517,Coslada,40.423802,-3.5552882,13065,La Rambla,Cartagena Regíón de Murcia,639
+518,Coslada,40.423802,-3.5552882,13065,Restaurante Pizzería Mayor,"Plaza Doctor Marañón, 3",642
+519,Cubas de la Sagra,40.1908352,-3.8378366,16032,Parque de la Malata,28978 Cubas Comunidad de Madrid,547
+520,Cubas de la Sagra,40.1908352,-3.8378366,16032,Parque San Isidro,Cubas de la Sagra Comunidad de Madrid,813
+521,Cubas de la Sagra,40.1908352,-3.8378366,16032,Parque las Pérgolas,Cubas de la Sagra Comunidad de Madrid,1176
+522,Cubas de la Sagra,40.1908352,-3.8378366,13065,Los Hornos,"Carretera Carranque, Km 2",89
+523,Cubas de la Sagra,40.1908352,-3.8378366,13065,Bar Terraza Jardin,Calle San Sebastian,202
+524,Cubas de la Sagra,40.1908352,-3.8378366,13065,Las Tinajas,"Sagrado Corazón, 26",233
+525,Cubas de la Sagra,40.1908352,-3.8378366,13065,El Bombín de Sabina,"Calle de la Torrecilla, 23",417
+526,Cubas de la Sagra,40.1908352,-3.8378366,13065,Quinta del Alba,"Carretera de Griñón a Cubas de la Sagra, Km 1",1106
+527,Cubas de la Sagra,40.1908352,-3.8378366,13065,Cafeteria Pasteleria Cubas Plaza,"Calle Acacias, 1",1302
+528,Cubas de la Sagra,40.1908352,-3.8378366,13065,Finca los Cotos,"Camino de Madrid, s/n",1393
+529,Daganzo de Arriba,40.5451953,-3.45785,16032,Parque del Globo,"Calle Cuesta Lengua, 34",362
+530,Daganzo de Arriba,40.5451953,-3.45785,16032,Parque 11 de Marzo,28814 Daganzo de Arriba Comunidad de Madrid,370
+531,Daganzo de Arriba,40.5451953,-3.45785,16032,Parque Infantil,,602
+532,Daganzo de Arriba,40.5451953,-3.45785,16032,Parque forestal María Marzol,28814 Daganzo de Arriba Comunidad de Madrid,1908
+533,Daganzo de Arriba,40.5451953,-3.45785,13065,Serrano Ii,"Polígono Industrial los Frailes, Parc, 71",51
+534,Daganzo de Arriba,40.5451953,-3.45785,13065,Irish Tavern,"Calle Oriente, 9",97
+535,Daganzo de Arriba,40.5451953,-3.45785,13065,Bar Polvorilla,"Calle Alcala, 7",137
+536,Daganzo de Arriba,40.5451953,-3.45785,13065,Restaurante Punto de Origen,"Calle Príncipe Felipe, 21",163
+537,Daganzo de Arriba,40.5451953,-3.45785,13065,Dorado,"Calle Principe Felipe, 17",163
+538,Daganzo de Arriba,40.5451953,-3.45785,13065,Cafetería O'Donnell,"Calle Príncipe Felipe, 27",193
+539,Daganzo de Arriba,40.5451953,-3.45785,13065,Ac cafeteria o'donell inversiones,"Calle Principe Felipe, 27",193
+540,Daganzo de Arriba,40.5451953,-3.45785,13065,Los Alcaldes de Daganzo,"Carretera Fresno, 24",207
+541,Daganzo de Arriba,40.5451953,-3.45785,13065,Daganzo,"Carretera Cobeña, 1",240
+542,Daganzo de Arriba,40.5451953,-3.45785,13065,Boca a Boca,Carretera Alcalá M-118,249
+543,Real Monasterio de San Lorenzo de El Escorial,40.5890661,-4.147394873409854,16032,Arboleda Calzada Lonja Monasterio de el Escorial,28200 El Escorial Comunidad de Madrid,198
+544,Real Monasterio de San Lorenzo de El Escorial,40.5890661,-4.147394873409854,16032,Parque de Adolfo Suárez,"Paseo de los Alamillos, 28200 El Escorial Comunidad de Madrid",288
+545,Real Monasterio de San Lorenzo de El Escorial,40.5890661,-4.147394873409854,16032,Parque de Felipe II,"calle Infantes, 28200 El Escorial Comunidad de Madrid",360
+546,Real Monasterio de San Lorenzo de El Escorial,40.5890661,-4.147394873409854,16032,Plaza Juan de Herrera,28200 El Escorial Comunidad de Madrid,370
+547,Real Monasterio de San Lorenzo de El Escorial,40.5890661,-4.147394873409854,16032,Parque la Ladera,El Escorial Comunidad de Madrid,396
+548,Real Monasterio de San Lorenzo de El Escorial,40.5890661,-4.147394873409854,16032,Parque de los Romeros,28200 El Escorial Comunidad de Madrid,565
+549,Real Monasterio de San Lorenzo de El Escorial,40.5890661,-4.147394873409854,16032,Los Romeros,,575
+550,Real Monasterio de San Lorenzo de El Escorial,40.5890661,-4.147394873409854,16032,Parque de la Herreria,El Escorial Comunidad de Madrid,613
+551,Real Monasterio de San Lorenzo de El Escorial,40.5890661,-4.147394873409854,16032,Manguilla,,1426
+552,Real Monasterio de San Lorenzo de El Escorial,40.5890661,-4.147394873409854,16032,Parque de los Columpios,28280 El Escorial Comunidad de Madrid,1483
+553,Real Monasterio de San Lorenzo de El Escorial,40.5890661,-4.147394873409854,17114,Centro Comercial GIGANTE,"Polígono Industrial Matacuervos, 5",1987
+554,Real Monasterio de San Lorenzo de El Escorial,40.5890661,-4.147394873409854,13065,Best Western Hotel Florida,Calle Floridablanca No 12-14,194
+555,Real Monasterio de San Lorenzo de El Escorial,40.5890661,-4.147394873409854,13065,caffetteria ristorante del Arte,Calle Floridablanca 12-14,207
+556,Real Monasterio de San Lorenzo de El Escorial,40.5890661,-4.147394873409854,13065,Cafe del Coliseo,"Calle Floridablanca, 20",208
+557,Real Monasterio de San Lorenzo de El Escorial,40.5890661,-4.147394873409854,13065,Cerveceria Don Felipe,"Calle Floridablanca, 7",215
+558,Real Monasterio de San Lorenzo de El Escorial,40.5890661,-4.147394873409854,13065,Parrilla Príncipe,"Mariano Benavente, 12",227
+559,Real Monasterio de San Lorenzo de El Escorial,40.5890661,-4.147394873409854,13065,Madrid-Sevilla,"Calle Mariano Benavente, 1",235
+560,Real Monasterio de San Lorenzo de El Escorial,40.5890661,-4.147394873409854,13065,La Cueva,"Calle San Antón, 4",239
+561,Real Monasterio de San Lorenzo de El Escorial,40.5890661,-4.147394873409854,13065,El Balcon de Piedra,"Calle San Anton, 4",239
+562,Real Monasterio de San Lorenzo de El Escorial,40.5890661,-4.147394873409854,13065,La Taberna de Antioquia,"Calle Mariano Benavente, 5",240
+563,Real Monasterio de San Lorenzo de El Escorial,40.5890661,-4.147394873409854,13065,Croché Cafetín,"Calle San Lorenzo, 6",241
+564,Estremera,40.1847306,-3.1062403,13065,El Rincon de Higuerlop,"Iglesia, 25",168
+565,Fresnedillas de la Oliva,40.486444,-4.1723486,13065,La Hosteria de Fresnedillas,"Calle Real, 53",193
+566,Fresnedillas de la Oliva,40.486444,-4.1723486,13065,Taberna Amador,"Real, 57",199
+567,Fresnedillas de la Oliva,40.486444,-4.1723486,13065,Casa de Comidas Amador,"Calle Real, 57",205
+568,Fresnedillas de la Oliva,40.486444,-4.1723486,13065,Restaurante la REAL,"Carretera de Robledo, 2",237
+569,Fresnedillas de la Oliva,40.486444,-4.1723486,13065,Real Barbacoa,"Carretera Robledo de Chavela, 2",237
+570,Fresnedillas de la Oliva,40.486444,-4.1723486,13065,El Rincón de Casavieja,"Calle de la Iglesia, 2",316
+571,Fresnedillas de la Oliva,40.486444,-4.1723486,13065,El Arbol del Pan,"Carretera de Colmenar del Arroyo, 5",333
+572,Fresnedillas de la Oliva,40.486444,-4.1723486,13065,Quesería la Cabezuela,"Cabezuela, 14",838
+573,Fuenlabrada,40.282476,-3.7923422,16032,Parque Infantil,"Calle de Doctor Miguel Aguado, 28944 Fuenlabrada Comunidad de Madrid",259
+574,Fuenlabrada,40.282476,-3.7923422,16032,Moruzosland,,470
+575,Fuenlabrada,40.282476,-3.7923422,16032,Parque del Olivar,Olivar,482
+576,Fuenlabrada,40.282476,-3.7923422,16032,Parque de los Estados,"Avenida de los Estados, 12",548
+577,Fuenlabrada,40.282476,-3.7923422,16032,Parque de Perros,28945 Fuenlabrada Comunidad de Madrid,552
+578,Fuenlabrada,40.282476,-3.7923422,16032,Parque Infantil,28944 Fuenlabrada Comunidad de Madrid,605
+579,Fuenlabrada,40.282476,-3.7923422,16032,Parque de Leganés,"Calle de Leganés, 31",630
+580,Fuenlabrada,40.282476,-3.7923422,16032,Parque de la urbanización,"Calle Noria, 28944 Fuenlabrada Comunidad de Madrid",645
+581,Fuenlabrada,40.282476,-3.7923422,16032,Bulevar Primero de Mayo,,654
+582,Fuenlabrada,40.282476,-3.7923422,16032,ParQue de las R£g!OneS,28941 Fuenlabrada Comunidad de Madrid,674
+583,Fuenlabrada,40.282476,-3.7923422,17114,Condis,"Móstoles, s/n",1334
+584,Fuenlabrada,40.282476,-3.7923422,17114,Asesoría Fuenlabrada 2,"Calle Portugal, 33",1446
+585,Fuenlabrada,40.282476,-3.7923422,17114,Plaza de las Provincias,"Avenida Provincias, 18",1740
+586,Fuenlabrada,40.282476,-3.7923422,17114,C.C. las Provincias,"Avenida de las Provincias, 18-22",1753
+587,Fuenlabrada,40.282476,-3.7923422,13065,Cafetería Boise,"Plaza, 16",43
+588,Fuenlabrada,40.282476,-3.7923422,13065,Mezclas,"Calle de la Plaza, 24",90
+589,Fuenlabrada,40.282476,-3.7923422,13065,La Santa Sed,"Calle de las Navas, 11",136
+590,Fuenlabrada,40.282476,-3.7923422,13065,La Kujnia,"Calle de Castillejos, 16",199
+591,Fuenlabrada,40.282476,-3.7923422,13065,Asador el Chef,"Calle Castillejos, 24",323
+592,Fuenlabrada,40.282476,-3.7923422,13065,Ro'Os,"Avenida Francisco Javier Sauquillo, 28",368
+593,Fuenlabrada,40.282476,-3.7923422,13065,Mesón Alcarria,"Calle del Plata, 8",397
+594,Fuenlabrada,40.282476,-3.7923422,13065,Cheers,"Calle de Extremadura, 17",399
+595,Fuenlabrada,40.282476,-3.7923422,13065,Bar Quintanero,"Calle de Pozuelo, 23",538
+596,Fuenlabrada,40.282476,-3.7923422,13065,Galicia Meson Restaurante,"Calle Extremadura, 4",585
+597,Fuenlabrada,40.282476,-3.7923422,11037,Toolquick,"Galana, 4",413
+598,Fuente el Saz de Jarama,40.6312151,-3.5125918,16032,Parque de la Igualdad,Avenida Julián Sanchez,169
+599,Fuente el Saz de Jarama,40.6312151,-3.5125918,16032,Pececitos al Agua,28140 Fuente El Saz de Jarama Comunidad de Madrid,238
+600,Fuente el Saz de Jarama,40.6312151,-3.5125918,16032,Parque Madroños 3,28140 Fuente El Saz de Jarama Comunidad de Madrid,450
+601,Fuente el Saz de Jarama,40.6312151,-3.5125918,16032,Tu Castillo,"Calle Almendralejos, 53 Bajo",651
+602,Fuente el Saz de Jarama,40.6312151,-3.5125918,13065,Restaurante la Cava,"Calle Cruces, 22",110
+603,Fuente el Saz de Jarama,40.6312151,-3.5125918,13065,Asador de Pollos la Granjilla,"Avenida Julian Sanchez, 9",174
+604,Fuente el Saz de Jarama,40.6312151,-3.5125918,13065,Taberna Casa Benito,"Plaza de San Pedro, 2",186
+605,Fuente el Saz de Jarama,40.6312151,-3.5125918,13065,La Alegria del Pastor,"Algete, 18-20",222
+606,Fuente el Saz de Jarama,40.6312151,-3.5125918,13065,Rose Mary,"Plaza de la Villa, 4",270
+607,Fuente el Saz de Jarama,40.6312151,-3.5125918,13065,Panadería Nietos de Ramiro,"Avenida del Pilar, 12",325
+608,Fuente el Saz de Jarama,40.6312151,-3.5125918,13065,Bar Cafetería JE-TA,"Calle Cadena, 4",346
+609,Fuente el Saz de Jarama,40.6312151,-3.5125918,13065,Mesón Asador Chumbica,"Calle Mayor, 3",359
+610,Fuente el Saz de Jarama,40.6312151,-3.5125918,13065,Bar Mayor,"Calle Mayor, 7",378
+611,Fuente el Saz de Jarama,40.6312151,-3.5125918,13065,Bar Restaurante los Arcos,"Talamanca, 37",547
+612,Fuentidueña de Tajo,40.1185446,-3.160254,13065,Mesón Plaza,"Avenida de Elena Soriano, 26",131
+613,Fuentidueña de Tajo,40.1185446,-3.160254,13065,El Rincón de Tomás,"Avenida de Elena Soriano, 30",140
+614,Fuentidueña de Tajo,40.1185446,-3.160254,13065,Casa Nova Restaurante,"Carretera Madrid-Valencia, Km 62,5",643
+615,Galapagar,40.5774992,-4.0037748,16032,Parque Infantil,28260 Galapagar Comunidad de Madrid,104
+616,Galapagar,40.5774992,-4.0037748,13065,El Horno de Cheval,"Plaza Constitución, 6",27
+617,Galapagar,40.5774992,-4.0037748,13065,Cafetería-Pub Cheval,"Plaza Constitución, 7",27
+618,Galapagar,40.5774992,-4.0037748,13065,Imperial,"Avenida de los Voluntarios, 1",40
+619,Galapagar,40.5774992,-4.0037748,13065,Restaurante Pivo,"Calle Concejo, 2",47
+620,Galapagar,40.5774992,-4.0037748,13065,Tommate,"Calle del Arco, 6",48
+621,Galapagar,40.5774992,-4.0037748,13065,Pizza por Metro,"Arco, 6",50
+622,Galapagar,40.5774992,-4.0037748,13065,Titi y la Tormenta,"Calle Concejo, 4",52
+623,Galapagar,40.5774992,-4.0037748,13065,Jijonenca Galapagar,"Concejo, 6",52
+624,Galapagar,40.5774992,-4.0037748,13065,La Bendita Tasca,"Plaza Alfonso X, 3",72
+625,Galapagar,40.5774992,-4.0037748,13065,Shamrock Irish Tavern,"Calle Caño, 2",77
+626,Garganta de los Montes,40.9216084,-3.6866546,13065,Restaurante Quercus,"Plaza de San Pedro, 11",817
+627,Gargantilla del Lozoya y Pinilla de Buitrago,40.96551504999999,-3.707790763414728,13065,Restaurante la Casa de Paula,"Calle Chopo, 2",706
+628,Gargantilla del Lozoya y Pinilla de Buitrago,40.96551504999999,-3.707790763414728,13065,Sierra Molero,"Carretera de Gargantilla, 23",915
+629,Gascones,41.0185654,-3.641499,16032,Parque de las Avenidas,09006 Burgos Burgos,1089
+630,Gascones,41.0185654,-3.641499,13065,El Cazador,"Plaza de la Constitucion, 12",114
+631,Gascones,41.0185654,-3.641499,13065,Casa rural la Carcava,"Calle del Arroyo, 12",1802
+632,Gascones,41.0185654,-3.641499,13065,Bar Tasca,"Calle de los Peligros, 9",1951
+633,Getafe,40.3070639,-3.7331808,16032,Parque los Escolapios,Comunidad de Madrid,184
+634,Getafe,40.3070639,-3.7331808,16032,Parque infantil Pocoyo,Getafe Comunidad de Madrid,245
+635,Getafe,40.3070639,-3.7331808,16032,Plaza del Matadero,Getafe Comunidad de Madrid,545
+636,Getafe,40.3070639,-3.7331808,16032,Plaza Heredia,Comunidad de Madrid,713
+637,Getafe,40.3070639,-3.7331808,16032,Parque el Greco,"Calle de el Greco, 6",727
+638,Getafe,40.3070639,-3.7331808,16032,Parque Infantil Paseo de la Estación,Getafe Comunidad de Madrid,892
+639,Getafe,40.3070639,-3.7331808,16032,Parque de la Alhóndiga,28905 Getafe Comunidad de Madrid,913
+640,Getafe,40.3070639,-3.7331808,16032,Parque Lineal Universidad Carlos III,,1359
+641,Getafe,40.3070639,-3.7331808,16032,Parque Infantíl Aviocar,,1569
+642,Getafe,40.3070639,-3.7331808,16032,Columpios el Bercial,28907 Getafe Comunidad de Madrid,1638
+643,Getafe,40.3070639,-3.7331808,17114,Puma Sports Spain,"Avenida Río Guadalquivir Área Emp. Andalucía, 15",1400
+644,Getafe,40.3070639,-3.7331808,17114,C.C. Getafe 3,"Centro Comercial Getafe, 3",1605
+645,Getafe,40.3070639,-3.7331808,17114,Centro Comercial Getafe III,"Plaza Juan Carlos I, 1 Bajo",1664
+646,Getafe,40.3070639,-3.7331808,13065,Telepizza,"Calle Concepción, 14",43
+647,Getafe,40.3070639,-3.7331808,13065,Bar Valerio,"Calle General Pingarrón, 1",91
+648,Getafe,40.3070639,-3.7331808,13065,La Chulona de Chamberí,"Calle Vallehermoso, 72",142
+649,Getafe,40.3070639,-3.7331808,13065,Oskar Burguer,"Madrid, 17",190
+650,Getafe,40.3070639,-3.7331808,13065,100 Montaditos,"Plaza Escuelas Pías, 7",212
+651,Getafe,40.3070639,-3.7331808,13065,The Galway Irish Pub,"Calle Cuestas Altas, 3",241
+652,Getafe,40.3070639,-3.7331808,13065,Mocca Cafe,"Calle de Toledo, 1",249
+653,Getafe,40.3070639,-3.7331808,13065,Bar las bravas,"Calle Villaviciosa, 3",263
+654,Getafe,40.3070639,-3.7331808,13065,La Colegiata,"Velasco, 13",277
+655,Getafe,40.3070639,-3.7331808,13065,Restaurante la Tagliatella,"Calle Madrid, 51",304
+656,Getafe,40.3070639,-3.7331808,11037,Gruas Centro,"Calle Daza Valdes, 10",1879
+657,Griñón,40.2136607,-3.8581479,16032,Club Agility ESLON,Serranillos del Valle Comunidad de Madrid,1442
+658,Griñón,40.2136607,-3.8581479,16032,Parque las Pérgolas,Cubas de la Sagra Comunidad de Madrid,1949
+659,Griñón,40.2136607,-3.8581479,17114,Rastro Máquinas,"Calle Italia, 4",829
+660,Griñón,40.2136607,-3.8581479,13065,Azucar & Limón,"Calle Mayor, 109",197
+661,Griñón,40.2136607,-3.8581479,13065,Yunke,"Calle Mayor, 105",269
+662,Griñón,40.2136607,-3.8581479,13065,El Viejo Cafe,"Calle Mayor, 76",269
+663,Griñón,40.2136607,-3.8581479,13065,Tahona Vara,"Calle Mayor, 63",419
+664,Griñón,40.2136607,-3.8581479,13065,Pollo Listo,"Paseo Cárcava, 3",438
+665,Griñón,40.2136607,-3.8581479,13065,The Irish Parrot Tavern,"Plaza Mayor, 13",501
+666,Griñón,40.2136607,-3.8581479,13065,Bar Restaurante Taberna,"Calle Carlos Ruiz, 4",504
+667,Griñón,40.2136607,-3.8581479,13065,Embocado,"Calle Juan Carlos I, 14",505
+668,Griñón,40.2136607,-3.8581479,13065,Selene,"Calle de Carlos Ruiz, 7",507
+669,Griñón,40.2136607,-3.8581479,13065,Restaurante el Lechal,"Avenida Navalcarnero, 44",521
+670,Guadalix de la Sierra,40.7822384,-3.7007794,16032,El Encinar,"Calle Ildefonso, 20",531
+671,Guadalix de la Sierra,40.7822384,-3.7007794,13065,Bar Boni,"Calle Caño, 9",591
+672,Guadalix de la Sierra,40.7822384,-3.7007794,13065,Industrias Hosteleria Junco,"Carretera Miraflores, 3",627
+673,Guadalix de la Sierra,40.7822384,-3.7007794,13065,Asador Junco,"Avenida Alejandro Rubio, 101",666
+674,Guadalix de la Sierra,40.7822384,-3.7007794,13065,Industrias Hosteleria Junco,"Avenida Alejandro Rubio, 5",677
+675,Guadalix de la Sierra,40.7822384,-3.7007794,13065,Restaurante Parrila la Plazuela,"Travesia de la Carniceria, 7",703
+676,Guadalix de la Sierra,40.7822384,-3.7007794,13065,El Delantal comida casera para llevar,"Calle Sierra, 4",811
+677,Guadalix de la Sierra,40.7822384,-3.7007794,13065,Las Tres Rosas,"Plaza Egido, 3",820
+678,Guadalix de la Sierra,40.7822384,-3.7007794,13065,El Llantar de la Sierra,"Camino Fuente Grande, 1",991
+679,Guadarrama,40.6734454,-4.0893911,16032,El Parque,Comunidad de Madrid,13
+680,Guadarrama,40.6734454,-4.0893911,16032,Parque del Ayuntamiento Guadarrama,28440 Guadarrama Comunidad de Madrid,25
+681,Guadarrama,40.6734454,-4.0893911,16032,Galpark Iberica,"Polígono Industrial la Mata, 48",169
+682,Guadarrama,40.6734454,-4.0893911,16032,Ludobichos,"Reyes Católicos, 3",188
+683,Guadarrama,40.6734454,-4.0893911,16032,Ludo Bichos,"Calle Reyes Católicos, 3",188
+684,Guadarrama,40.6734454,-4.0893911,16032,Parque la Dehesa,28440 Guadarrama Comunidad de Madrid,659
+685,Guadarrama,40.6734454,-4.0893911,16032,Parque del dragón,Guadarrama Comunidad de Madrid,711
+686,Guadarrama,40.6734454,-4.0893911,13065,Los Caños,"Calle Alfonso Senra, 51",32
+687,Guadarrama,40.6734454,-4.0893911,13065,Café Claqué,"Calle Leones de Castilla, 14",48
+688,Guadarrama,40.6734454,-4.0893911,13065,Bar-Restaurate el Horizonte,"Calle Alfonso Senra, 21",83
+689,Guadarrama,40.6734454,-4.0893911,13065,La Puerta Verde,"Calle Alfonso Senra, 29",93
+690,Guadarrama,40.6734454,-4.0893911,13065,Hostal González,"General Mola, 2",95
+691,Guadarrama,40.6734454,-4.0893911,13065,Pinokio Guadarrama,"Calle Alfonso Senra, 21",97
+692,Guadarrama,40.6734454,-4.0893911,13065,Texas tavern,"Alfonso Senra, 21",97
+693,Guadarrama,40.6734454,-4.0893911,13065,Panaderia Micre,"Calle el Escorial, 6",112
+694,Guadarrama,40.6734454,-4.0893911,13065,Asador los Caños,"Plaza Caños, 1",118
+695,Guadarrama,40.6734454,-4.0893911,13065,Bar-Cafetería Ficha,"Calle de Alfonso Senra, 31",118
+696,La Hiruela,41.0779223,-3.4552928,13065,Ayuntamiento de la Hiruela,"Enmedio, 11",53
+697,La Hiruela,41.0779223,-3.4552928,13065,Casa Aldaba,"Calle del Pilón, 51",106
+698,Horcajuelo de la Sierra,41.0601151,-3.5457391,13065,Restaurante el Pajar - Un Pajar de 200 a,"Calle de la Comunidad de Madrid, 9",105
+699,Horcajuelo de la Sierra,41.0601151,-3.5457391,13065,La Ladera de Horcajuelo,"Calle Blanco, 17",215
+700,Horcajuelo de la Sierra,41.0601151,-3.5457391,13065,El Rincón del Cárabo,"Calle Pozas, 40",222
+701,Horcajuelo de la Sierra,41.0601151,-3.5457391,13065,Restaurante la Hontanilla,"Avenida Soto, 24 y, 36",832
+702,Horcajuelo de la Sierra,41.0601151,-3.5457391,13065,Alojamientos la Hontanilla,"Avenida el Soto, 2",889
+703,Horcajuelo de la Sierra,41.0601151,-3.5457391,13065,Panadería Nani,"Plaza Mayor, 3",1308
+704,Horcajuelo de la Sierra,41.0601151,-3.5457391,13065,El Hayedo,"Travesía de Horcajuelo, 13",1365
+705,Horcajuelo de la Sierra,41.0601151,-3.5457391,13065,Los Naranjos,"Calle del Real, 19",1478
+706,Horcajuelo de la Sierra,41.0601151,-3.5457391,13065,Taberna el Trebol,"Calle Rosario, 1",1838
+707,Horcajuelo de la Sierra,41.0601151,-3.5457391,13065,Bar el Rincón,"Calle Real, 8",1890
+708,Hoyo de Manzanares,40.6227334,-3.9072054,16032,Parque Alcantara,Hoyo de Manzanares Comunidad de Madrid,67
+709,Hoyo de Manzanares,40.6227334,-3.9072054,16032,La cabilda,,1069
+710,Hoyo de Manzanares,40.6227334,-3.9072054,13065,La Plaza,"Plaza Caldereta, 1",56
+711,Hoyo de Manzanares,40.6227334,-3.9072054,13065,Churros y tapas,"San Sebastián, 3",56
+712,Hoyo de Manzanares,40.6227334,-3.9072054,13065,Churreria Caño,"San Sebastián, 3",56
+713,Hoyo de Manzanares,40.6227334,-3.9072054,13065,Cafe Mayor,"Avenida de la Paloma, 2",65
+714,Hoyo de Manzanares,40.6227334,-3.9072054,13065,El Vagón de Beni,"Calle San Macario, 6",72
+715,Hoyo de Manzanares,40.6227334,-3.9072054,13065,Casa Chaqueta,"Paseo Mayor, 7",80
+716,Hoyo de Manzanares,40.6227334,-3.9072054,13065,Chema's Bar,"Calle Hurtada, 9",106
+717,Hoyo de Manzanares,40.6227334,-3.9072054,13065,Caribe,"Plaza de la Iglesia, 3",107
+718,Hoyo de Manzanares,40.6227334,-3.9072054,13065,Espaten,"Plaza Ntra. Sra. del Rosario, 1",113
+719,Hoyo de Manzanares,40.6227334,-3.9072054,13065,Café de la Higuera,"Calle de las Eras, 16",114
+720,Humanes de Madrid,40.2508847,-3.8270997,16032,Parque de la Rana,,110
+721,Humanes de Madrid,40.2508847,-3.8270997,16032,Parque Hnos,28970 Humanes de Madrid Comunidad de Madrid,738
+722,Humanes de Madrid,40.2508847,-3.8270997,16032,Parque Tebas,,965
+723,Humanes de Madrid,40.2508847,-3.8270997,16032,Prado de la Casa,Humanes de Madrid Comunidad de Madrid,1629
+724,Humanes de Madrid,40.2508847,-3.8270997,13065,Gasco Restauracion,"Plaza de la Constitucion, 18",186
+725,Humanes de Madrid,40.2508847,-3.8270997,13065,La Caba,"Plaza de la Constitucion, 18",198
+726,Humanes de Madrid,40.2508847,-3.8270997,13065,All Stars,"Avenida del Mediterraneo, 2",210
+727,Humanes de Madrid,40.2508847,-3.8270997,13065,Alarcopan,"Calle Madrid, 30",220
+728,Humanes de Madrid,40.2508847,-3.8270997,13065,Taberna de Maria,"Avenida Mediterraneo, 2",228
+729,Humanes de Madrid,40.2508847,-3.8270997,13065,El Mirador,"Margarita Pol. Lomo, 2",239
+730,Humanes de Madrid,40.2508847,-3.8270997,13065,La Esquina de Robert y Bea,"Avenida Industria, 48-50",244
+731,Humanes de Madrid,40.2508847,-3.8270997,13065,Cafetería Ortíz,"Calle del Olivo, 2",259
+732,Humanes de Madrid,40.2508847,-3.8270997,13065,Mi Dulce Mordisco,"Islas Medas, 23",290
+733,Humanes de Madrid,40.2508847,-3.8270997,13065,Asador de Pollos la Dori,"Avenida Campo Hermoso, 33",323
+734,Leganes,10.785528,122.5888137,13065,Kev's Drop Off Grill and Restaurant,5000 Iloilo City,93
+735,Leganes,10.785528,122.5888137,13065,Dimsum Panda,"5003 Leganes, Iloilo",100
+736,Leganes,10.785528,122.5888137,13065,Yet Tongs Seafood Restaurant,"5003 Leganes, Iloilo",108
+737,Leganes,10.785528,122.5888137,13065,Bebot & Mila Talabahan,National Highway,184
+738,Leganes,10.785528,122.5888137,13065,Tibz Batchoy,"5003 Leganes, Iloilo",238
+739,Leganes,10.785528,122.5888137,13065,Jong's Grill,"5000 Iloilo City, Iloilo",333
+740,Leganes,10.785528,122.5888137,13065,Kim's Bob,"5000 Iloilo City, Iloilo",823
+741,Leganes,10.785528,122.5888137,13065,Minute Burger,"5003 Iloilo City, Iloilo",873
+742,Leganes,10.785528,122.5888137,13065,La Viña Del Señor,5003 Leganes,1506
+743,Leganes,10.785528,122.5888137,13065,tiolas San Joanquin iloilo,5000 Iloilo City,1819
+744,Loeches,40.3837901,-3.4092281,16032,Parque 2 de mayo,,578
+745,Loeches,40.3837901,-3.4092281,13065,Complejo Cervantes,"Carretera Loeches-Torrejón de Ardoz M-206, Km 2.60",5
+746,Loeches,40.3837901,-3.4092281,13065,Cafeteria Bar Loeches,"Calle Toriles, 2",52
+747,Loeches,40.3837901,-3.4092281,13065,Bar Flor,Plaza de la Villa 9-10,58
+748,Loeches,40.3837901,-3.4092281,13065,Capitol,"Avenida Constitución, 3",65
+749,Loeches,40.3837901,-3.4092281,13065,Candy Witch,"La Chorrera, 11",93
+750,Loeches,40.3837901,-3.4092281,13065,Al Alba,"Calle Chorrera, 11",101
+751,Loeches,40.3837901,-3.4092281,13065,Cafeteria Pasteleria Rocio,"Avenida de la Constitucion Numero, 17",140
+752,Loeches,40.3837901,-3.4092281,13065,Casa Ronquillo,"Chorrera, 12",156
+753,Loeches,40.3837901,-3.4092281,13065,Restaurante Ronquillo,"Calle la Chorrera, 12",161
+754,Loeches,40.3837901,-3.4092281,13065,Chocolates la Plata,"Calle Bronce, Parcela, 31",204
+755,Lozoya,40.9513281,-3.7917078,13065,Cafe Bar Restaurante Paulino,"Travesia de San Vicente, 8",74
+756,Lozoya,40.9513281,-3.7917078,13065,Restaurante Fernando,"Plaza Antonio Blanco, 11",126
+757,Lozoya,40.9513281,-3.7917078,13065,D'Tapas,"Plaza Antonio Blanco, 3",140
+758,Lozoya,40.9513281,-3.7917078,13065,Restaurante Bar Serna,"Plaza de Antonio Blanco, 9",144
+759,Lozoya,40.9513281,-3.7917078,13065,D´Tapas,"Avenida Juan Carlos I, 3",144
+760,Lozoya,40.9513281,-3.7917078,13065,El Balcon de Tito,"Plaza de Antonio Blanco, 9-11",149
+761,Lozoya,40.9513281,-3.7917078,13065,Meson - Restaurante el Valle de Lozoya,"Avenida de Lozoya, 13",159
+762,Lozoya,40.9513281,-3.7917078,13065,Casa Varillas,"Avenida Lozoya, 27",289
+763,Lozoya,40.9513281,-3.7917078,13065,El Pajar de Fuente Hernando,"Calle Eras Chicas, s/n",369
+764,Lozoya,40.9513281,-3.7917078,13065,El Observatorio de Lozoya,"Carretera Rascafría M-604, Km 14",393
+765,Lozoyuela-Navas-Sieteiglesias,40.9263383,-3.6176377,13065,Aylagas de Diego d,"Avenida Madrid, 79",48
+766,Lozoyuela-Navas-Sieteiglesias,40.9263383,-3.6176377,13065,Casa Flores,"Avenida Madrid, 51",51
+767,Lozoyuela-Navas-Sieteiglesias,40.9263383,-3.6176377,13065,Bar Centro,"Avenida Madrid, 79",51
+768,Lozoyuela-Navas-Sieteiglesias,40.9263383,-3.6176377,13065,El Rincón de Merche,"Avenida Madrid, 99",117
+769,Lozoyuela-Navas-Sieteiglesias,40.9263383,-3.6176377,13065,Bar Manolo,"Avenida de Madrid, 43",183
+770,Lozoyuela-Navas-Sieteiglesias,40.9263383,-3.6176377,13065,La Leñera,"Calle Egidillo, 5",269
+771,Madrid,40.4167047,-3.7035825,16032,Hotel indignado,,155
+772,Madrid,40.4167047,-3.7035825,16032,Parque infantil Plaza Santa Ana,Madrid Comunidad de Madrid,309
+773,Madrid,40.4167047,-3.7035825,16032,Parque Madrid Río,28011 Madrid Comunidad de Madrid,428
+774,Madrid,40.4167047,-3.7035825,16032,"Valverde, 2",Valverde,431
+775,Madrid,40.4167047,-3.7035825,16032,Parque Atocha,Madrid Comunidad de Madrid,618
+776,Madrid,40.4167047,-3.7035825,16032,Almendro3,28005 Madrid Comunidad de Madrid,641
+777,Madrid,40.4167047,-3.7035825,16032,Parque Infantil Vazquez de Mella,Madrid Comunidad de Madrid,650
+778,Madrid,40.4167047,-3.7035825,16032,Parque Infantil Plaza de Oriente,,720
+779,Madrid,40.4167047,-3.7035825,16032,Parque infantil,Madrid Comunidad de Madrid,727
+780,Madrid,40.4167047,-3.7035825,16032,Parque infantil Paseo del Prado,"Pase del Prado, 8",810
+781,Madrid,40.4167047,-3.7035825,17114,Global Sources,"Calle de Nicolás Usera, 58",436
+782,Madrid,40.4167047,-3.7035825,17114,Mercado de las Ranas,"Calle Santa María, 20",771
+783,Madrid,40.4167047,-3.7035825,17114,Príncipe Pío Shopping Center (C.C. Príncipe Pío),"Centro Comercial Principe Pio - Paseo de la Florida, 2",1407
+784,Madrid,40.4167047,-3.7035825,17114,Experto en Duchas,"Calle de Ercilla, 20",1559
+785,Madrid,40.4167047,-3.7035825,17114,Goya con Serrano,"Goya, 15",1645
+786,Madrid,40.4167047,-3.7035825,17114,Hermanos Revilla,"Calle Goya, 8",1695
+787,Madrid,40.4167047,-3.7035825,17114,Quiosco Principe Pio,"Pº de la Florida, s/n",1776
+788,Madrid,40.4167047,-3.7035825,13065,La Mallorquina,"Calle Mayor, 2",96
+789,Madrid,40.4167047,-3.7035825,13065,Rosi la Loca,"Calle de Cádiz, 4",111
+790,Madrid,40.4167047,-3.7035825,13065,McDonald's,"Calle Esparteros, 1",119
+791,Madrid,40.4167047,-3.7035825,13065,C & Tapas,"Calle de la Montera, 10",127
+792,Madrid,40.4167047,-3.7035825,13065,La Carmela,"Calle de la Victoria, 4",161
+793,Madrid,40.4167047,-3.7035825,13065,El Gaucho,"Calle Tetuán, 34",168
+794,Madrid,40.4167047,-3.7035825,13065,Museo del Jamón,"Calle Mayor, 7",181
+795,Madrid,40.4167047,-3.7035825,13065,Lhardy,"Carrera de San Jerónimo, 8",183
+796,Madrid,40.4167047,-3.7035825,13065,Cafe Carmen 17,"Calle del Carmen, 17",201
+797,Madrid,40.4167047,-3.7035825,13065,Ciudad de Tui,"Montera, 22",202
+798,Madrid,40.4167047,-3.7035825,17031,Vestuario Paris,"Calle del Amor de Dios, 14",626
+799,Madrid,40.4167047,-3.7035825,17031,Fiestas Paco,"Toledo, 52",681
+800,Madrid,40.4167047,-3.7035825,11037,P Cruz,"Carretera Olula del Rio a Macael, Km 1,7",260
+801,Madrid,40.4167047,-3.7035825,11037,Be Mad Be Chic,"Fernando VI, 11",1159
+802,Madrid,40.4167047,-3.7035825,11037,Playas de Rodalquilar,"Calle Marques de la Ensenada Numero, 16",1365
+803,Majadahonda,40.473055,-3.8724138,16032,Plaza de la Constitución,Majadahonda Comunidad de Madrid,204
+804,Majadahonda,40.473055,-3.8724138,16032,Parque de la Constitución,,370
+805,Majadahonda,40.473055,-3.8724138,16032,Estrella de la muerte,Estrella,414
+806,Majadahonda,40.473055,-3.8724138,16032,Parque de la rueda,Majadahonda Comunidad de Madrid,541
+807,Majadahonda,40.473055,-3.8724138,16032,Parque Colón,"Plaza Colón, s/n",568
+808,Majadahonda,40.473055,-3.8724138,16032,Parque de la Laguna,28220 Majadahonda Comunidad de Madrid,578
+809,Majadahonda,40.473055,-3.8724138,16032,Parque del Cerro del Aire,"Avda. de España, 28220 Majadahonda Comunidad de Madrid",769
+810,Majadahonda,40.473055,-3.8724138,16032,Parque,Majadahonda Comunidad de Madrid,776
+811,Majadahonda,40.473055,-3.8724138,16032,Parque del Arcipreste,28220 Majadahonda Comunidad de Madrid,886
+812,Majadahonda,40.473055,-3.8724138,16032,Parque de Peco,"av. paralela, Madrid Comunidad de Madrid",1017
+813,Majadahonda,40.473055,-3.8724138,17114,La Nueva Pipa,"Calle Mieses, 19",131
+814,Majadahonda,40.473055,-3.8724138,17114,Zoco de Majadahonda,"Avenida de España, 51",880
+815,Majadahonda,40.473055,-3.8724138,17114,CC el Zoco de Majadahonda,"Avenida de España, 51",882
+816,Majadahonda,40.473055,-3.8724138,17114,Monte del Pilar,"Avenida del Príncipe de Asturias, s/n",1648
+817,Majadahonda,40.473055,-3.8724138,17114,BurgoCentro,Calle Comunidad de Madrid 37-41,1850
+818,Majadahonda,40.473055,-3.8724138,17114,Centro Comercial Burgo de las Rozas,Calle de la Comunidad de Madrid Nº 37,1946
+819,Majadahonda,40.473055,-3.8724138,17114,C.C. Cerro del Espino,"Calle de las Moreras, 42",1947
+820,Majadahonda,40.473055,-3.8724138,17114,Equinoccio Park,"Calle Fresa, 2",2045
+821,Majadahonda,40.473055,-3.8724138,13065,Tetería Cleopatra,Calle Madrid Nº4,78
+822,Majadahonda,40.473055,-3.8724138,13065,La Sureña,"Calle Gran Vía, 15",79
+823,Majadahonda,40.473055,-3.8724138,13065,Rodilla,"Calle del Doctor Calero, 14",97
+824,Majadahonda,40.473055,-3.8724138,13065,La Marinera,"Calle de las Mieses, 2",100
+825,Majadahonda,40.473055,-3.8724138,13065,Pannus,"Calle Doctor Calero, 20",107
+826,Majadahonda,40.473055,-3.8724138,13065,Giuliani's,"Calle Fresa, 2",107
+827,Majadahonda,40.473055,-3.8724138,13065,Restaurante Taberna Gabriela,"Plaza de la Constitucion, 4",142
+828,Majadahonda,40.473055,-3.8724138,13065,Palacio Imperial,"Calle Doctor Calero, 9",151
+829,Majadahonda,40.473055,-3.8724138,13065,Lotus,"Calle de Hernán Cortés, 7-21",228
+830,Majadahonda,40.473055,-3.8724138,13065,La Manuela,"Plaza Pizarro, 4",238
+831,Majadahonda,40.473055,-3.8724138,11037,Construcciones Civiles Rofer,"Avenida Claveles, 12",704
+832,Manzanares el Real,40.7267632,-3.864981,16032,Parque Infantil del Castillo de Manzanares,"Calle del Cura, s/n",102
+833,Manzanares el Real,40.7267632,-3.864981,17114,Viveros Manzanares,"Avenida de la Paz, s/n",619
+834,Manzanares el Real,40.7267632,-3.864981,13065,La Reunión,"Plaza del Pueblo, 12",22
+835,Manzanares el Real,40.7267632,-3.864981,13065,La Taurina,"Plaza Pueblo, 7",23
+836,Manzanares el Real,40.7267632,-3.864981,13065,Discoteca 13-58,"Calle Paz, s/n",30
+837,Manzanares el Real,40.7267632,-3.864981,13065,Panaria,"Avenida de Madrid, 1",50
+838,Manzanares el Real,40.7267632,-3.864981,13065,Hostal el Tranco Restaurante el Tranco Bar,"Avenida de la Pedriza, s/n",51
+839,Manzanares el Real,40.7267632,-3.864981,13065,La Charca Verde,"Plaza Raso, 10",52
+840,Manzanares el Real,40.7267632,-3.864981,13065,Carrero e Hijos,"Plaza del Raso, 10",52
+841,Manzanares el Real,40.7267632,-3.864981,13065,La Jara,"Calle Panaderos, 6",62
+842,Manzanares el Real,40.7267632,-3.864981,13065,Restaurante Parra,"Calle de los Panaderos, 13",84
+843,Manzanares el Real,40.7267632,-3.864981,13065,Asador D'Rolle,"Calle de Colmenar, 4",84
+844,Meco,40.553746,-3.3281561,16032,Parque del Lago,,925
+845,Meco,40.553746,-3.3281561,13065,Panadería Artesanal 5 Sentidos,"Calle Prado, 1",147
+846,Meco,40.553746,-3.3281561,13065,El Cobijo,"Ronda Ronda Verdoso, 2",161
+847,Meco,40.553746,-3.3281561,13065,Soka Döner Kebab,"Plaza Nueva Castilla, 22",184
+848,Meco,40.553746,-3.3281561,13065,Terraza el Verdoso,"Camino del Verdoso, 24",244
+849,Meco,40.553746,-3.3281561,13065,La Encina,"Calle de los Jazmines, 2",306
+850,Meco,40.553746,-3.3281561,13065,Sand Foundation Lounge,"Plaza de la Villa, 1",346
+851,Meco,40.553746,-3.3281561,13065,El Cenador,"Calle Pinar, s/n",605
+852,Meco,40.553746,-3.3281561,13065,El Candil,"Pinar, s/n",747
+853,Meco,40.553746,-3.3281561,13065,La Abuela,"Calle Pinar, s/n",853
+854,Meco,40.553746,-3.3281561,13065,La Cabaña,"Calle Sorolla, 13",899
+855,Mejorada del Campo,40.3971785,-3.4896068,16032,Parque Norte,Mesas,419
+856,Mejorada del Campo,40.3971785,-3.4896068,17114,C. C. Juan Gris,"Avenida de Juan Gris, 1",961
+857,Mejorada del Campo,40.3971785,-3.4896068,17114,Samper Sampedro,"Miguel Ángel Blanco, 4",1147
+858,Mejorada del Campo,40.3971785,-3.4896068,13065,Macario,"Avenida de la Constitución, 15",49
+859,Mejorada del Campo,40.3971785,-3.4896068,13065,La Sabana CAFÉ,"Avenida de la Constitución, s/n",53
+860,Mejorada del Campo,40.3971785,-3.4896068,13065,El Casco Viejo de Mejorada,"Avenida de la Constitución, 5",57
+861,Mejorada del Campo,40.3971785,-3.4896068,13065,Luis Cebolla Villalbilla,"Avenida de la Constitucion, 28",123
+862,Mejorada del Campo,40.3971785,-3.4896068,13065,Restaurante Jarama,"Carretera San Fernando de Henares, Km 6",152
+863,Mejorada del Campo,40.3971785,-3.4896068,13065,La Cocina de Norma,"Jose Maranon, 10",157
+864,Mejorada del Campo,40.3971785,-3.4896068,13065,Cafe Abadia,"Calle Mayor, 4",170
+865,Mejorada del Campo,40.3971785,-3.4896068,13065,Los Hornos,"Carretera San Fernando de Henares, Km 0,1",174
+866,Mejorada del Campo,40.3971785,-3.4896068,13065,Cervecería Calimba,"Paseo del Vallejo, 2",179
+867,Mejorada del Campo,40.3971785,-3.4896068,13065,Bar Restaurante HI-DA,"Calle Abogados Laboralistas, 1",269
+868,Miraflores de la Sierra,40.8137532,-3.7667236,13065,Bohemia Café,"Plaza España, 12",7
+869,Miraflores de la Sierra,40.8137532,-3.7667236,13065,La Plaza,"Calle la Fuente, 1",26
+870,Miraflores de la Sierra,40.8137532,-3.7667236,13065,Cervecería el Maño,"Calle General Sanjurjo, 1",39
+871,Miraflores de la Sierra,40.8137532,-3.7667236,13065,Asador la Fuente,"Calle Mayor, 12",57
+872,Miraflores de la Sierra,40.8137532,-3.7667236,13065,Restaurante Melfi,"Calle Mayor, 19",57
+873,Miraflores de la Sierra,40.8137532,-3.7667236,13065,La Casa del Queso Miraflores,Calle Mayor Nº 14,57
+874,Miraflores de la Sierra,40.8137532,-3.7667236,13065,La Casa de los Piononos,"Calvo Sotelo, 7",60
+875,Miraflores de la Sierra,40.8137532,-3.7667236,13065,Restaurante Bar España,"Plaza del Álamo, 3",66
+876,Miraflores de la Sierra,40.8137532,-3.7667236,13065,Pingüy,"Calle la Fuente, 11",73
+877,Miraflores de la Sierra,40.8137532,-3.7667236,13065,Pingui,"Fuente, 11",73
+878,El Molar,40.7347865,-3.584376,17114,Centro Comercial el Casito,"Paseo de la Ermita, 51",1424
+879,El Molar,40.7347865,-3.584376,13065,Casa Lozano,"Avenida de España, 51",107
+880,El Molar,40.7347865,-3.584376,13065,Sidrería Paraiso Asturies,"Plaza del Paraíso, 10",145
+881,El Molar,40.7347865,-3.584376,13065,Olipasan,"Plaza Gralmo, 2",153
+882,El Molar,40.7347865,-3.584376,13065,La Bruja Cervecería,"Avenida de España, 67",201
+883,El Molar,40.7347865,-3.584376,13065,Bar Luna,"Calle Nuestra Señora de la Asunción, el Molar",275
+884,El Molar,40.7347865,-3.584376,13065,El Puntito,"Salud, 1",302
+885,El Molar,40.7347865,-3.584376,13065,Las Cuevas de Olivares,"Santa Maria de la Cuesta, 2",304
+886,El Molar,40.7347865,-3.584376,13065,Bar la Alhambra,"Calle de la Salud, 3",320
+887,El Molar,40.7347865,-3.584376,13065,Döner Kebab Esperanza,"Calle Real, 16",334
+888,El Molar,40.7347865,-3.584376,13065,El puntito,"Calle Salud, 1",346
+889,Montejo de la Sierra,41.0593529,-3.530299,13065,Panadería Nani,"Plaza Mayor, 3",19
+890,Montejo de la Sierra,41.0593529,-3.530299,13065,El Hayedo,"Travesía de Horcajuelo, 13",105
+891,Montejo de la Sierra,41.0593529,-3.530299,13065,Los Naranjos,"Calle del Real, 19",233
+892,Montejo de la Sierra,41.0593529,-3.530299,13065,Alojamientos la Hontanilla,"Avenida el Soto, 2",462
+893,Montejo de la Sierra,41.0593529,-3.530299,13065,Restaurante la Hontanilla,"Avenida Soto, 24 y, 36",482
+894,Montejo de la Sierra,41.0593529,-3.530299,13065,La Ladera de Horcajuelo,"Calle Blanco, 17",1187
+895,Montejo de la Sierra,41.0593529,-3.530299,13065,El Rincón del Cárabo,"Calle Pozas, 40",1215
+896,Montejo de la Sierra,41.0593529,-3.530299,13065,Restaurante el Pajar - Un Pajar de 200 a,"Calle de la Comunidad de Madrid, 9",1373
+897,Montejo de la Sierra,41.0593529,-3.530299,13065,Taberna el Trebol,"Calle Rosario, 1",1943
+898,Montejo de la Sierra,41.0593529,-3.530299,13065,Bar el Rincón,"Calle Real, 8",1966
+899,Moraleja de Enmedio,40.2615532,-3.8612117,13065,Mesón Cachorro,"Calle Somosierra, 2",92
+900,Moraleja de Enmedio,40.2615532,-3.8612117,13065,La Atalaya,"Calle Yucas, 1",144
+901,Moraleja de Enmedio,40.2615532,-3.8612117,13065,Nuevo Mirador,"Urbanización las Yucas, 1",184
+902,Moraleja de Enmedio,40.2615532,-3.8612117,13065,El Corsel,"Carretera Arroyomolinos M-413, Km 7",652
+903,Moraleja de Enmedio,40.2615532,-3.8612117,13065,Restaurante el Albero,"Calle Torrelaguna, 36",793
+904,Moraleja de Enmedio,40.2615532,-3.8612117,13065,Los Olivos,"Roble Pol. San Sebastián, 10",948
+905,Moraleja de Enmedio,40.2615532,-3.8612117,13065,Restaurante los Olivos,"Calle Roble, 20",954
+906,Moraleja de Enmedio,40.2615532,-3.8612117,13065,Restaurante Araceli la Moraleja,"Plaza de la Moraleja, 1",33385
+907,Moralzarzal,40.6791436,-3.9720985,16032,La carreterita,"Bellas Vistas, 28411 Moralzarzal Comunidad de Madrid",104
+908,Moralzarzal,40.6791436,-3.9720985,16032,Parque de la Tejera,28411 Moralzarzal Comunidad de Madrid,465
+909,Moralzarzal,40.6791436,-3.9720985,17114,Ayuntamiento de Moralzarzal,"Calle Raso, 11",441
+910,Moralzarzal,40.6791436,-3.9720985,13065,Cafetería el Ladrillo,"Plaza de la Fragua, 7-9",32
+911,Moralzarzal,40.6791436,-3.9720985,13065,La Chasca de Nael,"Calle de la Huerta, 12",92
+912,Moralzarzal,40.6791436,-3.9720985,13065,Tucco Pizza,"Calle de Antón, 5",97
+913,Moralzarzal,40.6791436,-3.9720985,13065,La Boutique de la Tierruca,"Calle de la Huerta, 9",101
+914,Moralzarzal,40.6791436,-3.9720985,13065,El Aperitivo,"Calle de la Huerta, 12",107
+915,Moralzarzal,40.6791436,-3.9720985,13065,Kebab & Krepes,"Calle de Antón, 9",109
+916,Moralzarzal,40.6791436,-3.9720985,13065,Royal Bar Restaurante,"Calle de la Huerta, 24",118
+917,Moralzarzal,40.6791436,-3.9720985,13065,El Rincón de el Geni,"Calle Huerta, 32",149
+918,Moralzarzal,40.6791436,-3.9720985,13065,Casa Ladis,"Huerta, 27",166
+919,Moralzarzal,40.6791436,-3.9720985,13065,Huerta 33 Restaurante-Barra,"Calle de la Huerta, 33",193
+920,Morata de Tajuña,40.2294297,-3.4366925,13065,El Alto,"Carretera Chinchón, Km 8,4",21
+921,Morata de Tajuña,40.2294297,-3.4366925,13065,La Dulcería Morata,"Avenida de la Constitución, 8",68
+922,Morata de Tajuña,40.2294297,-3.4366925,13065,Pastelería de la Torre,"Iglesia, 37",102
+923,Morata de Tajuña,40.2294297,-3.4366925,13065,Mesón Licinia,"Calle del Carmen, 24",180
+924,Morata de Tajuña,40.2294297,-3.4366925,13065,Hostal Restaurante Libra II,"Poyales, 3",207
+925,Morata de Tajuña,40.2294297,-3.4366925,13065,Restauracion Puerta de la Vega,"Calle Real, 56",246
+926,Morata de Tajuña,40.2294297,-3.4366925,13065,Pub Triana,"Calle Domingo Rodelgo, 35",253
+927,Morata de Tajuña,40.2294297,-3.4366925,13065,Mesón el Cid,"Calle del Carmen, 36",406
+928,Móstoles,40.3238525,-3.8649214,16032,Parque Zarauz,28931 Móstoles Comunidad de Madrid,217
+929,Móstoles,40.3238525,-3.8649214,16032,El Hoyo,"Calle Badajoz, 2",362
+930,Móstoles,40.3238525,-3.8649214,16032,Fernandez Pascual Eduardo,"Avenida de la Constitucion, 50",382
+931,Móstoles,40.3238525,-3.8649214,16032,Parque Cataluña,"valladolid, 28938 Móstoles Comunidad de Madrid",603
+932,Móstoles,40.3238525,-3.8649214,16032,Parque Plaza Valencia,Comunidad de Madrid,633
+933,Móstoles,40.3238525,-3.8649214,16032,Pipican Parque San Luis,,679
+934,Móstoles,40.3238525,-3.8649214,16032,La Pista Roja,,720
+935,Móstoles,40.3238525,-3.8649214,16032,Parque de Galicia,"Calle Hermanos Pinzón, 2",787
+936,Móstoles,40.3238525,-3.8649214,16032,Parque de las aventuras,,828
+937,Móstoles,40.3238525,-3.8649214,16032,Parque la Paz,28938 Móstoles Comunidad de Madrid,852
+938,Móstoles,40.3238525,-3.8649214,17114,Centro Comercial Dos de Mayo,"Avenida del Dos de Mayo, 27",636
+939,Móstoles,40.3238525,-3.8649214,17114,Almacenes los Catalanes,"Calle Rio Bidasoa, 1",668
+940,Móstoles,40.3238525,-3.8649214,17114,Centro Comercial Arce,"Calle Cid Campeador, 7 Bajo",871
+941,Móstoles,40.3238525,-3.8649214,17114,Centro Comercial la Fuensanta,"Avenida de la Onu, 65",1534
+942,Móstoles,40.3238525,-3.8649214,13065,Burger King,"Carretera Antigua de Extremadura N-v, Km 19",1
+943,Móstoles,40.3238525,-3.8649214,13065,Nostrus,"Avenida Constitución, Km 19.800",127
+944,Móstoles,40.3238525,-3.8649214,13065,Meat & Bread,"Calle Antonio Hernández, 11",161
+945,Móstoles,40.3238525,-3.8649214,13065,Rodilla,"Avenida del Dos de Mayo, 6",197
+946,Móstoles,40.3238525,-3.8649214,13065,Burger King,"Martires, 10-12",289
+947,Móstoles,40.3238525,-3.8649214,13065,Pizzeria Dall' Agnese,"Calle de Cartaya, 2",357
+948,Móstoles,40.3238525,-3.8649214,13065,El Colmadito,"Canarias, 7",358
+949,Móstoles,40.3238525,-3.8649214,13065,Horno de Pan la Espiguita,"Calle Sevilla, 21",366
+950,Móstoles,40.3238525,-3.8649214,13065,Cañitas,"Avenida Dos de Mayo, 24",371
+951,Móstoles,40.3238525,-3.8649214,13065,Cafeteria Iris,"Calle Juan Ocaña, 40",372
+952,Navacerrada,40.7287926,-4.0151676,16032,Parque Infantil,"Avenida de Madrid, 28491 Navacerrada Comunidad de Madrid",95
+953,Navacerrada,40.7287926,-4.0151676,16032,Pino Manolo,Navacerrada Comunidad de Madrid,354
+954,Navacerrada,40.7287926,-4.0151676,16032,Parque Muñoyerro,Navacerrada Comunidad de Madrid,474
+955,Navacerrada,40.7287926,-4.0151676,16032,Parque infantil,"Calle de Amanecer, 12",580
+956,Navacerrada,40.7287926,-4.0151676,13065,El Portillon,"Paseo de los Españoles, 5",25
+957,Navacerrada,40.7287926,-4.0151676,13065,El Mesón de Ana,"Plaza del Dr. Gereda, 9",27
+958,Navacerrada,40.7287926,-4.0151676,13065,Restaurante Casa Paco,"Plaza del Doctor Gereda, 3",29
+959,Navacerrada,40.7287926,-4.0151676,13065,El Abeto Bar,"Dr. Gereda, 2",31
+960,Navacerrada,40.7287926,-4.0151676,13065,El Rumba,"Plaza de Doctor Gereda, 1",36
+961,Navacerrada,40.7287926,-4.0151676,13065,Felix el Segoviano,"Paseo Españoles, 5",37
+962,Navacerrada,40.7287926,-4.0151676,13065,La Bola del Mundo,"Plaza del Dr. Gereda, 3",38
+963,Navacerrada,40.7287926,-4.0151676,13065,Terraza Jardín Felipe,"Calle Mayo, 2",52
+964,Navacerrada,40.7287926,-4.0151676,13065,Cara Norte,"Plaza de los Angeles, 2",55
+965,Navacerrada,40.7287926,-4.0151676,13065,Meson Javis,"Plaza del Álamo, 6",63
+966,Navalafuente,40.8232617,-3.6747292,13065,La Quinta Navalafuente,"Cno. Venturada, 5",1642
+967,Navalagamella,40.4690591,-4.1227079,16032,Parque de la Iglesia,"Calle Ancha, Navalagamella Comunidad de Madrid",172
+968,Navalagamella,40.4690591,-4.1227079,16032,Parque del Hondillo,"Calle San Sebastian, 44, 28212 Navalagamella Comunidad de Madrid",289
+969,Navalagamella,40.4690591,-4.1227079,16032,Parque Paseo Mirador de la Iglesia,,337
+970,Navalagamella,40.4690591,-4.1227079,16032,Parque el Romeral,Romeral,882
+971,Navalagamella,40.4690591,-4.1227079,13065,Bar Mesón Gallego,"Plaza España, 11",13
+972,Navalagamella,40.4690591,-4.1227079,13065,El Tomillar Finca Restaurante,"Carretera M-510, Km 25,6",67
+973,Navalagamella,40.4690591,-4.1227079,13065,Horno San Miguel,"Calle San Miguel, 18",69
+974,Navalcarnero,40.2877169,-4.014299,16032,Parque Pozo Concejo,28600 Navalcarnero Comunidad de Madrid,482
+975,Navalcarnero,40.2877169,-4.014299,16032,Parque de la Crispina,28600 Navalcarnero Comunidad de Madrid,615
+976,Navalcarnero,40.2877169,-4.014299,16032,Parque de los Charcones,Navalcarnero Comunidad de Madrid,650
+977,Navalcarnero,40.2877169,-4.014299,16032,Parque los Pinos,"Calle Mieres, s/n",653
+978,Navalcarnero,40.2877169,-4.014299,16032,Parque de la Tirolina,28600 Navalcarnero Comunidad de Madrid,700
+979,Navalcarnero,40.2877169,-4.014299,16032,Parque de el Señorio,28600 Navalcarnero Comunidad de Madrid,752
+980,Navalcarnero,40.2877169,-4.014299,16032,Parque de los Tubos,Navalcarnero Comunidad de Madrid,785
+981,Navalcarnero,40.2877169,-4.014299,16032,Parque de San Jorge,"C/ Juan Ramón Jiménez, 28600 Navalcarnero Comunidad de Madrid",792
+982,Navalcarnero,40.2877169,-4.014299,16032,Parque de San Juan Bautista,28600 Navalcarnero Comunidad de Madrid,1529
+983,Navalcarnero,40.2877169,-4.014299,16032,Parque Regional del Rio Guadarrama,Guadarrama Comunidad de Madrid,1639
+984,Navalcarnero,40.2877169,-4.014299,17114,Ahorra Más,Ronda de San Juan,837
+985,Navalcarnero,40.2877169,-4.014299,13065,Las Torres de Navalcarnero SLL,"Plaza Segovia, 26",35
+986,Navalcarnero,40.2877169,-4.014299,13065,La Posada,"Plaza de Segovia, 31",37
+987,Navalcarnero,40.2877169,-4.014299,13065,Las Cuevas del Carnero,"San Roque, 3",60
+988,Navalcarnero,40.2877169,-4.014299,13065,Hostería de las Monjas,"Plaza de la Iglesia, 1",83
+989,Navalcarnero,40.2877169,-4.014299,13065,La Cañada Real,"Calle San Roque, 12",83
+990,Navalcarnero,40.2877169,-4.014299,13065,Bodega la Andaluza,"Blasco Ibáñez, 1",88
+991,Navalcarnero,40.2877169,-4.014299,13065,Las Cuevas del Tío Juanón,"Calle de la Iglesia, 4",94
+992,Navalcarnero,40.2877169,-4.014299,13065,Las Cuevas del Principe,"Calle Mariano González, 5",119
+993,Navalcarnero,40.2877169,-4.014299,13065,Terrasita,"Calle Mariano González, 5",119
+994,Navalcarnero,40.2877169,-4.014299,13065,La Taberna de Ros,"Calle Constitución, 10",122
+995,Navarredonda y San Mamés,41.00736645,-3.731504970695029,13065,Groucho Parrilla,"Cta. Gargantilla del Lozoya, 23",1946
+996,Navas del Rey,40.3863666,-4.2508402,16032,El Tren de la Navidad,Fuenlabrada Comunidad de Madrid,449
+997,Navas del Rey,40.3863666,-4.2508402,13065,Bar Restaurante el Principe,"Plaza del Principe, 4",123
+998,Navas del Rey,40.3863666,-4.2508402,13065,Don de Junior Bar,"Calle Virgen de la Soledad, 6",197
+999,Navas del Rey,40.3863666,-4.2508402,13065,Restaurante Gargantúa,"Vía Olímpica, 6",225
+1000,Navas del Rey,40.3863666,-4.2508402,13065,Gargantúa Cafetería Restaurante,"Vía Olímpica, 6",233
+1001,Navas del Rey,40.3863666,-4.2508402,13065,Restaurante Voltereta,"Avenida de Madrid, 27",385
+1002,Navas del Rey,40.3863666,-4.2508402,13065,Restaurante Nuevo Avenida,"Avenida Generalisimo, 47",853
+1003,Nuevo Baztán,40.3659255,-3.2443102,13065,La Casa Vieja del Abuelo,"Plaza de la Iglesia, 4",104
+1004,Nuevo Baztán,40.3659255,-3.2443102,13065,Meson el Conde,"Plaza de la Iglesia, 5",104
+1005,Nuevo Baztán,40.3659255,-3.2443102,13065,Taberna de la Olmeda,"Calle Palacio, 1",138
+1006,Nuevo Baztán,40.3659255,-3.2443102,13065,La Cabana del Baztan,"Calle Eras, 8",504
+1007,Nuevo Baztán,40.3659255,-3.2443102,13065,Trattoria Vittozzi,"Calle Com. Eurovillas I, s/n",1540
+1008,Nuevo Baztán,40.3659255,-3.2443102,13065,La Fuente del Gato,"Calle la Fragua, 1",1831
+1009,Nuevo Baztán,40.3659255,-3.2443102,13065,El Porton,"Calle Mayor, 26",1918
+1010,Nuevo Baztán,40.3659255,-3.2443102,13065,La Olmeda Restaurante,"Carretera Mondéjar M-219, Km 22",1980
+1011,Olmeda de las Fuentes,40.3695225,-3.2213199,13065,La Olmeda Restaurante,"Carretera Mondéjar M-219, Km 22",57
+1012,Olmeda de las Fuentes,40.3695225,-3.2213199,13065,El Porton,"Calle Mayor, 26",108
+1013,Olmeda de las Fuentes,40.3695225,-3.2213199,13065,La Fuente del Gato,"Calle la Fragua, 1",158
+1014,Olmeda de las Fuentes,40.3695225,-3.2213199,13065,La Taberna del Buho,"Calle Mayor, 61",210
+1015,Olmeda de las Fuentes,40.3695225,-3.2213199,13065,Taberna de la Olmeda,"Calle Palacio, 1",1893
+1016,Olmeda de las Fuentes,40.3695225,-3.2213199,13065,La Casa Vieja del Abuelo,"Plaza de la Iglesia, 4",1908
+1017,Olmeda de las Fuentes,40.3695225,-3.2213199,13065,Meson el Conde,"Plaza de la Iglesia, 5",1908
+1018,Orusco de Tajuña,40.2853409,-3.2096521,17114,Gourmet Comarca las Vegas,"Calle Mayor, 13",87
+1019,Orusco de Tajuña,40.2853409,-3.2096521,13065,Castilla,"Calle Mayor, 18",78
+1020,Orusco de Tajuña,40.2853409,-3.2096521,13065,Ibericoteca,"Calle Mayor, 13",93
+1021,Orusco de Tajuña,40.2853409,-3.2096521,13065,Bar los Nietos,"Calle Gran Via, 4",383
+1022,Orusco de Tajuña,40.2853409,-3.2096521,13065,Mesón la Rivera,"Calle Gran Via, 9",384
+1023,Paracuellos de Jarama,40.5048527,-3.5317621,16032,Parque Infantil Nave Espacial,28860 Paracuellos Comunidad de Madrid,298
+1024,Paracuellos de Jarama,40.5048527,-3.5317621,16032,Pinarillo AVM,"Avenida de Sombra de la Torre, 14",1122
+1025,Paracuellos de Jarama,40.5048527,-3.5317621,16032,Parque Infantil,28860 Paracuellos de Jarama Comunidad de Madrid,1551
+1026,Paracuellos de Jarama,40.5048527,-3.5317621,16032,Canaima Park,Comunidad de Madrid,1699
+1027,Paracuellos de Jarama,40.5048527,-3.5317621,17114,Miramadrid,"Pº de las Camelias, 28860 Paracuellos de Jarama Comunidad de Madrid",1993
+1028,Paracuellos de Jarama,40.5048527,-3.5317621,13065,Bar Plaza,"Plaza de la Constitucion, 5",22
+1029,Paracuellos de Jarama,40.5048527,-3.5317621,13065,Mexico Lindo y Qué Rico,"Plaza de la Constitución, 4",22
+1030,Paracuellos de Jarama,40.5048527,-3.5317621,13065,Bocado Delicado,"Chorrilo Alta, 10",39
+1031,Paracuellos de Jarama,40.5048527,-3.5317621,13065,Rasgos Restauracion,"Carretera M-111 Paracuellos-Belvis, Km 8",44
+1032,Paracuellos de Jarama,40.5048527,-3.5317621,13065,Don Pollo,"Calle Real, 21",93
+1033,Paracuellos de Jarama,40.5048527,-3.5317621,13065,Pasteleria Araceli,"Calle Chorrillo Alta, 37",124
+1034,Paracuellos de Jarama,40.5048527,-3.5317621,13065,Pizzacuellos,"Calle del Real de Burgos, 34",132
+1035,Paracuellos de Jarama,40.5048527,-3.5317621,13065,Meson Paracuellos,"Calle Real, 36",142
+1036,Paracuellos de Jarama,40.5048527,-3.5317621,13065,Bar Garcia,"Calle Real, 35",245
+1037,Paracuellos de Jarama,40.5048527,-3.5317621,13065,Taberna el Burladero,"Calle Real, 37",259
+1038,Parla,40.2373952,-3.7718902,16032,Parque de la Ermita,28981 Parla Comunidad de Madrid,568
+1039,Parla,40.2373952,-3.7718902,16032,Parque Vía de Ronda,Parla Comunidad de Madrid,610
+1040,Parla,40.2373952,-3.7718902,16032,Paseo Real,Principado de Asturias,635
+1041,Parla,40.2373952,-3.7718902,16032,Parque de la Garrapata,"C/ Mexico, 28980 Parla Comunidad de Madrid",642
+1042,Parla,40.2373952,-3.7718902,16032,parque de las Montañas,28982  Comunidad de Madrid,748
+1043,Parla,40.2373952,-3.7718902,16032,Bichos,"Calle Toledo, 34",808
+1044,Parla,40.2373952,-3.7718902,16032,Rayuela,"Isaac Albéniz, 16",846
+1045,Parla,40.2373952,-3.7718902,16032,Paseo Marítimo Perruno,28983 Parla Comunidad de Madrid,915
+1046,Parla,40.2373952,-3.7718902,16032,Parque de la Ballena,"Calle Real, s/n",1021
+1047,Parla,40.2373952,-3.7718902,16032,Nanitos y Pelusas,"Calle Icíar Bollaín, 3",1172
+1048,Parla,40.2373952,-3.7718902,17114,Merca-2 Parla,"Calle Pablo Casals, s/n",744
+1049,Parla,40.2373952,-3.7718902,17114,El Ferial,"Carretera Pinto, Km 1",1380
+1050,Parla,40.2373952,-3.7718902,13065,Chanab Doner Kebab,"Calle Iglesia, 5",87
+1051,Parla,40.2373952,-3.7718902,13065,Mesón Roci & Mari,"Calle Real, 18",99
+1052,Parla,40.2373952,-3.7718902,13065,Telepizza,"Viario de Ronda, s/n",118
+1053,Parla,40.2373952,-3.7718902,13065,Domino's Pizza,"Calle de la Sal, 52",130
+1054,Parla,40.2373952,-3.7718902,13065,Friends Parla,"Calle Olivo, 8",187
+1055,Parla,40.2373952,-3.7718902,13065,Kontiki,"Jerusalén, 2",193
+1056,Parla,40.2373952,-3.7718902,13065,Hornos Hermanos Fresno,"Calle Soledad, 46",235
+1057,Parla,40.2373952,-3.7718902,13065,Don Pedro I,"Calle Carlos V, 4",259
+1058,Parla,40.2373952,-3.7718902,13065,Cien Pizzitas,"Calle Domingo Malagón, 3",294
+1059,Parla,40.2373952,-3.7718902,13065,Pizzería tipica il gusto per l'autentico,"Calle Domingo Malagón, 12",325
+1060,Patones,40.8548194,-3.483954,13065,Melones,"Avenida de Madrid, 83",84
+1061,Patones,40.8548194,-3.483954,13065,Bar Manolo,"Avenida de Madrid, 30",275
+1062,Patones,40.8548194,-3.483954,13065,El Chiscón,"Travesia Iglesia, 12",1400
+1063,Patones,40.8548194,-3.483954,13065,El Rincón de Patones,"Calle del Arroyo, 16",1406
+1064,Patones,40.8548194,-3.483954,13065,El Bodegón de Patones,"Calle del Arroyo, 5",1419
+1065,Patones,40.8548194,-3.483954,13065,La Cabaña,"Calle Azas, 7",1426
+1066,Patones,40.8548194,-3.483954,13065,Las Eras - Patones de Arriba,"Calle Azas, s/n",1434
+1067,Patones,40.8548194,-3.483954,13065,El Rey de Patones,"Calle Azas, 13",1436
+1068,Patones,40.8548194,-3.483954,13065,Taberna Real,"Calle Real, 38",1477
+1069,Patones,40.8548194,-3.483954,13065,Las Eras,"Azas, s/n",1486
+1070,Pedrezuela,40.7451088,-3.6030185,17114,Centro Comercial el Casito,"Paseo de la Ermita, 51",659
+1071,Pedrezuela,40.7451088,-3.6030185,13065,El Mesón del Asado - Antigua Casa Heliodoro,"Plaza de la Constitución, 3",20
+1072,Pedrezuela,40.7451088,-3.6030185,13065,La Cuesta,"Calle del Calvario, 8",30
+1073,Pedrezuela,40.7451088,-3.6030185,13065,Casa Galo,"Calle Calvario, 8",31
+1074,Pedrezuela,40.7451088,-3.6030185,13065,El Kamalinoe Parrilla Restaurante,"Calle Calvario, 21",84
+1075,Pedrezuela,40.7451088,-3.6030185,13065,Embutidos Pedrezuela,"Calle de las Eras, 32",110
+1076,Pedrezuela,40.7451088,-3.6030185,13065,Mesón Gerardo,"Calle Eras, 28",121
+1077,Pedrezuela,40.7451088,-3.6030185,13065,La Parada,"Calle de las Eras, 38",121
+1078,Pedrezuela,40.7451088,-3.6030185,13065,Roxy,"Calle de las Eras, 42",121
+1079,Pedrezuela,40.7451088,-3.6030185,13065,Gonzalez Chichon,"Las Eras, 46",136
+1080,Pedrezuela,40.7451088,-3.6030185,13065,La Cabaña,"Calle de las Eras, 29",169
+1081,Pelayos de la Presa,40.3605272,-4.3334254,13065,McPacos,"Calle de la Estación, 4",37
+1082,Pelayos de la Presa,40.3605272,-4.3334254,13065,La Terraza,"Estacion, 9",60
+1083,Pelayos de la Presa,40.3605272,-4.3334254,13065,Burguer Mc Pacos,"Calle Estación, 4",81
+1084,Pelayos de la Presa,40.3605272,-4.3334254,13065,El Plan B,"Plaza del Ayuntamiento, 8",191
+1085,Pelayos de la Presa,40.3605272,-4.3334254,13065,El Huerto,"Avenida Marcial Llorente, 43",196
+1086,Pelayos de la Presa,40.3605272,-4.3334254,13065,La Casona,"Avenida de Marcial Llorente, 59",285
+1087,Pelayos de la Presa,40.3605272,-4.3334254,13065,Costa Cruz,"Marcial Llorente, 15",529
+1088,Pelayos de la Presa,40.3605272,-4.3334254,13065,El Mirador de Pelayos,"Avenida del Mirador, 62",878
+1089,Pelayos de la Presa,40.3605272,-4.3334254,13065,Restaurante Monasterio,"Carretera del Pantano, s/n",1510
+1090,Pelayos de la Presa,40.3605272,-4.3334254,13065,Merendero la Playa,"Camino Embalse de San Juan, s/n",1531
+1091,Perales de Tajuña,40.2325718,-3.3517265,13065,El Lagar de Nemesio,"Calle Mayor Baja, 32",134
+1092,Perales de Tajuña,40.2325718,-3.3517265,13065,Restauracion Mariblanca,"Calle Mayor Baja, 32",145
+1093,Perales de Tajuña,40.2325718,-3.3517265,13065,Poldo,"Plaza de la Constitucion, 6",222
+1094,Perales de Tajuña,40.2325718,-3.3517265,13065,Restaurante las Vegas Perales,"Carretera Madrid-Valencia N-Iii, 39",445
+1095,Perales de Tajuña,40.2325718,-3.3517265,13065,Complejo los Pradillos,"Camino de Valdeperales, s/n",1405
+1096,Perales de Tajuña,40.2325718,-3.3517265,13065,Las Vegas Restaurante,"Carretera de Valencia, Km 39",1941
+1097,Perales de Tajuña,40.2325718,-3.3517265,13065,Las Vegas,"Autov. Levante, Km 37,87",1953
+1098,Pinilla del Valle,40.9261949,-3.8184676,13065,El Corralón del Embalse,"Calle de la Presa, 26",173
+1099,Pinilla del Valle,40.9261949,-3.8184676,13065,Recursos turisticos del valle de lozoya,"Calle Presa, 26",181
+1100,Pinilla del Valle,40.9261949,-3.8184676,13065,La Nogalera,"Avenida Nogales, 38",286
+1101,Pinto,40.240985,-3.7005072,16032,Plaza Ocho de Marzo,Comunidad de Madrid,302
+1102,Pinto,40.240985,-3.7005072,16032,Plaza de la Rábida,"Pza. de la Rábida, s/n",327
+1103,Pinto,40.240985,-3.7005072,16032,Parque Infantil Chichopark,"Salvador Dalí, 12",364
+1104,Pinto,40.240985,-3.7005072,16032,Parque Juan Carlos I,"Calle Pablo Picasso, s/n",464
+1105,Pinto,40.240985,-3.7005072,16032,Parque Municipal Nicolás Fuster,"Doce de Octubre, 28320 Pinto Comunidad de Madrid",474
+1106,Pinto,40.240985,-3.7005072,16032,Parque Exacta Pares,28320 Pinto Comunidad de Madrid,710
+1107,Pinto,40.240985,-3.7005072,16032,Parque Norte,Comunidad de Madrid,866
+1108,Pinto,40.240985,-3.7005072,16032,Palmas Palmitas,"Calle Navarra, 4",925
+1109,Pinto,40.240985,-3.7005072,16032,Pequeteca,"Plaza David Martín, 1",971
+1110,Pinto,40.240985,-3.7005072,16032,Pinto Pinto Gorgorito,"Calle Italia, 14",1247
+1111,Pinto,40.240985,-3.7005072,17114,Emalu,"Calle Pablo Picasso, s/n",756
+1112,Pinto,40.240985,-3.7005072,13065,Bar Mariano 1 X 2,"Calle Real, 17",116
+1113,Pinto,40.240985,-3.7005072,13065,El Mar de Arena Cafe Dakar,"Calle Real, 19",122
+1114,Pinto,40.240985,-3.7005072,13065,Alfati Hosteleros,"Calle de las Alpujarras, 1",187
+1115,Pinto,40.240985,-3.7005072,13065,Cafetería Trazos,"Paseo Dolores Soria, 7",205
+1116,Pinto,40.240985,-3.7005072,13065,Mofe Hosteleria,"Pase Dolores Soria de, 7",205
+1117,Pinto,40.240985,-3.7005072,13065,Telepizza,"Plaza de las Mercedes, 4",224
+1118,Pinto,40.240985,-3.7005072,13065,Restaurante Bustos Nebreda,"Paseo de Dolores Soria, s/n",236
+1119,Pinto,40.240985,-3.7005072,13065,Jamon y Vino del Pais,"Calle Valdemoro, 3",236
+1120,Pinto,40.240985,-3.7005072,13065,Restaurante Chino China Town,"Calle Nicaragua, 17",267
+1121,Pinto,40.240985,-3.7005072,13065,En'boka Asador,"Joan Miro, 1",270
+1122,Pinto,40.240985,-3.7005072,11037,Lidersa Maquinaria,"Calle San Carlos, 7",310
+1123,Piñuécar-Gandullas,41.03554635,-3.599475586218161,13065,La Vaca Gandulla,"Carretera Gandullas-Buitrago, s/n",384
+1124,Piñuécar-Gandullas,41.03554635,-3.599475586218161,13065,Hostal Castillo de Somosierra,"Carretera Nal 1, Km 81",1785
+1125,Pozuelo de Alarcón,40.4346528,-3.814834,16032,Parque la Gitana,Majadahonda Comunidad de Madrid,375
+1126,Pozuelo de Alarcón,40.4346528,-3.814834,16032,Santuario Nuestra Señora de Schoenstatt,Madrid,425
+1127,Pozuelo de Alarcón,40.4346528,-3.814834,16032,Parque el Pradillo,Pozuelo de Alarcón Comunidad de Madrid,594
+1128,Pozuelo de Alarcón,40.4346528,-3.814834,16032,Parque Cruz de la Atalaya,Atalaya,745
+1129,Pozuelo de Alarcón,40.4346528,-3.814834,16032,Parque Fuente de la Salud,Pozuelo de Alarcón Comunidad de Madrid,957
+1130,Pozuelo de Alarcón,40.4346528,-3.814834,16032,Parque Atenas,28224 Pozuelo de Alarcón Comunidad de Madrid,967
+1131,Pozuelo de Alarcón,40.4346528,-3.814834,16032,Parque Europa,"Avenida de Europa, 1",993
+1132,Pozuelo de Alarcón,40.4346528,-3.814834,16032,Parque Plaza de España,"Avenida de España, 10",1008
+1133,Pozuelo de Alarcón,40.4346528,-3.814834,16032,Parque Cerro de los Perdigones,Pozuelo de Alarcón Madrid,1026
+1134,Pozuelo de Alarcón,40.4346528,-3.814834,16032,Cerro Perdigones,Pozuelo de Alarcón Comunidad de Madrid,1066
+1135,Pozuelo de Alarcón,40.4346528,-3.814834,13065,Restaurante Nuevo California,"Plaza Mayor, 5",99
+1136,Pozuelo de Alarcón,40.4346528,-3.814834,13065,Armenia Ararat,"Carretera de Carabanchel a Aravaca, 5",100
+1137,Pozuelo de Alarcón,40.4346528,-3.814834,13065,La Carbonera de Carranza,"Pza. Mayor, 5",105
+1138,Pozuelo de Alarcón,40.4346528,-3.814834,13065,Grill gourmet burguer,"Plaza Mayor, 5",105
+1139,Pozuelo de Alarcón,40.4346528,-3.814834,13065,Indio & Kebab Hut,"San Roque, 10",182
+1140,Pozuelo de Alarcón,40.4346528,-3.814834,13065,Te Oriental Li Pozuelo,"Calle Dr. Cornago, 22 Bajo",277
+1141,Pozuelo de Alarcón,40.4346528,-3.814834,13065,Delices Pastelería By Danielle Liu,"Calle Nuestra Señora de la Consolacion, 1",282
+1142,Pozuelo de Alarcón,40.4346528,-3.814834,13065,La Casica,"Plaza José Antonio, 10",311
+1143,Pozuelo de Alarcón,40.4346528,-3.814834,13065,Bola Pizzas y Mas,"Camino de las Huertas, 2",402
+1144,Pozuelo de Alarcón,40.4346528,-3.814834,13065,Mi Hermano y Yo,"Cno. Huertas, 2",425
+1145,Prádena del Rincón,41.0443369,-3.5402284,13065,Taberna el Trebol,"Calle Rosario, 1",95
+1146,Prádena del Rincón,41.0443369,-3.5402284,13065,Bar el Rincón,"Calle Real, 8",102
+1147,Prádena del Rincón,41.0443369,-3.5402284,13065,Alojamientos la Hontanilla,"Avenida el Soto, 2",1565
+1148,Prádena del Rincón,41.0443369,-3.5402284,13065,El Rincón del Cárabo,"Calle Pozas, 40",1593
+1149,Prádena del Rincón,41.0443369,-3.5402284,13065,Restaurante la Hontanilla,"Avenida Soto, 24 y, 36",1631
+1150,Prádena del Rincón,41.0443369,-3.5402284,13065,Panadería Nani,"Plaza Mayor, 3",1883
+1151,Prádena del Rincón,41.0443369,-3.5402284,13065,Restaurante el Pajar - Un Pajar de 200 a,"Calle de la Comunidad de Madrid, 9",1907
+1152,Prádena del Rincón,41.0443369,-3.5402284,13065,La Ladera de Horcajuelo,"Calle Blanco, 17",1949
+1153,Prádena del Rincón,41.0443369,-3.5402284,13065,El Hayedo,"Travesía de Horcajuelo, 13",1966
+1154,Puebla de la Sierra,41.0121247,-3.4444367,13065,La Posada de la Puebla,"Plaza Carlos Ruiz, 2",50
+1155,Manjirón,40.9654041,-3.5828764,13065,Aldea Santillana,"Carretera M-127, Berrueco-Cervera de Buitrago, Km 9.200",53
+1156,Manjirón,40.9654041,-3.5828764,13065,Posada y Alojamientos el Aprisco,"Avenida del Villar, 21",143
+1157,Quijorna,40.4290833,-4.0565378,16032,Elfos Empresa de Servicios Pedagogicos,"Calle Santa Ana, 4",115
+1158,Quijorna,40.4290833,-4.0565378,13065,Los Chopos,"Virgen del Pilar, 19",86
+1159,Quijorna,40.4290833,-4.0565378,13065,El Aguila,"Real, 50",186
+1160,Quijorna,40.4290833,-4.0565378,13065,La Taberna del Mariart,"Quejigo, 54",189
+1161,Rascafría,40.9038871,-3.8802853,17114,Madrid Paris,"Avenida Valle, 6",89
+1162,Rascafría,40.9038871,-3.8802853,13065,Mesón Peranche,"Plaza de España, 4",30
+1163,Rascafría,40.9038871,-3.8802853,13065,Tascafria Café Bar,"Plaza de la Villa, 31",46
+1164,Rascafría,40.9038871,-3.8802853,13065,Casa Briscas,"Plaza España, 13",55
+1165,Rascafría,40.9038871,-3.8802853,13065,Briscas Restaurante,"Plaza España, 13",55
+1166,Rascafría,40.9038871,-3.8802853,13065,Rosario6,"Calle de Rosario, 6",98
+1167,Rascafría,40.9038871,-3.8802853,13065,La Fanega de Roque Comedor Solariego,"Avenida el Paular, 19",137
+1168,Rascafría,40.9038871,-3.8802853,13065,Hiruela Cañil e,"Avenida Paular, 19",139
+1169,Rascafría,40.9038871,-3.8802853,13065,Restaurante Conchi,"Calle Rosario, 23",142
+1170,Rascafría,40.9038871,-3.8802853,13065,Bar el Río,"Calle de Ibañez Marin, 28",144
+1171,Rascafría,40.9038871,-3.8802853,13065,Boutique del Pan Feliseda,"Calle de la Corrala, 4",176
+1172,Redueña,40.8158054,-3.6039309,13065,Blanquita,"Real, 76",1893
+1173,Redueña,40.8158054,-3.6039309,13065,El Rincon de Cabanillas,"Calle Real, 75",1991
+1174,Rivas-Vaciamadrid,40.3536054,-3.5310879,16032,Mahela,28522 Rivas-Vaciamadrid Madrid,116
+1175,Rivas-Vaciamadrid,40.3536054,-3.5310879,16032,Parque para perros,"Capa negra, 28522 Rivas-Vaciamadrid Comunidad de Madrid",436
+1176,Rivas-Vaciamadrid,40.3536054,-3.5310879,16032,Parque Bellavista,"Avda. Ramón y Cajal, 28522 Rivas-Vaciamadrid Comunidad de Madrid",456
+1177,Rivas-Vaciamadrid,40.3536054,-3.5310879,16032,Parque,,921
+1178,Rivas-Vaciamadrid,40.3536054,-3.5310879,16032,Abracadabra Fiestas Infantiles,"Joaquin Sorolla, 6",1194
+1179,Rivas-Vaciamadrid,40.3536054,-3.5310879,16032,Parque Avda. de los Almendros,Almendros,1332
+1180,Rivas-Vaciamadrid,40.3536054,-3.5310879,16032,Parque Cerro del Telégrafo,"pilar bardem, Madrid Comunidad de Madrid",1337
+1181,Rivas-Vaciamadrid,40.3536054,-3.5310879,16032,Parque Ecopolis,,1493
+1182,Rivas-Vaciamadrid,40.3536054,-3.5310879,16032,Centro de Recursos Ambientales Chico Mendes,"Calle del Enebro, 27",1557
+1183,Rivas-Vaciamadrid,40.3536054,-3.5310879,16032,Ludoteca Divertiteca,"Plaza del Monte Ciruelo, 2",1641
+1184,Rivas-Vaciamadrid,40.3536054,-3.5310879,17114,Santa Mónica,"Calle Aloe, 14",897
+1185,Rivas-Vaciamadrid,40.3536054,-3.5310879,17114,Cuadros Parque Rivas,"Avenida Técnica, s/n",1167
+1186,Rivas-Vaciamadrid,40.3536054,-3.5310879,17114,Rivas Centro,"Plaza de la Constitución, 1",1374
+1187,Rivas-Vaciamadrid,40.3536054,-3.5310879,17114,C.C. Rivas Centro,Rivas-Vaciamadrid Comunidad de Madrid,1407
+1188,Rivas-Vaciamadrid,40.3536054,-3.5310879,17114,Parque Rivas,Rivas-Vaciamadrid Comunidad de Madrid,1466
+1189,Rivas-Vaciamadrid,40.3536054,-3.5310879,17114,La Cantabrica,"Avenida Técnica, s/n",1493
+1190,Rivas-Vaciamadrid,40.3536054,-3.5310879,17114,LEGO teca,"Avenida Marie Curie, 4",1790
+1191,Rivas-Vaciamadrid,40.3536054,-3.5310879,17114,C.C. H2O,"Calle Marie Curie, 4",1816
+1192,Rivas-Vaciamadrid,40.3536054,-3.5310879,17114,Mad-h2ocio,"Calle Marie Curie, 4",1881
+1193,Rivas-Vaciamadrid,40.3536054,-3.5310879,17114,Tous C.C. H2O - Rivas Vaciamadrid,"Calle Marie Curie, 4",1894
+1194,Rivas-Vaciamadrid,40.3536054,-3.5310879,13065,Coolture Cafe,"Calle Dalia, 7",82
+1195,Rivas-Vaciamadrid,40.3536054,-3.5310879,13065,Palacio King,"Plaza José Celestino Mutis Sector II, 2",122
+1196,Rivas-Vaciamadrid,40.3536054,-3.5310879,13065,Pasteleria Bouquet,"Calle María Zambrano, 3",274
+1197,Rivas-Vaciamadrid,40.3536054,-3.5310879,13065,Bebola,"Avenida Ángel Saavedra, 1",550
+1198,Rivas-Vaciamadrid,40.3536054,-3.5310879,13065,Merca Rivas Dos,"Avenida José Hierro, 36",594
+1199,Rivas-Vaciamadrid,40.3536054,-3.5310879,13065,Recoleta Empanadas Argentinas,"Ronda Parque Bellavista, 4",597
+1200,Rivas-Vaciamadrid,40.3536054,-3.5310879,13065,La Bohemia,"Calle Francisco Ayala, 2",604
+1201,Rivas-Vaciamadrid,40.3536054,-3.5310879,13065,Bar Rone,"Avenida Pablo Iglesias, 79",675
+1202,Rivas-Vaciamadrid,40.3536054,-3.5310879,13065,La Zampa,"Paseo Capa Negra, 6",684
+1203,Rivas-Vaciamadrid,40.3536054,-3.5310879,13065,El Vallina,"Avenida de José Hierro, 28",689
+1204,Rivas-Vaciamadrid,40.3536054,-3.5310879,11037,"Alquiler de Maquinaria Fercon, Maquinaria de construccion","Calle Juan de la Cierva, 2",1886
+1205,Robledillo de la Jara,40.9529148,-3.5250504,13065,Novella Gonzalez Nuria,"Calle de la Soledad, 12",45
+1206,Robledillo de la Jara,40.9529148,-3.5250504,13065,Taberna Museo,"Soledad, 12",67
+1207,Robledillo de la Jara,40.9529148,-3.5250504,13065,Posada de Robledillo,"Calle de la Fuente, 24",109
+1208,Robledo de Chavela,40.5009201,-4.2380999,16032,El Robledillo,Comunidad de Madrid,977
+1209,Robledo de Chavela,40.5009201,-4.2380999,13065,Bar Sevilla,"Plaza España, 5",35
+1210,Robledo de Chavela,40.5009201,-4.2380999,13065,Espiga de Oro,"Plaza de España, 13",52
+1211,Robledo de Chavela,40.5009201,-4.2380999,13065,Bar Parada,"Plaza Piedita, 8",78
+1212,Robledo de Chavela,40.5009201,-4.2380999,13065,Premier Cafe,"Los Mesones, 16",83
+1213,Robledo de Chavela,40.5009201,-4.2380999,13065,Sidrería el Manzano,"Avenida de la Constitución, 14",135
+1214,Robledo de Chavela,40.5009201,-4.2380999,13065,Cava Baja,"Avenida Constitución, 26",189
+1215,Robledo de Chavela,40.5009201,-4.2380999,13065,La Almenara,"Avenida Constitución, 26",208
+1216,Robledo de Chavela,40.5009201,-4.2380999,13065,Robledo Rural,"Pso. de los Alamos, 14",212
+1217,Robledo de Chavela,40.5009201,-4.2380999,13065,Trattoria,"Carretera Valdemaqueda, 29",493
+1218,Robledo de Chavela,40.5009201,-4.2380999,13065,Roqueo de Chavela,"Calle Almenara, 1233",1544
+1219,Las Rozas de Madrid,40.4933095,-3.8758396,16032,Jardines del Arcipreste D. Abel Blanco,"Avenida de la Iglesia, 14",241
+1220,Las Rozas de Madrid,40.4933095,-3.8758396,16032,Dog Run,28230 Las Rozas Comunidad de Madrid,318
+1221,Las Rozas de Madrid,40.4933095,-3.8758396,16032,Lian Centro Infantil,"Calle Esperanza, 4",367
+1222,Las Rozas de Madrid,40.4933095,-3.8758396,16032,Parque de Dublín,28231 Las Rozas Comunidad de Madrid,384
+1223,Las Rozas de Madrid,40.4933095,-3.8758396,16032,Dog Run,28231 Las Rozas Comunidad de Madrid,398
+1224,Las Rozas de Madrid,40.4933095,-3.8758396,16032,Parque Nueva Javeriana,"C/ de la Jabonería, 28231 Las Rozas Comunidad de Madrid",480
+1225,Las Rozas de Madrid,40.4933095,-3.8758396,16032,Parque Otero Besteiro,"Calle de la Comunidad de Castilla-la Mancha, 38-78",557
+1226,Las Rozas de Madrid,40.4933095,-3.8758396,16032,Parque botanico,28231 Las Rozas Comunidad de Madrid,631
+1227,Las Rozas de Madrid,40.4933095,-3.8758396,16032,Parque infantil P.Paris,,641
+1228,Las Rozas de Madrid,40.4933095,-3.8758396,16032,Parque el Montecillo,,673
+1229,Las Rozas de Madrid,40.4933095,-3.8758396,17114,Centro Comercial Burgo de las Rozas,Calle de la Comunidad de Madrid Nº 37,372
+1230,Las Rozas de Madrid,40.4933095,-3.8758396,17114,BurgoCentro,Calle Comunidad de Madrid 37-41,423
+1231,Las Rozas de Madrid,40.4933095,-3.8758396,17114,Awan sport europa,"Modena Polígono Industrial Európolis, 36",1779
+1232,Las Rozas de Madrid,40.4933095,-3.8758396,17114,SOHO de las Rozas,28232 Las Rozas Comunidad de Madrid,1863
+1233,Las Rozas de Madrid,40.4933095,-3.8758396,17114,Mi Store Gran Plaza 2,"Calle de los Químicos, 2",1923
+1234,Las Rozas de Madrid,40.4933095,-3.8758396,17114,Mad-gran plaza 2,"De los Quimicos, 2",1939
+1235,Las Rozas de Madrid,40.4933095,-3.8758396,17114,VIPS Smart Gran Plaza II,"Calle de los Químicos, 2",1944
+1236,Las Rozas de Madrid,40.4933095,-3.8758396,13065,El Dos Dimsum Bar,"Plaza de España, 2",29
+1237,Las Rozas de Madrid,40.4933095,-3.8758396,13065,Paleo Natura,"Avenida de Atenas, 75",29
+1238,Las Rozas de Madrid,40.4933095,-3.8758396,13065,Sagarmatha,"San Agustín, 2",49
+1239,Las Rozas de Madrid,40.4933095,-3.8758396,13065,Restaurante el Montecillo,"Calle San Agustin, 2",51
+1240,Las Rozas de Madrid,40.4933095,-3.8758396,13065,Jolumaje,"Calle Navarra, 4",70
+1241,Las Rozas de Madrid,40.4933095,-3.8758396,13065,Lizarran,"Avenida de los Toreros, 5",84
+1242,Las Rozas de Madrid,40.4933095,-3.8758396,13065,La Chalota,"Calle de la Fuente, 7",95
+1243,Las Rozas de Madrid,40.4933095,-3.8758396,13065,Abrasador,"Avenida de los Toreros, 1",100
+1244,Las Rozas de Madrid,40.4933095,-3.8758396,13065,100 Montaditos,"Camilo José Cela Parq. Empresarial, 2",318
+1245,Las Rozas de Madrid,40.4933095,-3.8758396,13065,Elcervecero.Es,"Comunidad de Madrid, 41",332
+1246,Las Rozas de Madrid,40.4933095,-3.8758396,11037,Alquiler de Maquinaria FERCON,"Calle Berna Polígono Industrial Európolis, 16-b",929
+1247,Rozas de Puerto Real,40.3098351,-4.4912111,13065,Casa Antonio,Carretera M-507,116
+1248,Rozas de Puerto Real,40.3098351,-4.4912111,13065,Bar Restaurante Casa Fermin,Carretera Alcorcon-Plasencia. s/n,1551
+1249,Rozas de Puerto Real,40.3098351,-4.4912111,13065,Andres de Castro Lopez,"Avenida Portugal, 1",1781
+1250,Rozas de Puerto Real,40.3098351,-4.4912111,13065,La Gavia Restaurante,"Avenida Constitución, 2",55971
+1251,Rozas de Puerto Real,40.3098351,-4.4912111,13065,Restaurante Venta la Quintería,"Autovía Madrid-Cádiz, Km 197",196430
+1252,San Agustín del Guadalix,40.679051,-3.6166004,16032,Diverarte,28750 San Agustín del Guadalix Comunidad de Madrid,23
+1253,San Agustín del Guadalix,40.679051,-3.6166004,16032,Parque Municipal,San Agustín del Guadalix Comunidad de Madrid,306
+1254,San Agustín del Guadalix,40.679051,-3.6166004,16032,Parque de la Vega,,537
+1255,San Agustín del Guadalix,40.679051,-3.6166004,16032,Parque Lineal de San Agustín de Guadalix,San Agustín Comunidad de Madrid,658
+1256,San Agustín del Guadalix,40.679051,-3.6166004,13065,Hermanos Martin Constanza,"Lucio Benito, 6",82
+1257,San Agustín del Guadalix,40.679051,-3.6166004,13065,Casa Juaneca,"Calle Lucio Benito, 3",101
+1258,San Agustín del Guadalix,40.679051,-3.6166004,13065,Bocailo,"Calle de Lucio Benito, 14",112
+1259,San Agustín del Guadalix,40.679051,-3.6166004,13065,El Tapeo,"Calle de Julian Berrendero, 8",124
+1260,San Agustín del Guadalix,40.679051,-3.6166004,13065,Tan Agustín,"Julián Berrendero, 8",129
+1261,San Agustín del Guadalix,40.679051,-3.6166004,13065,Restaurante la Gloria,"Julian Berrendero, 23",139
+1262,San Agustín del Guadalix,40.679051,-3.6166004,13065,Mesón el Jinete,"Calle Julián Berrendero, 23",144
+1263,San Agustín del Guadalix,40.679051,-3.6166004,13065,El Caserón de Araceli,"Calle Olivar, 8",152
+1264,San Agustín del Guadalix,40.679051,-3.6166004,13065,Fiori D Italia,"Calle Ventosilla, 5",161
+1265,San Agustín del Guadalix,40.679051,-3.6166004,13065,Cafe 23,"Avenida de Madrid, 23",164
+1266,San Fernando de Henares,40.4248548,-3.5350369,16032,Plaza de España,San Fernando de Henares Comunidad de Madrid,98
+1267,San Fernando de Henares,40.4248548,-3.5350369,16032,Plaza Primero de Mayo,28830 San Fernando de Henares Comunidad de Madrid,404
+1268,San Fernando de Henares,40.4248548,-3.5350369,16032,Parque Pablo Neruda,,418
+1269,San Fernando de Henares,40.4248548,-3.5350369,16032,Parque Monserat Roig,"Virgen Del Templo, 28830 San Fernando de Henares Comunidad de Madrid",525
+1270,San Fernando de Henares,40.4248548,-3.5350369,16032,Parque Dolores Ibárruri,"Av. San Sebastián, 28830 San Fernando de Henares Comunidad de Madrid",701
+1271,San Fernando de Henares,40.4248548,-3.5350369,16032,Parque Abogados de Atocha,,817
+1272,San Fernando de Henares,40.4248548,-3.5350369,16032,parque Dulce Chacón,,831
+1273,San Fernando de Henares,40.4248548,-3.5350369,16032,Parque el General,Avenida de San Sebastián,899
+1274,San Fernando de Henares,40.4248548,-3.5350369,16032,Parque la Rambla,La Rambla,1027
+1275,San Fernando de Henares,40.4248548,-3.5350369,16032,Parque Salvador Allende,"C/ Colombia, 28823 Coslada Comunidad de Madrid",1034
+1276,San Fernando de Henares,40.4248548,-3.5350369,17114,Comercial Valencia,"Calle Córdoba, s/n",428
+1277,San Fernando de Henares,40.4248548,-3.5350369,17114,La Rambla,"Calle Honduras, 25-27",595
+1278,San Fernando de Henares,40.4248548,-3.5350369,17114,Los Valles,"Avenida Principes de España de l, 45",687
+1279,San Fernando de Henares,40.4248548,-3.5350369,17114,C.C. Henares 2,"Calle Nazario Calonge, s/n",706
+1280,San Fernando de Henares,40.4248548,-3.5350369,17114,Centro Comercial la Rambla,Coslada Comunidad de Madrid,748
+1281,San Fernando de Henares,40.4248548,-3.5350369,13065,La Posada,"Libertad, 7",195
+1282,San Fernando de Henares,40.4248548,-3.5350369,13065,Domino's Pizza,"Avenida de la Constitución, 1",207
+1283,San Fernando de Henares,40.4248548,-3.5350369,13065,Bar Simsom,"Carretera Mejorada, 1",215
+1284,San Fernando de Henares,40.4248548,-3.5350369,13065,Globo Rojo,"Calle de la Huerta Chica, 8",226
+1285,San Fernando de Henares,40.4248548,-3.5350369,13065,Asador del Rey Fernando,"Plaza Fernando VI, 10",262
+1286,San Fernando de Henares,40.4248548,-3.5350369,13065,Asociacion de Vecinos la Cañada,"Calle Colegio, 4",285
+1287,San Fernando de Henares,40.4248548,-3.5350369,13065,Mesón Pinocchio,"Calle del Tajo, 5",303
+1288,San Fernando de Henares,40.4248548,-3.5350369,13065,Chocolateria cafeteria el tazon,"Calle Vicente Gaos, 3",330
+1289,San Fernando de Henares,40.4248548,-3.5350369,13065,Bar Jaen Marisqueria,"Calle Virgen del Templo, 7",353
+1290,San Fernando de Henares,40.4248548,-3.5350369,13065,Il Quattro Coslada,"Calle Venezuela, 27",395
+1291,San Lorenzo de El Escorial,40.5926673,-4.1471642,16032,Parque de los Romeros,28200 El Escorial Comunidad de Madrid,302
+1292,San Lorenzo de El Escorial,40.5926673,-4.1471642,16032,Los Romeros,,316
+1293,San Lorenzo de El Escorial,40.5926673,-4.1471642,16032,Parque de Felipe II,"calle Infantes, 28200 El Escorial Comunidad de Madrid",351
+1294,San Lorenzo de El Escorial,40.5926673,-4.1471642,16032,Plaza Juan de Herrera,28200 El Escorial Comunidad de Madrid,377
+1295,San Lorenzo de El Escorial,40.5926673,-4.1471642,16032,Arboleda Calzada Lonja Monasterio de el Escorial,28200 El Escorial Comunidad de Madrid,393
+1296,San Lorenzo de El Escorial,40.5926673,-4.1471642,16032,Parque de Adolfo Suárez,"Paseo de los Alamillos, 28200 El Escorial Comunidad de Madrid",579
+1297,San Lorenzo de El Escorial,40.5926673,-4.1471642,16032,Parque la Ladera,El Escorial Comunidad de Madrid,787
+1298,San Lorenzo de El Escorial,40.5926673,-4.1471642,16032,Parque de la Herreria,El Escorial Comunidad de Madrid,944
+1299,San Lorenzo de El Escorial,40.5926673,-4.1471642,16032,Parque de los Columpios,28280 El Escorial Comunidad de Madrid,1614
+1300,San Lorenzo de El Escorial,40.5926673,-4.1471642,16032,Manguilla,,1738
+1301,San Lorenzo de El Escorial,40.5926673,-4.1471642,17114,Centro Comercial GIGANTE,"Polígono Industrial Matacuervos, 5",1734
+1302,San Lorenzo de El Escorial,40.5926673,-4.1471642,13065,La Casa Di Napoli,"Calle Pozas, 16",26
+1303,San Lorenzo de El Escorial,40.5926673,-4.1471642,13065,El Raton,"Calle las Pozas, 15",68
+1304,San Lorenzo de El Escorial,40.5926673,-4.1471642,13065,Al Punto Hambgourmet,"Calle San Antón, 16",76
+1305,San Lorenzo de El Escorial,40.5926673,-4.1471642,13065,Montia,"Calle Calvario, 4",82
+1306,San Lorenzo de El Escorial,40.5926673,-4.1471642,13065,Taberna Yamaoka,"Calle de las Pozas, 31",91
+1307,San Lorenzo de El Escorial,40.5926673,-4.1471642,13065,Kokokara,"Calle Hernández Briz, 3",108
+1308,San Lorenzo de El Escorial,40.5926673,-4.1471642,13065,Gemma,"Calle Juan de Leyva, 7 Bajo",121
+1309,San Lorenzo de El Escorial,40.5926673,-4.1471642,13065,Pastelería Alaska (Pasteleria Alaska),"Plaza San Lorenso, 1",149
+1310,San Lorenzo de El Escorial,40.5926673,-4.1471642,13065,Villanueva Vinos y Copas,"Plaza Cruz, 2",158
+1311,San Lorenzo de El Escorial,40.5926673,-4.1471642,13065,Mesón 5 Bellotas,"Calle Reina Victoria, 10",158
+1312,San Martín de la Vega,40.2110462,-3.5771806,16032,Parque Tierno Galván,,1372
+1313,San Martín de la Vega,40.2110462,-3.5771806,13065,Asador el Amigo,"Calle José Azorín, 3",54
+1314,San Martín de la Vega,40.2110462,-3.5771806,13065,El Asador,"Calle de Severo Ochoa, 1",114
+1315,San Martín de la Vega,40.2110462,-3.5771806,13065,Pizzeria el Colisseo,"Calle Severo Ochoa, 1",114
+1316,San Martín de la Vega,40.2110462,-3.5771806,13065,La Balconada,"Avenida Dr. Manuel Jarabo, 42",127
+1317,San Martín de la Vega,40.2110462,-3.5771806,13065,Bar Restaurante el Lindero,"Avenida Doce de Octubre, 13",143
+1318,San Martín de la Vega,40.2110462,-3.5771806,13065,Rodrimar 35,"Avenida Doctor Manuel Jarabo, 70",195
+1319,San Martín de la Vega,40.2110462,-3.5771806,13065,Restaurante Cerveceria Zatara,"Calle San José de Calasanz, 27",205
+1320,San Martín de la Vega,40.2110462,-3.5771806,13065,Luis Miguel Belinchon Hosteleros,"Calle Concepcion Arenal, 5",246
+1321,San Martín de la Vega,40.2110462,-3.5771806,13065,Pulperia la ria,"Avenida Nuestra Señora de la Vega, 1",267
+1322,San Martín de la Vega,40.2110462,-3.5771806,13065,Tex-Mex,"Calle Joaquín Costa, 27",288
+1323,San Martín de Valdeiglesias,40.3625,-4.3986503,16032,Parque de la Estacion,,335
+1324,San Martín de Valdeiglesias,40.3625,-4.3986503,16032,El Bosque Encantado,"Camino de Marañones, 217",1695
+1325,San Martín de Valdeiglesias,40.3625,-4.3986503,13065,Restaurante Siete Capillas,"Pilar, 11",44
+1326,San Martín de Valdeiglesias,40.3625,-4.3986503,13065,Cafe Teatro,"Plaza Rucero, 1",105
+1327,San Martín de Valdeiglesias,40.3625,-4.3986503,13065,La Toscana Pasta & Pizza,"Plaza Rucero, 3",113
+1328,San Martín de Valdeiglesias,40.3625,-4.3986503,13065,Grand Master Baron,"Calle Fuente, 15",138
+1329,San Martín de Valdeiglesias,40.3625,-4.3986503,13065,El Rey de las tapas,"Plaza de la Corredera, 21-25",158
+1330,San Martín de Valdeiglesias,40.3625,-4.3986503,13065,Elfoâ´s bar,"Plaza Real, 5",162
+1331,San Martín de Valdeiglesias,40.3625,-4.3986503,13065,La Nuit Pub,"Plaza de la Corredera, s/n",164
+1332,San Martín de Valdeiglesias,40.3625,-4.3986503,13065,El Rincón de Gloria,"Plaza de la Corredera, 19",196
+1333,San Martín de Valdeiglesias,40.3625,-4.3986503,13065,La Marquesina,"Plaza Corredera, 6",219
+1334,San Martín de Valdeiglesias,40.3625,-4.3986503,13065,Marcus Pizza,"Gral. Martínez Benito, 14",223
+1335,San Sebastián de los Reyes,40.5473698,-3.6260586,16032,Colorin,"Sacramento, 3",378
+1336,San Sebastián de los Reyes,40.5473698,-3.6260586,16032,Área Canina Av. Ramón y Cajal,28700 San Sebastián de los Reyes Comunidad de Madrid,635
+1337,San Sebastián de los Reyes,40.5473698,-3.6260586,16032,Parque de la Marina,28700  Madrid,655
+1338,San Sebastián de los Reyes,40.5473698,-3.6260586,16032,Parque de Valencia,"Avenida de España, s/n",689
+1339,San Sebastián de los Reyes,40.5473698,-3.6260586,16032,La Marina,"Avenida Cataluña, 4 Bajo",701
+1340,San Sebastián de los Reyes,40.5473698,-3.6260586,16032,Parque de la Marina,28703 San Sebastián de los Reyes Comunidad de Madrid,772
+1341,San Sebastián de los Reyes,40.5473698,-3.6260586,16032,Parque de las Sombras,San Sebastián de los Reyes Comunidad de Madrid,780
+1342,San Sebastián de los Reyes,40.5473698,-3.6260586,16032,Parque del Zoco las Pirámides,Madrid,826
+1343,San Sebastián de los Reyes,40.5473698,-3.6260586,16032,Club de Ajedrez V Centenario,San Sebastián de los Reyes Comunidad de Madrid,908
+1344,San Sebastián de los Reyes,40.5473698,-3.6260586,16032,Parque de Murcia,Alcobendas Comunidad de Madrid,963
+1345,San Sebastián de los Reyes,40.5473698,-3.6260586,17114,Centro Comercial la Viña,San Sebastián de los Reyes Comunidad de Madrid,653
+1346,San Sebastián de los Reyes,40.5473698,-3.6260586,17114,Gorras Personalizadas Madrid,"Calle Isla de Alegranza, 4",880
+1347,San Sebastián de los Reyes,40.5473698,-3.6260586,17114,Sudaderas Personalizadas,"Isla de Alegranza, 4",891
+1348,San Sebastián de los Reyes,40.5473698,-3.6260586,17114,Carrefour San Sebastián de los Reyes,Carretera de Burgos N-1,1072
+1349,San Sebastián de los Reyes,40.5473698,-3.6260586,17114,Centro Comercial Carrefour San Sebastian de los Reyes,Carretera de Burgos N-1,1151
+1350,San Sebastián de los Reyes,40.5473698,-3.6260586,17114,Dolce Vita Shopping Gran Manzana,Avenida de España Nº 17,1206
+1351,San Sebastián de los Reyes,40.5473698,-3.6260586,17114,Ribs Megapark,"Autovía A-1, Salida 19, 28703 San Sebastián de los Reyes Comunidad de Madrid",1249
+1352,San Sebastián de los Reyes,40.5473698,-3.6260586,17114,Centro Comercial Plaza Norte 2,Avenida del Juncal 15-17,1288
+1353,San Sebastián de los Reyes,40.5473698,-3.6260586,17114,Perfumerías Primor - C.C. Plaza Norte 2,"Plaza del Comercio, 11-12",1301
+1354,San Sebastián de los Reyes,40.5473698,-3.6260586,17114,Carrefouronline,"Carretera Autovía A-1, Km 14,5",1363
+1355,San Sebastián de los Reyes,40.5473698,-3.6260586,13065,El foro Real 52,"Calle Real, 52",65
+1356,San Sebastián de los Reyes,40.5473698,-3.6260586,13065,Shamrocks Irish Pub,"Calle de José Murado, 8",187
+1357,San Sebastián de los Reyes,40.5473698,-3.6260586,13065,La Nota Rock,"Calle Real, 71",215
+1358,San Sebastián de los Reyes,40.5473698,-3.6260586,13065,Aquilon justo,"Mercedes Izquierdo, 10",224
+1359,San Sebastián de los Reyes,40.5473698,-3.6260586,13065,Cafes Pozo,"Calle Real, 5",340
+1360,San Sebastián de los Reyes,40.5473698,-3.6260586,13065,Gago II,"Avenida Plaza de Toros, 1",377
+1361,San Sebastián de los Reyes,40.5473698,-3.6260586,13065,Restaurante el Puente,"Calle Doctor Fleming, 5",455
+1362,San Sebastián de los Reyes,40.5473698,-3.6260586,13065,Doner Kebab Esperanza II,"Avenida de España, 24",487
+1363,San Sebastián de los Reyes,40.5473698,-3.6260586,13065,Restaurante el Laurel,"Avenida Matapiñoneras, 8",544
+1364,San Sebastián de los Reyes,40.5473698,-3.6260586,13065,Tejas Verdes,"Carretera de Burgos, Km 17",571
+1365,Santa María de la Alameda,40.5958248,-4.2579208,13065,Asador Cruz Verde,"Carretera S. Lorenzo Escorial, s/n",17
+1366,Santa María de la Alameda,40.5958248,-4.2579208,13065,Santamaria,"Avenida Rey Don Juan Carlos I, 23",116
+1367,Santa María de la Alameda,40.5958248,-4.2579208,13065,Restaurante Santa María,"Avenida Juan Carlos I, 23",195
+1368,Santa María de la Alameda,40.5958248,-4.2579208,13065,Casa Paco,"Carretera las Rozas de Madrid-Ávila M-505, Km 7",307
+1369,Santa María de la Alameda,40.5958248,-4.2579208,13065,Bares Rafa,"Calle Juan de Herrera, 1",890
+1370,Santorcaz,40.4715789,-3.2335594,13065,Bar Cervecería la Plaza,"Plaza de la Constitución, 4",82
+1371,Santorcaz,40.4715789,-3.2335594,13065,El Limite,"Plaza de la Constitucion, 4",90
+1372,Santorcaz,40.4715789,-3.2335594,13065,El Caldero Mágico,"Calle Eras de Abajo, 16",380
+1373,Los Santos de la Humosa,40.5012957,-3.2566803,16032,Mirador de la Alcarria,28817 Los Santos de la Humosa Comunidad de Madrid,566
+1374,Los Santos de la Humosa,40.5012957,-3.2566803,13065,La Hacienda,"Carretera Santos de la Humosa-Meco M-226, Km 0",70
+1375,La Serna del Monte,41.0305793,-3.6252636,13065,Bar Tasca,"Calle de los Peligros, 9",46
+1376,La Serna del Monte,41.0305793,-3.6252636,13065,Casa rural la Carcava,"Calle del Arroyo, 12",103
+1377,La Serna del Monte,41.0305793,-3.6252636,13065,La Barrica de la Serna,"Calle de los Peligros, 45",324
+1378,La Serna del Monte,41.0305793,-3.6252636,13065,La Ventanilla,"Peligros, 45",324
+1379,La Serna del Monte,41.0305793,-3.6252636,13065,Hostal Castillo de Somosierra,"Carretera Nal 1, Km 81",1804
+1380,Serranillos del Valle,40.2044509,-3.8851988,16032,Club Agility ESLON,Serranillos del Valle Comunidad de Madrid,1557
+1381,Serranillos del Valle,40.2044509,-3.8851988,13065,Bar Alameda,"Plaza Puente, 8",40
+1382,Serranillos del Valle,40.2044509,-3.8851988,13065,Hostal Restaurante Labrat,"Carretera Griñón-Carranque M-415, Km 16",71
+1383,Serranillos del Valle,40.2044509,-3.8851988,13065,El Arbero,"Madrid, 38",285
+1384,Serranillos del Valle,40.2044509,-3.8851988,13065,Pizzería Salvatore,"Calle de la Fuente, 5",884
+1385,Serranillos del Valle,40.2044509,-3.8851988,13065,Restaurante Labrat,"Carretera Navalcarnero-Chinchón, Km 17",1000
+1386,Serranillos del Valle,40.2044509,-3.8851988,13065,El Lechal,"Avenida Navalcarnero, 42",1966
+1387,Sevilla la Nueva,40.3475422,-4.0275268,16032,Parque de Baena,"Juan De Herrwra, Sevilla la Nueva Comunidad de Madrid",174
+1388,Sevilla la Nueva,40.3475422,-4.0275268,16032,Parque Antón Sevillano,28609 Sevilla la Nueva Comunidad de Madrid,400
+1389,Sevilla la Nueva,40.3475422,-4.0275268,16032,Parque el Olivar,28609 Sevilla la Nueva Comunidad de Madrid,411
+1390,Sevilla la Nueva,40.3475422,-4.0275268,13065,Burguer Cafeteria la Isla,"Travesía de Sevillanos, 2",20
+1391,Sevilla la Nueva,40.3475422,-4.0275268,13065,El Pórtico,"Sevillanos, 9",35
+1392,Sevilla la Nueva,40.3475422,-4.0275268,13065,El Estanco,"Plaza de España, 7",56
+1393,Sevilla la Nueva,40.3475422,-4.0275268,13065,El Museo,"Plaza de España, 14",56
+1394,Sevilla la Nueva,40.3475422,-4.0275268,13065,Churro Chef,"Calle General Asensio, 8",116
+1395,Sevilla la Nueva,40.3475422,-4.0275268,13065,El Trebol,"Calle Nuestra Señora del Villar, 1",146
+1396,Sevilla la Nueva,40.3475422,-4.0275268,13065,Pizzería el Torito,"Calle Mayor, 17",182
+1397,Sevilla la Nueva,40.3475422,-4.0275268,13065,El Señorio de Baena,"Calle del General Asensio, 7",195
+1398,Sevilla la Nueva,40.3475422,-4.0275268,13065,El hórreo,"Calle de la Constitución, 12",197
+1399,Sevilla la Nueva,40.3475422,-4.0275268,13065,Restaurante el Ternasco,"Avenida Guadarrama, 1",1616
+1400,Somosierra,41.133207,-3.581478,13065,El Molino de la Acebeda,"Camino de Robregordo, s/n",140
+1401,Somosierra,41.133207,-3.581478,13065,La Conce,"Carretera Irún, Km 92,2",218
+1402,Soto del Real,40.7534432,-3.7866573,16032,Parque del Rio,Comunidad de Madrid,219
+1403,Soto del Real,40.7534432,-3.7866573,16032,Zoco Real,Comunidad de Madrid,318
+1404,Soto del Real,40.7534432,-3.7866573,16032,Parque de los burdiales “Un Clásico”,,912
+1405,Soto del Real,40.7534432,-3.7866573,16032,Parque infantil Prado de la Iglesia,,1312
+1406,Soto del Real,40.7534432,-3.7866573,13065,El Marques,"Plaza Villa, 17",14
+1407,Soto del Real,40.7534432,-3.7866573,13065,Corazon de Tiza,"Plaza de la Villa, 2",15
+1408,Soto del Real,40.7534432,-3.7866573,13065,El Rincón de la Abuela,"Calle del Rio, 12",29
+1409,Soto del Real,40.7534432,-3.7866573,13065,Bar Restaurante la Chopera,"Calle del Río, 1",29
+1410,Soto del Real,40.7534432,-3.7866573,13065,Taberna el Rocio,"Calle Real, 5",33
+1411,Soto del Real,40.7534432,-3.7866573,13065,Restaurante Gredos,"Calle Real, 14",35
+1412,Soto del Real,40.7534432,-3.7866573,13065,Bar Triangulo,"Calle Viñas, 1",36
+1413,Soto del Real,40.7534432,-3.7866573,13065,"Nosé, Nosé","Calle Viñas, 1",41
+1414,Soto del Real,40.7534432,-3.7866573,13065,Demaría,"Calle Real, 25",60
+1415,Soto del Real,40.7534432,-3.7866573,13065,Asador los Pepes,"Calle Real, 8",69
+1416,Talamanca de Jarama,40.7454625,-3.5127366,16032,La Chopera,28100 Talamanca de Jarama Comunidad de Madrid,1045
+1417,Talamanca de Jarama,40.7454625,-3.5127366,13065,Ceta's,"Calle Arco, 6",76
+1418,Talamanca de Jarama,40.7454625,-3.5127366,13065,Bar la Capital,"Calle de los Molinos, 3",86
+1419,Talamanca de Jarama,40.7454625,-3.5127366,13065,Complejo la Capea,"Carretera Alcala-Torrelaguna M-103, Km 26",136
+1420,Talamanca de Jarama,40.7454625,-3.5127366,13065,La Ración de Xer,"Calle de la Villa, Nº7",138
+1421,Talamanca de Jarama,40.7454625,-3.5127366,13065,La Calandria,"Calle de Fuente del Arca, 8-12",228
+1422,Talamanca de Jarama,40.7454625,-3.5127366,13065,Mini's,"Calle Campoalbillo, 2",253
+1423,Talamanca de Jarama,40.7454625,-3.5127366,13065,Bar Heladeria Sole,"Urbanización Rosario, s/n",331
+1424,Talamanca de Jarama,40.7454625,-3.5127366,13065,Calipso Bar Restaurante,"Calle Valdepielagos, 6",404
+1425,Talamanca de Jarama,40.7454625,-3.5127366,13065,El Manjar de Talamanca,"Carretera M-103, Km 22,6",975
+1426,Talamanca de Jarama,40.7454625,-3.5127366,13065,Restaurante Villa Albadia,Carretera Alcala-Torrelaguna M-103,1293
+1427,Tielmes,40.2465011,-3.3136206,13065,Castilla,"Paseo de la Estacion, 2",94
+1428,Tielmes,40.2465011,-3.3136206,13065,Panaderia Lidia,"Calle de Cipriano Briceño, 6",130
+1429,Tielmes,40.2465011,-3.3136206,13065,Moderno,"Plaza de la Constitución, 10",174
+1430,Tielmes,40.2465011,-3.3136206,13065,El Talisman,"Calle Vega, 19",197
+1431,Tielmes,40.2465011,-3.3136206,13065,Panaderia Rodriguez del Pozo,"Calle de la Cruz, 35",359
+1432,Tielmes,40.2465011,-3.3136206,13065,B.M.I. Iberica,"Carretera Ambite, Km 4",1197
+1433,Titulcia,40.1379148,-3.5709978,13065,Panaderia Castillo,"Calle Grande, 17",125
+1434,Titulcia,40.1379148,-3.5709978,13065,Mesón Restaurante la Plaza,"Calle Grande, 18",143
+1435,Titulcia,40.1379148,-3.5709978,13065,Mesón Restaurante la Plaza,"Calle Grande, 18",143
+1436,Titulcia,40.1379148,-3.5709978,13065,El Duende,"Calle Grande, 36",190
+1437,Titulcia,40.1379148,-3.5709978,13065,Restaurante Casa Miro,"Calle de la Soledad, 8",207
+1438,Titulcia,40.1379148,-3.5709978,13065,El Rincón de Luis,"Calle Grande, 31",214
+1439,Titulcia,40.1379148,-3.5709978,13065,Cafeteria Bar Jarama,"Calle Grande, 2",231
+1440,Titulcia,40.1379148,-3.5709978,13065,La Cueva de la Luna,"Calle de la Luna, 8",270
+1441,Titulcia,40.1379148,-3.5709978,13065,Rico Manzanero c,"Luna, 10",270
+1442,Torrejón de Ardoz,40.4587767,-3.4793343,16032,Parque ferrocarril,Avenida de la Costituccion N86,453
+1443,Torrejón de Ardoz,40.4587767,-3.4793343,16032,Parque del Agua,28850 Torrejón de Ardoz Comunidad de Madrid,556
+1444,Torrejón de Ardoz,40.4587767,-3.4793343,16032,Parque San Isidro,San Isidro Madrid,556
+1445,Torrejón de Ardoz,40.4587767,-3.4793343,16032,El Gran Parque,,556
+1446,Torrejón de Ardoz,40.4587767,-3.4793343,16032,Parque Veredillas,28850 Torrejón de Ardoz Comunidad de Madrid,561
+1447,Torrejón de Ardoz,40.4587767,-3.4793343,16032,Parque 11 de Marzo,"Avenida Madrid, 1",621
+1448,Torrejón de Ardoz,40.4587767,-3.4793343,16032,Parque del Norte,,705
+1449,Torrejón de Ardoz,40.4587767,-3.4793343,16032,Parque Félix Rodríguez de la Fuente,Comunidad de Madrid,978
+1450,Torrejón de Ardoz,40.4587767,-3.4793343,16032,Parque Paseo de la Chopera,,1023
+1451,Torrejón de Ardoz,40.4587767,-3.4793343,16032,Parque Girasol,28850 Torrejón de Ardoz Comunidad de Madrid,1121
+1452,Torrejón de Ardoz,40.4587767,-3.4793343,17114,Comunidad de Propietarios el Circulo,"Avenida Constitución, 90 Bajo",589
+1453,Torrejón de Ardoz,40.4587767,-3.4793343,17114,El Círculo Shopping Mall (C.C. El Círculo),"De la Constitucion, 90",591
+1454,Torrejón de Ardoz,40.4587767,-3.4793343,17114,Centro Comercial las Veredillas,"Lisboa, 30",897
+1455,Torrejón de Ardoz,40.4587767,-3.4793343,13065,Bar el Gallego,"Calle Soledad, 15",134
+1456,Torrejón de Ardoz,40.4587767,-3.4793343,13065,De Tapeo Contigo,"Calle Hospital, 5",137
+1457,Torrejón de Ardoz,40.4587767,-3.4793343,13065,Tio de la Bota,"Calle Virgen de la Paloma, 8",163
+1458,Torrejón de Ardoz,40.4587767,-3.4793343,13065,Bar los Rafaeles,"Calle Soledad, 12",208
+1459,Torrejón de Ardoz,40.4587767,-3.4793343,13065,Restaurante Redondo,"Calle Soledad, 20",234
+1460,Torrejón de Ardoz,40.4587767,-3.4793343,13065,Cafeteria Hiedra,"Calle Jaboneria, 34",240
+1461,Torrejón de Ardoz,40.4587767,-3.4793343,13065,Dueñas Mendez Julian,"Calle Manuel Sandoval, 5",247
+1462,Torrejón de Ardoz,40.4587767,-3.4793343,13065,Flunch,"Carretera Ajalvir, Km 1",262
+1463,Torrejón de Ardoz,40.4587767,-3.4793343,13065,Bar Cobo,"Calle de la Cruz, 2",282
+1464,Torrejón de Ardoz,40.4587767,-3.4793343,13065,Galeón,"Calle Cervantes, 9",287
+1465,Torrejón de Ardoz,40.4587767,-3.4793343,11037,Micoin,"Calle Primavera, 15",1270
+1466,Torrejón de Ardoz,40.4587767,-3.4793343,11037,Rent-table Andamios y Maquinaria,"Calle Sierra de Guadarrama Polígono Industrial San Fernando II, 90",1550
+1467,Torrejón de Ardoz,40.4587767,-3.4793343,11037,Sumaco Andamios,"Calle de la Sierra de Guadarrama, 90",1550
+1468,Torrejón de Ardoz,40.4587767,-3.4793343,11037,Axor Rentals,"Avenida Castilla, 26",1854
+1469,Torrejón de la Calzada,40.2006804,-3.7993298,16032,Airsoft el Cortijo,Comunidad de Madrid,1547
+1470,Torrejón de la Calzada,40.2006804,-3.7993298,17114,Formecal,"Avenida Doce, 10",1439
+1471,Torrejón de la Calzada,40.2006804,-3.7993298,13065,Churreria San Isidro,"Calle Olivar, 3 Bajo",74
+1472,Torrejón de la Calzada,40.2006804,-3.7993298,13065,Euro Cater,"Décima Avenida Polígono Industrial las Avenidas, 11",82
+1473,Torrejón de la Calzada,40.2006804,-3.7993298,13065,Mesón Casa Pérez,"Calle Real, s/n",86
+1474,Torrejón de la Calzada,40.2006804,-3.7993298,13065,Molokai,"Calle Castillo, 1",129
+1475,Torrejón de la Calzada,40.2006804,-3.7993298,13065,La Bamba,"Calle Castillo, 1",129
+1476,Torrejón de la Calzada,40.2006804,-3.7993298,13065,El Rincón de Carlos,"Griñón, 4",135
+1477,Torrejón de la Calzada,40.2006804,-3.7993298,13065,El Asador de Torrejón,"Calle del Castillo, 3",141
+1478,Torrejón de la Calzada,40.2006804,-3.7993298,13065,La Casona D'Pedran,"Calle del Castillo, 8",141
+1479,Torrejón de la Calzada,40.2006804,-3.7993298,13065,Restaurante Arbillas,"Calle San Sebastián, 1",147
+1480,Torrejón de la Calzada,40.2006804,-3.7993298,13065,Los Caballos,"Polígono Industrial las Avenidas, Avenida Sexta, 8",156
+1481,Torrejón de la Calzada,40.2006804,-3.7993298,11037,Briko Sur Alquiler de Maquinaria,"Calle Cambroneras, 7",141
+1482,Torrejón de Velasco,40.1869283,-3.7769069,16032,Área Infantil,"Calle Francisco Alonso, 28990 Torrejón de Velasco Comunidad de Madrid",321
+1483,Torrejón de Velasco,40.1869283,-3.7769069,16032,Parque Provincias,"Calle Cuenca, 28990 Torrejón de Velasco Comunidad de Madrid",326
+1484,Torrejón de Velasco,40.1869283,-3.7769069,13065,Casa Goyo,"Plaza de España, 13",49
+1485,Torrejón de Velasco,40.1869283,-3.7769069,13065,Gourmet Jiennense,"Alcalde Luis Torrejón, 4",64
+1486,Torrejón de Velasco,40.1869283,-3.7769069,13065,El Circulo,Torrejón de Velasco Comunidad de Madrid,116
+1487,Torrejón de Velasco,40.1869283,-3.7769069,13065,El Convento de Torrejón de Velasco,"Calle de Mediodía, 3",150
+1488,Torrejón de Velasco,40.1869283,-3.7769069,13065,Horno San Martín,"Ronda de Zaragoza, 10",321
+1489,Torrejón de Velasco,40.1869283,-3.7769069,13065,Arbillas Bar Restaurante,"Avenida de Carlos I, 24",1909
+1490,Torrelaguna,40.8277273,-3.538293,17114,Ruda,"Calle de la Cava, 3",112
+1491,Torrelaguna,40.8277273,-3.538293,13065,Bar la Plaza,"Plaza Mayor, 2",21
+1492,Torrelaguna,40.8277273,-3.538293,13065,La Travesia,"Travesía de la Plaza, 3",50
+1493,Torrelaguna,40.8277273,-3.538293,13065,Cafe Bar Bambu,"Calle del Cardenal Cisneros, 3",59
+1494,Torrelaguna,40.8277273,-3.538293,13065,Amore per la pizza,"Calle del Cardenal Cisneros Numero, 8",60
+1495,Torrelaguna,40.8277273,-3.538293,13065,Alfolí de la Sal,"Calle de la Estrella, 7",87
+1496,Torrelaguna,40.8277273,-3.538293,13065,Casa Moraleda,"Calle Cardenal Cisneros, 15",105
+1497,Torrelaguna,40.8277273,-3.538293,13065,La Casa Perdida,"Plaza de la Paz, 6",130
+1498,Torrelaguna,40.8277273,-3.538293,13065,Bar Terraza a Donde,"Paseo Varguilla, 7-8",134
+1499,Torrelaguna,40.8277273,-3.538293,13065,Mesón Antigua Casa Patata Bar,"Calle Malacuera, 2",135
+1500,Torrelaguna,40.8277273,-3.538293,13065,Posada del Camino Real,"San Francisco, 6",203
+1501,Torrelodones,40.5762809,-3.928603,16032,Parque JH,,233
+1502,Torrelodones,40.5762809,-3.928603,16032,Parque Pradogrande,,1844
+1503,Torrelodones,40.5762809,-3.928603,16032,Prado Grande,Prado Madrid,1980
+1504,Torrelodones,40.5762809,-3.928603,17114,Iwall Inshop,"Avenida de la Fontanilla, 1",160
+1505,Torrelodones,40.5762809,-3.928603,17114,Amel Suenos Infantiles,"Avenida Fontanilla, s/n",160
+1506,Torrelodones,40.5762809,-3.928603,17114,Lo Más Bárbaro,"Avenida de la Fontanilla, s/n",1103
+1507,Torrelodones,40.5762809,-3.928603,17114,Forum Tlaquepaque,"Avenida de la Fontanilla, s/n",1123
+1508,Torrelodones,40.5762809,-3.928603,17114,Comunidad de Propietarios de Locales C.C. Espacio Torrelodones,"Avenida de la Fontanilla, s/n",1135
+1509,Torrelodones,40.5762809,-3.928603,13065,La Cocina de Antonia,"Plaza de la Constitución, 9",31
+1510,Torrelodones,40.5762809,-3.928603,13065,Cafetería Plaza,"Plaza de la Constitución, 5",35
+1511,Torrelodones,40.5762809,-3.928603,13065,La Bernardina,"Calle Real, 1",37
+1512,Torrelodones,40.5762809,-3.928603,13065,Restaurante la Mascotte,"Calle Real, 5",39
+1513,Torrelodones,40.5762809,-3.928603,13065,Churrería Pastorcito Chocolateria,"Carnicería, 2",50
+1514,Torrelodones,40.5762809,-3.928603,13065,Smile At Life,"Calle Real, 2",59
+1515,Torrelodones,40.5762809,-3.928603,13065,La Cuchara de Madera,"Calle Real, 2",59
+1516,Torrelodones,40.5762809,-3.928603,13065,La Posada,"Real, 4",61
+1517,Torrelodones,40.5762809,-3.928603,13065,El Jardín de la Posada,"Calle Real, 4",61
+1518,Torrelodones,40.5762809,-3.928603,13065,L'Suite,"Calle Juan Van Halen, 22",67
+1519,Torremocha de Jarama,40.8358114,-3.4966866,13065,Asador San Isidro,"Plaza San Isidro, 5",44
+1520,Torres de la Alameda,40.4021516,-3.360625,13065,Mayor Pizzeria,"Ronda Santa Susana, 14",149
+1521,Torres de la Alameda,40.4021516,-3.360625,13065,Restaurante Caminito,"Calle Sauces N, 2",241
+1522,Torres de la Alameda,40.4021516,-3.360625,13065,Pub Velazquez 3 Cafe,"Calle Velázquez N, 3",247
+1523,Torres de la Alameda,40.4021516,-3.360625,13065,La Taberna,"Calle de las Escuelas, 3",281
+1524,Torres de la Alameda,40.4021516,-3.360625,13065,El Pajar del Moral,"P.º los Pozos, 29",291
+1525,Torres de la Alameda,40.4021516,-3.360625,13065,Bar Granada,"Calle Granada, 8",330
+1526,Torres de la Alameda,40.4021516,-3.360625,13065,Delicias,"Calle San Juan, 20",427
+1527,Torres de la Alameda,40.4021516,-3.360625,13065,El Ricon de Odin,"P.º los Pozos, 19",500
+1528,Torres de la Alameda,40.4021516,-3.360625,13065,La Pared,"Madrid, 5",700
+1529,Torres de la Alameda,40.4021516,-3.360625,13065,Los Arcos,"Carretera Alcalá de Henares-Loeches, Km 3,3",715
+1530,Tres Cantos,40.6065826,-3.7065333,16032,Parque Central,28760 Tres Cantos Comunidad de Madrid,244
+1531,Tres Cantos,40.6065826,-3.7065333,16032,Parque Antonio López,28760 Tres Cantos Comunidad de Madrid,542
+1532,Tres Cantos,40.6065826,-3.7065333,16032,Parque Infantil Literatos 1,"Sector de los Literatos, 28",606
+1533,Tres Cantos,40.6065826,-3.7065333,16032,Parque Central Tres Cantos,Tres Cantos Comunidad de Madrid,666
+1534,Tres Cantos,40.6065826,-3.7065333,16032,Bike Park Tres Cantos,Tres Cantos Comunidad de Madrid,676
+1535,Tres Cantos,40.6065826,-3.7065333,16032,Parque infantil del castillo,,722
+1536,Tres Cantos,40.6065826,-3.7065333,16032,Parque Infantil Descubridores 1,,768
+1537,Tres Cantos,40.6065826,-3.7065333,16032,Parque Infantil Pza Constitucion,Tres Cantos Comunidad de Madrid,786
+1538,Tres Cantos,40.6065826,-3.7065333,16032,Palmera Saharaui,"Avda del Parque, 28760 Tres Cantos Comunidad de Madrid",865
+1539,Tres Cantos,40.6065826,-3.7065333,16032,Parque Infantil Artesanos 2,"Artesanos, 64",1009
+1540,Tres Cantos,40.6065826,-3.7065333,17114,Ciudad Tres Cantos,"Avenida de los Labradores, 9-11",820
+1541,Tres Cantos,40.6065826,-3.7065333,17114,Centro Comercial la Rotonda,"Plaza del Toro, s/n",908
+1542,Tres Cantos,40.6065826,-3.7065333,13065,El Ambigú,"Calle del Sector Literatos No, 34",599
+1543,Tres Cantos,40.6065826,-3.7065333,13065,Sarah's Coffee House,"Sector Foresta, 39",660
+1544,Tres Cantos,40.6065826,-3.7065333,13065,Confitería Holguera,"Sector Pueblos, 6",757
+1545,Tres Cantos,40.6065826,-3.7065333,13065,Seña Bar Restaurante,"Sector de los Pueblos, 36-42",770
+1546,Tres Cantos,40.6065826,-3.7065333,13065,La Deliziosa,"Avenida de los Labradores, 9",793
+1547,Tres Cantos,40.6065826,-3.7065333,13065,Pub Escorpio,"Sector Pueblos, 38",801
+1548,Tres Cantos,40.6065826,-3.7065333,13065,Las Gemelas,"Sector Pueblos, 16",807
+1549,Tres Cantos,40.6065826,-3.7065333,13065,El Rincón de Enrique,"Sector Embarcaciones, 35",809
+1550,Tres Cantos,40.6065826,-3.7065333,13065,100 Montaditos,"Avenida de los Labradores, 9-11",809
+1551,Tres Cantos,40.6065826,-3.7065333,13065,La Sartén,"Sector Pueblos, 2",810
+1552,Valdeavero,40.6309749,-3.3329368,13065,Mamma Lucia,"Calle Ancha, 26",1734
+1553,Valdeavero,40.6309749,-3.3329368,13065,Casa Calili,"Ancha, 32",1734
+1554,Valdelaguna,40.1605777,-3.367827,13065,Cervecería los Tintos,"Plaza del Valle de la Laguna, 3",134
+1555,Valdemanco,40.8736636,-3.6636949,13065,La Posada del Grillo,"Plaza Ntra. Sra. del Carmen, 3",141
+1556,Valdemanco,40.8736636,-3.6636949,13065,Obrador Sierra de Madrid,"Baile, 15",234
+1557,Valdemanco,40.8736636,-3.6636949,13065,Restaurante el Cerrillo,"Calle Desvio, 3",472
+1558,Valdemanco,40.8736636,-3.6636949,13065,Hosteleria Martin Cubillo,"Avenida Desvio del, 3",477
+1559,Valdemanco,40.8736636,-3.6636949,13065,Asador Roberto,"Avenida del Desvío, 43",481
+1560,Valdemorillo,40.5016772,-4.0688878,13065,Bar la Plaza,"Plaza Constitución, 5",50
+1561,Valdemorillo,40.5016772,-4.0688878,13065,La Espiga,"Plaza de la Constitución, 13",56
+1562,Valdemorillo,40.5016772,-4.0688878,13065,Casa Manolo,"Fuente, 6",113
+1563,Valdemorillo,40.5016772,-4.0688878,13065,López Barneo J l,"Calle la Nava, 27",124
+1564,Valdemorillo,40.5016772,-4.0688878,13065,La Bodega,"Calle Coches, 5",124
+1565,Valdemorillo,40.5016772,-4.0688878,13065,El Alemán,"Calle de la Fuente, 10",135
+1566,Valdemorillo,40.5016772,-4.0688878,13065,Cervecería Versalles,"Calle de la Fuente, 10",135
+1567,Valdemorillo,40.5016772,-4.0688878,13065,Restaurante Paso Real,"Avenida Plaza de Toros, 1",163
+1568,Valdemorillo,40.5016772,-4.0688878,13065,La Bodeguilla,"Calle la Fuente, 18",164
+1569,Valdemorillo,40.5016772,-4.0688878,13065,Vanessa,"Calle la Nava, 31",170
+1570,Valdemoro,40.1888604,-3.67143,16032,Parque Enrique Tierno Galván,Valdemoro Comunidad de Madrid,487
+1571,Valdemoro,40.1888604,-3.67143,16032,Parque Forestal Cerro del Castillo,28343 Valdemoro Comunidad de Madrid,580
+1572,Valdemoro,40.1888604,-3.67143,16032,Parque Nuestra Señora de Monserrat,"Paseo de la estacion, 28340 Valdemoro Comunidad de Madrid",626
+1573,Valdemoro,40.1888604,-3.67143,16032,Parque de Extremadura,,628
+1574,Valdemoro,40.1888604,-3.67143,16032,Parque Enrique Tierno Galván,Comunidad de Madrid,641
+1575,Valdemoro,40.1888604,-3.67143,16032,Parque Perros Agility,,793
+1576,Valdemoro,40.1888604,-3.67143,16032,Parque Duque de Ahumada,"Calle Libertad Numero, 1",794
+1577,Valdemoro,40.1888604,-3.67143,16032,Parque Infantil Hojarasca,,870
+1578,Valdemoro,40.1888604,-3.67143,16032,Parque de las Sombras,,872
+1579,Valdemoro,40.1888604,-3.67143,16032,Parque de las Víctimas del Terrorismo,28340 Valdemoro Comunidad de Madrid,1002
+1580,Valdemoro,40.1888604,-3.67143,17114,Neal Cash Madrid,"Carretera de Andalucia Autovía A-4, Km 24",408
+1581,Valdemoro,40.1888604,-3.67143,17114,C. C. el reston,"Avenida Mar Mediterraneo, 3",831
+1582,Valdemoro,40.1888604,-3.67143,13065,Salones Lisboa,"Avenida de Andalucia, 5",154
+1583,Valdemoro,40.1888604,-3.67143,13065,La Llave,"Calle Osa Menor, 12",165
+1584,Valdemoro,40.1888604,-3.67143,13065,Restaurante Ventura,"Avenida Andalucía, Nave, 1",167
+1585,Valdemoro,40.1888604,-3.67143,13065,Restaurante Merry City,"Avenida de Andalucia, 11",232
+1586,Valdemoro,40.1888604,-3.67143,13065,El Rancho,"San Martín de la Vega, 8",256
+1587,Valdemoro,40.1888604,-3.67143,13065,El Palacio del Pollo,"Calle Pozo Chico, 28",299
+1588,Valdemoro,40.1888604,-3.67143,13065,Restaurante Casa Jero,"Paseo del Prado, 4",304
+1589,Valdemoro,40.1888604,-3.67143,13065,OM Restaurante Hindú,"Paseo de la Estacion, 10",362
+1590,Valdemoro,40.1888604,-3.67143,13065,Tomato Kebap y Pizza,"Matadero, 2",408
+1591,Valdemoro,40.1888604,-3.67143,13065,La Fontanilla,"Calle Illescas, 2",489
+1592,Valdemoro,40.1888604,-3.67143,11037,Reparaciones y Manutencion,"Carretera Autovía A-4, Km 243",344
+1593,Valdemoro,40.1888604,-3.67143,11037,Maquinas & Maquinas,"Avenida Pocillos Zade Valmor, 4",1936
+1594,Valdeolmos-Alalpardo,40.6385429,-3.4532436,13065,Angel y Marina,"Callejon Jose Antonio, 7",15
+1595,Valdepiélagos,40.7610144,-3.4656251,13065,Cafeteria Jamez,"Calle Cubillo, 11",22
+1596,Valdetorres de Jarama,40.6956481,-3.5146559,13065,Otoño,"Calle Madrid, 74",14
+1597,Valdetorres de Jarama,40.6956481,-3.5146559,13065,American Ribs,"Plaza de José Antonio, 5",92
+1598,Valdetorres de Jarama,40.6956481,-3.5146559,13065,Bar el Catalán,"Soto, 2",130
+1599,Valdetorres de Jarama,40.6956481,-3.5146559,13065,Mesón Valdetorres,"Plaza Constitución, 7",183
+1600,Valdetorres de Jarama,40.6956481,-3.5146559,13065,Kodiak,"Calle Calvario, 2",185
+1601,Valdilecha,40.2926854,-3.3002096,13065,Asador la Ochava,"Calle Mayor, 52",146
+1602,Valdilecha,40.2926854,-3.3002096,13065,Meson Luna,"Astillero, 4",255
+1603,Valdilecha,40.2926854,-3.3002096,13065,Bar-Pizzería la Estación,"Calle Pinar, 10",261
+1604,Valdilecha,40.2926854,-3.3002096,13065,Hermanos Cristobal Gascuena,"Calle de la Cruz, 2",349
+1605,Valverde de Alcalá,40.4180359,-3.2996775,16032,Parque de la Hontanilla,28810 Villalbilla Comunidad de Madrid,1598
+1606,Valverde de Alcalá,40.4180359,-3.2996775,13065,Bar la Solana,"Calle Mayor, 1",143
+1607,Valverde de Alcalá,40.4180359,-3.2996775,13065,La Cabaña del Baztan,"Carretera Valverde de Alcalá, 8",168
+1608,Valverde de Alcalá,40.4180359,-3.2996775,13065,Restaurante Terraza Cruz,"Calle la Plazuela, 9",1590
+1609,Valverde de Alcalá,40.4180359,-3.2996775,13065,Tahona San Antonio,"Calle Plazuela, 12",1594
+1610,Valverde de Alcalá,40.4180359,-3.2996775,13065,Stella Food & Fun,Calle Alcalá 47,1720
+1611,Velilla de San Antonio,40.367166,-3.4874435,13065,Bar el Andaluz,"Plaza de la Constitución, 18",28
+1612,Velilla de San Antonio,40.367166,-3.4874435,13065,La Toscana,"Travesía Rinconada, 4",37
+1613,Velilla de San Antonio,40.367166,-3.4874435,13065,Bar el Retorno del Andaluz,"Plaza de la Constitución, 13",43
+1614,Velilla de San Antonio,40.367166,-3.4874435,13065,Burguer las Palmeras,"Plaza de la Constitución, 18",43
+1615,Velilla de San Antonio,40.367166,-3.4874435,13065,La Granja de Cano,"Calle Mayor, 14",174
+1616,Velilla de San Antonio,40.367166,-3.4874435,13065,Pizzería Mayor,"Calle Republica Dominicana, 11",184
+1617,Velilla de San Antonio,40.367166,-3.4874435,13065,La Bahia de Velilla,"Calle de Doctor Alcorta, 11",211
+1618,Velilla de San Antonio,40.367166,-3.4874435,13065,Los Cachorros,"Plaza Perú, 2",218
+1619,Velilla de San Antonio,40.367166,-3.4874435,13065,Pollo Que Se,"Calle San Sebastian, 10",282
+1620,Velilla de San Antonio,40.367166,-3.4874435,13065,El Porton de Velilla,"Avenida la Ilustración, 62",427
+1621,Velilla de San Antonio,40.367166,-3.4874435,11037,Tomac Alquiler de Maquinaria,"Calle la Viña, Nº 47",426
+1622,El Vellón,40.7677965,-3.5820099,13065,Finca los Olivos,"Pje. Campillo Alto, 13",192
+1623,El Vellón,40.7677965,-3.5820099,13065,La Sidreria,"Magdalena, 48",313
+1624,El Vellón,40.7677965,-3.5820099,13065,El Miura,"Avenida de Madrid, 51",1637
+1625,El Vellón,40.7677965,-3.5820099,13065,Los Nuevos Hornos,"Carretera Nacional I, Km 45",1991
+1626,Venturada,40.7985257,-3.6207369,13065,Ventura & Jones,"Calle del Parador, 15",27
+1627,Venturada,40.7985257,-3.6207369,13065,Ribeiriño,"Parador, 2",125
+1628,Venturada,40.7985257,-3.6207369,13065,Restaurante Genova,"Calle Puerto de Despeñaperros, s/n",1603
+1629,Venturada,40.7985257,-3.6207369,13065,El Coto,"Calle Melquiades Biencinto, 13",1875
+1630,Villaconejos,40.1040079,-3.4850284,13065,"Sanchez Pacheco, a","Plaza Mayor, 12",23
+1631,Villaconejos,40.1040079,-3.4850284,13065,La Cueva del Monje,"Calle Emilio de la Tía Fidela, 4",66
+1632,Villaconejos,40.1040079,-3.4850284,13065,Taberna el Coso,"Calle Iglesia, 15",118
+1633,Villaconejos,40.1040079,-3.4850284,13065,La Cueva del Monje,"Calle Emilio de la Tía Fidela, 4",127
+1634,Villaconejos,40.1040079,-3.4850284,13065,Restaurante la Farola,"Carretera de Chinchón, 25",164
+1635,Villa del Prado,40.2764752,-4.3048032,13065,La Favorita,"Plaza Mayor, 10",114
+1636,Villa del Prado,40.2764752,-4.3048032,13065,Mesón Restaurante el Molino,"Avenida del Generalísimo, 66",387
+1637,Villa del Prado,40.2764752,-4.3048032,13065,El Extremeño,"Avenida del Generalisimo, 78",454
+1638,Villa del Prado,40.2764752,-4.3048032,13065,Restaurante Zaranda,"Calle Jose Miguel del Castillo, 22",492
+1639,Villalbilla,40.4323665,-3.2987815,16032,Parque de la Hontanilla,28810 Villalbilla Comunidad de Madrid,321
+1640,Villalbilla,40.4323665,-3.2987815,13065,Tahona San Antonio,"Calle Plazuela, 12",67
+1641,Villalbilla,40.4323665,-3.2987815,13065,Restaurante Terraza Cruz,"Calle la Plazuela, 9",87
+1642,Villalbilla,40.4323665,-3.2987815,13065,Stella Food & Fun,Calle Alcalá 47,264
+1643,Villalbilla,40.4323665,-3.2987815,13065,La Cabaña del Baztan,"Carretera Valverde de Alcalá, 8",1425
+1644,Villalbilla,40.4323665,-3.2987815,13065,Bar la Solana,"Calle Mayor, 1",1465
+1645,Villamanrique de Tajo,40.0686973,-3.240078,16032,Parque Fluvial Villamanrique de Tajo,28598 Villamanrique de Tajo Comunidad de Madrid,327
+1646,Villamanta,40.2990939,-4.1090399,13065,Bar Pepe,"Avenida del Generalisimo, 10",114
+1647,Villamanta,40.2990939,-4.1090399,13065,Restaurante Casa Judas,"Avenida del Generalisimo, 13",116
+1648,Villamantilla,40.3421033,-4.1300303,13065,Casa las Meigas,"Plaza España, 9",511
+1649,Villamantilla,40.3421033,-4.1300303,13065,La Cueva de Villamantilla,"Paseo de San Antonio, s/n",606
+1650,Villanueva de la Cañada,40.4472106,-4.002795,16032,Arevalo's Park,Arévalo,577
+1651,Villanueva de la Cañada,40.4472106,-4.002795,16032,Pinar de la Cañada,Cañada,739
+1652,Villanueva de la Cañada,40.4472106,-4.002795,16032,El Parque del Verano,28691 Villanueva de la Cañada Comunidad de Madrid,789
+1653,Villanueva de la Cañada,40.4472106,-4.002795,16032,Parque Infantil Avda Metepec,Avenida Metepec 2B,803
+1654,Villanueva de la Cañada,40.4472106,-4.002795,16032,Parque del Heiser,,857
+1655,Villanueva de la Cañada,40.4472106,-4.002795,16032,Parque Infantil,"Avenida De Castilla yLeón, 28691 Villanueva de la Cañada Comunidad de Madrid",1280
+1656,Villanueva de la Cañada,40.4472106,-4.002795,13065,Vel Vet Café-Lounge,"Calle Cristo, 14",48
+1657,Villanueva de la Cañada,40.4472106,-4.002795,13065,Arrocería Marisquería Ruivo,"Calle Cristo, 11",56
+1658,Villanueva de la Cañada,40.4472106,-4.002795,13065,Pentu,"Calle del Molino, 1",90
+1659,Villanueva de la Cañada,40.4472106,-4.002795,13065,Vaca Lucia,"Plaza la Plazuela, 2",94
+1660,Villanueva de la Cañada,40.4472106,-4.002795,13065,Casa Faustino,"Plazuela, 1",94
+1661,Villanueva de la Cañada,40.4472106,-4.002795,13065,Burger King,"Molino, 5",145
+1662,Villanueva de la Cañada,40.4472106,-4.002795,13065,Cervecería Real,"Calle Estrella, 1",149
+1663,Villanueva de la Cañada,40.4472106,-4.002795,13065,La Hermandad,"Calle Barrancas, 5",162
+1664,Villanueva de la Cañada,40.4472106,-4.002795,13065,Kebabish villanueva,"Calle del Real, 2",164
+1665,Villanueva de la Cañada,40.4472106,-4.002795,13065,El Hormiguero,"Barrancas, 1",164
+1666,Villanueva del Pardillo,40.4949232,-3.9600065,16032,Fiestas de Villanueva del Pardillo,,337
+1667,Villanueva del Pardillo,40.4949232,-3.9600065,16032,Ocio Infantil,"Gral. Mola, 13",582
+1668,Villanueva del Pardillo,40.4949232,-3.9600065,16032,Parque de al Lado del Rio,Comunidad de Madrid,596
+1669,Villanueva del Pardillo,40.4949232,-3.9600065,16032,Parque Antonio Machado,Villanueva del Pardillo Comunidad de Madrid,599
+1670,Villanueva del Pardillo,40.4949232,-3.9600065,16032,Parque del Reloj,"Avda. De Madrid, Villanueva del Pardillo Comunidad de Madrid",695
+1671,Villanueva del Pardillo,40.4949232,-3.9600065,16032,Parque de la Tirolina,28229 Villanueva del Pardillo Comunidad de Madrid,1339
+1672,Villanueva del Pardillo,40.4949232,-3.9600065,13065,D'Tapas,Avenida Juan Carlos I Nº3,194
+1673,Villanueva del Pardillo,40.4949232,-3.9600065,13065,Mis Delicias,"Avenida Juan Carlos I, 66",217
+1674,Villanueva del Pardillo,40.4949232,-3.9600065,13065,Bravopalacios,"Calle Aladierna, s/n",361
+1675,Villanueva del Pardillo,40.4949232,-3.9600065,13065,Taberna Vaca Lucía,"Avenida Juan Carlos I, 5",382
+1676,Villanueva del Pardillo,40.4949232,-3.9600065,13065,La Historia,"Calle Míster Lodge, 21",396
+1677,Villanueva del Pardillo,40.4949232,-3.9600065,13065,Telepizza,"Aladierna, s/n",425
+1678,Villanueva del Pardillo,40.4949232,-3.9600065,13065,La Cepa,"Avenida Juan Carlos I, 15",440
+1679,Villanueva del Pardillo,40.4949232,-3.9600065,13065,Soho Wok & Grill,"Calle Jaral, 1",457
+1680,Villanueva del Pardillo,40.4949232,-3.9600065,13065,Bar Restaurante la Espuma,"Calle Benjamin, 2",488
+1681,Villanueva del Pardillo,40.4949232,-3.9600065,13065,La Fragua,"Calle Concepcion, 29",517
+1682,Villanueva de Perales,40.3466066,-4.1012616,13065,Restaurante el Asador Avileño,"San Antonio, 21",131
+1683,Villarejo de Salvanés,40.1683582,-3.2738764,16032,Parque Infantil,"c/ Viso, 28590 Villarejo de Salvanés Comunidad de Madrid",526
+1684,Villarejo de Salvanés,40.1683582,-3.2738764,13065,Mesón la Tercia,"Calle de las Tres Cruces, 2",45
+1685,Villarejo de Salvanés,40.1683582,-3.2738764,13065,El Dorado,"Iglesia, 9",63
+1686,Villarejo de Salvanés,40.1683582,-3.2738764,13065,Cerveceria el Torreón,"Calle de la Iglesia, 5",86
+1687,Villarejo de Salvanés,40.1683582,-3.2738764,13065,Martinez Garcia Sergio,"Calle Mayor, 39",155
+1688,Villarejo de Salvanés,40.1683582,-3.2738764,13065,Restaurante Chino Lan,"Calle Jabonería, 1",174
+1689,Villarejo de Salvanés,40.1683582,-3.2738764,13065,Asador Juan de Austria,"Encomienda, 66",179
+1690,Villarejo de Salvanés,40.1683582,-3.2738764,13065,Casa Pichi,"Calle de Lepanto, 9",194
+1691,Villarejo de Salvanés,40.1683582,-3.2738764,13065,La Pesquera Villarejo,"Convento, 1",204
+1692,Villarejo de Salvanés,40.1683582,-3.2738764,13065,El Rincón de Higuerlop,"Victoria de Lepanto, 2",215
+1693,Villarejo de Salvanés,40.1683582,-3.2738764,13065,La Romana,"Calle de la Victoria, 4",222
+1694,Villaviciosa de Odón,40.3573787,-3.9002334,16032,Parque de las Margaritas,,350
+1695,Villaviciosa de Odón,40.3573787,-3.9002334,16032,Pinar del Castillo,Pinar,422
+1696,Villaviciosa de Odón,40.3573787,-3.9002334,16032,Parque Vicente Ferrer,,710
+1697,Villaviciosa de Odón,40.3573787,-3.9002334,16032,Parque Antonio Machado,28670 Villaviciosa de Odón Comunidad de Madrid,792
+1698,Villaviciosa de Odón,40.3573787,-3.9002334,16032,Parque Vaillo,Villaviciosa de Odón Comunidad de Madrid,836
+1699,Villaviciosa de Odón,40.3573787,-3.9002334,16032,Matadero de Villaviciosa CQB ARISOFT,28670 Villaviciosa de Odón Comunidad de Madrid,1043
+1700,Villaviciosa de Odón,40.3573787,-3.9002334,16032,Parque del Castillo,"Avenida del Castillo, 28670 Villaviciosa de Odón Comunidad de Madrid",1626
+1701,Villaviciosa de Odón,40.3573787,-3.9002334,16032,Mi Mundo,"Avenida de las Nieves, 35",1747
+1702,Villaviciosa de Odón,40.3573787,-3.9002334,13065,Mar de Odón,"Calle Nueva, 15",41
+1703,Villaviciosa de Odón,40.3573787,-3.9002334,13065,Gambrinus,"Calle Nueva, 18",51
+1704,Villaviciosa de Odón,40.3573787,-3.9002334,13065,Khopa,"Calle Nueva, 20",53
+1705,Villaviciosa de Odón,40.3573787,-3.9002334,13065,Makitake,"Calle Carretas, 38",84
+1706,Villaviciosa de Odón,40.3573787,-3.9002334,13065,Detapas,"Calle Eras, 62",96
+1707,Villaviciosa de Odón,40.3573787,-3.9002334,13065,Mama Manuela,"Calle Carretas, 9",98
+1708,Villaviciosa de Odón,40.3573787,-3.9002334,13065,Del Puente,"Calle Puente, 4",142
+1709,Villaviciosa de Odón,40.3573787,-3.9002334,13065,El Obrador,"Calle López Polín, 1",146
+1710,Villaviciosa de Odón,40.3573787,-3.9002334,13065,El Atico de Villa,"Avenida Gutiérrez Mellado, 1",170
+1711,Villaviciosa de Odón,40.3573787,-3.9002334,13065,El Rondon de Alex,"Calle Carretas, 17",185
+1712,Villaviciosa de Odón,40.3573787,-3.9002334,11037,Lopez Panadero,"Camino de la Zarzuela, 10",53
+1713,Villavieja del Lozoya,41.0063622,-3.6716291,13065,El Arco,"Arco, 6",73
+1714,Zarzalejo,40.5483016,-4.1815899,16032,Pinar Zarzalejo,Pinar,1577
+1715,Zarzalejo,40.5483016,-4.1815899,16032,Parque Pedro Rodríguez-Ponga,"Avenida de la Estación, 45",1803
+1716,Zarzalejo,40.5483016,-4.1815899,13065,Restaurante la Posada,"Plaza Constitución, 2",103
+1717,Zarzalejo,40.5483016,-4.1815899,13065,Coté Café,"Calle del Venero, 6",162
+1718,Zarzalejo,40.5483016,-4.1815899,13065,Asador Cruz Verde,"Carretera Madrid-Ávila, Km 36",1426
+1719,Zarzalejo,40.5483016,-4.1815899,13065,La Higuera,"Avenida de la Estación, 106",1435
+1720,Zarzalejo,40.5483016,-4.1815899,13065,El Roble,"Plaza del Llano del Soldado, 9",1782
+1721,Zarzalejo,40.5483016,-4.1815899,13065,Hotel Duque,"Avenida de la Estacion, 65",1831
